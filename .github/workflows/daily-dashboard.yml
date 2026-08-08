@@ -1,0 +1,51 @@
+name: Daily Book Dashboard
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh dashboard data
+        env:
+          RSSHUB_BASE_URL: ${{ vars.RSSHUB_BASE_URL }}
+          PYTHONPATH: src
+        run: python -m new_book_alert --skip-notify --dashboard docs/books.json
+
+      - name: Commit dashboard data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Refresh daily book dashboard"
+          file_pattern: docs/books.json
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

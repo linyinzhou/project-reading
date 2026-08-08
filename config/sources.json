@@ -1,0 +1,100 @@
+{
+  "sources": [
+    {
+      "name": "RSSHub Douban Latest Books",
+      "type": "rss",
+      "url": "https://rsshub.app/douban/book/latest",
+      "enabled": true
+    },
+    {
+      "name": "RSSHub Douban Bookstore",
+      "type": "rss",
+      "url": "https://rsshub.app/douban/bookstore",
+      "enabled": true
+    },
+    {
+      "name": "RSSHub Douban Fiction Chart",
+      "type": "rss",
+      "url": "https://rsshub.app/douban/book/rank/fiction",
+      "enabled": true
+    },
+    {
+      "name": "RSSHub Douban Nonfiction Chart",
+      "type": "rss",
+      "url": "https://rsshub.app/douban/book/rank/nonfiction",
+      "enabled": true
+    },
+    {
+      "name": "RSSHub Books.com.tw New Releases",
+      "type": "rss",
+      "url": "https://rsshub.app/books/new",
+      "enabled": true
+    },
+    {
+      "name": "Yueke Douban New Books",
+      "type": "rss",
+      "url": "https://yueke.ababtools.com/",
+      "enabled": false
+    },
+    {
+      "name": "Yueke Douban New Books JSON",
+      "type": "json",
+      "url": "https://yueke.ababtools.com/api/books",
+      "enabled": false,
+      "items_path": "data",
+      "fields": {
+        "title": "title",
+        "link": "url",
+        "author": "author",
+        "published": "pubdate",
+        "summary": "summary"
+      }
+    }
+  ],
+  "include_keywords": [
+    "历史",
+    "文化",
+    "文明",
+    "艺术",
+    "考古",
+    "博物馆",
+    "传记",
+    "文学",
+    "小说",
+    "经典",
+    "名家",
+    "世界史",
+    "中国史",
+    "欧洲",
+    "意大利",
+    "人类学",
+    "社会学",
+    "哲学",
+    "余华",
+    "莫言",
+    "王小波",
+    "阿来",
+    "刘震云",
+    "格非",
+    "双雪涛",
+    "村上春树",
+    "卡尔维诺",
+    "博尔赫斯",
+    "翁贝托·埃科"
+  ],
+  "exclude_keywords": [
+    "教材",
+    "教辅",
+    "考试",
+    "真题",
+    "题库",
+    "儿童",
+    "少儿",
+    "绘本",
+    "漫画",
+    "养生",
+    "投资理财"
+  ],
+  "max_items_per_digest": 12,
+  "request_timeout_seconds": 20
+}

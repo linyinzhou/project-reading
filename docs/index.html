@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>每日新书雷达</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f7f5ef;
+        --panel: #ffffff;
+        --ink: #202124;
+        --muted: #6b665c;
+        --line: #ded8cb;
+        --accent: #28666e;
+        --accent-2: #b24c36;
+        --soft: #e7f0ef;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--ink);
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+      }
+
+      header {
+        border-bottom: 1px solid var(--line);
+        background: var(--panel);
+      }
+
+      .wrap {
+        width: min(1120px, calc(100% - 32px));
+        margin: 0 auto;
+      }
+
+      .top {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        gap: 24px;
+        align-items: end;
+        padding: 28px 0 22px;
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: 28px;
+        line-height: 1.2;
+      }
+
+      .subtitle,
+      .meta,
+      .empty,
+      .error-list {
+        color: var(--muted);
+      }
+
+      .stats {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+      }
+
+      .stat {
+        min-width: 108px;
+        border: 1px solid var(--line);
+        background: var(--soft);
+        padding: 10px 12px;
+        border-radius: 8px;
+      }
+
+      .stat strong {
+        display: block;
+        font-size: 22px;
+      }
+
+      main {
+        padding: 24px 0 40px;
+      }
+
+      .toolbar {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        margin-bottom: 18px;
+      }
+
+      input {
+        width: min(420px, 100%);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 10px 12px;
+        font: inherit;
+        background: var(--panel);
+      }
+
+      .book-list {
+        display: grid;
+        gap: 12px;
+      }
+
+      .book {
+        display: grid;
+        gap: 8px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 16px;
+        background: var(--panel);
+      }
+
+      .book h2 {
+        margin: 0;
+        font-size: 19px;
+        line-height: 1.35;
+      }
+
+      .book a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      .book a:hover {
+        text-decoration: underline;
+      }
+
+      .summary {
+        margin: 0;
+        color: #343434;
+        line-height: 1.7;
+      }
+
+      .source {
+        display: inline-flex;
+        width: fit-content;
+        border-radius: 999px;
+        padding: 3px 9px;
+        background: #f4e7df;
+        color: var(--accent-2);
+        font-size: 13px;
+      }
+
+      .error-list {
+        margin-top: 22px;
+        border-top: 1px solid var(--line);
+        padding-top: 16px;
+        font-size: 14px;
+      }
+
+      @media (max-width: 720px) {
+        .top {
+          grid-template-columns: 1fr;
+        }
+
+        .stats {
+          justify-content: flex-start;
+        }
+
+        .toolbar {
+          display: block;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="wrap top">
+        <div>
+          <h1>每日新书雷达</h1>
+          <div class="subtitle">历史、文化、小说与名家新作，每天早上自动刷新。</div>
+          <div class="meta" id="updated">读取中...</div>
+        </div>
+        <div class="stats">
+          <div class="stat"><strong id="book-count">0</strong><span>展示书目</span></div>
+          <div class="stat"><strong id="matched-count">0</strong><span>匹配结果</span></div>
+          <div class="stat"><strong id="fetched-count">0</strong><span>抓取条目</span></div>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <div class="toolbar">
+        <input id="search" type="search" placeholder="按书名、摘要、来源搜索" />
+      </div>
+      <section class="book-list" id="book-list"></section>
+      <section class="error-list" id="errors"></section>
+    </main>
+
+    <script>
+      const state = { books: [] };
+
+      function formatDate(value) {
+        if (!value) return "尚未生成数据";
+        return new Intl.DateTimeFormat("zh-CN", {
+          dateStyle: "medium",
+          timeStyle: "short",
+          timeZone: "Asia/Shanghai",
+        }).format(new Date(value));
+      }
+
+      function bookText(book) {
+        return [book.title, book.author, book.summary, book.source].join(" ").toLowerCase();
+      }
+
+      function renderBooks() {
+        const list = document.querySelector("#book-list");
+        const query = document.querySelector("#search").value.trim().toLowerCase();
+        const books = query ? state.books.filter((book) => bookText(book).includes(query)) : state.books;
+
+        if (!books.length) {
+          list.innerHTML = '<div class="empty">今天还没有匹配到新书，或者数据源暂时不可用。</div>';
+          return;
+        }
+
+        list.innerHTML = books
+          .map((book) => {
+            const title = book.link
+              ? `<a href="${book.link}" target="_blank" rel="noreferrer">${book.title || "Untitled"}</a>`
+              : book.title || "Untitled";
+            const details = [book.author && `作者：${book.author}`, book.published && `时间：${book.published}`]
+              .filter(Boolean)
+              .join("；");
+            return `<article class="book">
+              <h2>${title}</h2>
+              ${details ? `<div class="meta">${details}</div>` : ""}
+              ${book.summary ? `<p class="summary">${book.summary}</p>` : ""}
+              <span class="source">${book.source || "Unknown source"}</span>
+            </article>`;
+          })
+          .join("");
+      }
+
+      function renderErrors(errors) {
+        const box = document.querySelector("#errors");
+        if (!errors || !errors.length) {
+          box.innerHTML = "";
+          return;
+        }
+        box.innerHTML = `<strong>数据源提醒</strong><ul>${errors.map((error) => `<li>${error}</li>`).join("")}</ul>`;
+      }
+
+      async function init() {
+        try {
+          const response = await fetch("books.json", { cache: "no-store" });
+          const data = await response.json();
+          state.books = data.books || [];
+          document.querySelector("#updated").textContent = `刷新时间：${formatDate(data.generated_at)}`;
+          document.querySelector("#book-count").textContent = state.books.length;
+          document.querySelector("#matched-count").textContent = data.matched_count || 0;
+          document.querySelector("#fetched-count").textContent = data.fetched_count || 0;
+          renderBooks();
+          renderErrors(data.source_errors);
+        } catch (error) {
+          document.querySelector("#updated").textContent = "数据读取失败";
+          document.querySelector("#book-list").innerHTML = '<div class="empty">暂时无法读取 books.json。</div>';
+        }
+      }
+
+      document.querySelector("#search").addEventListener("input", renderBooks);
+      init();
+    </script>
+  </body>
+</html>

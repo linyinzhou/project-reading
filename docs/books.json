@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-08-08T18:08:20+08:00",
+  "timezone": "Asia/Shanghai",
+  "fetched_count": 0,
+  "matched_count": 0,
+  "source_errors": [
+    "RSSHub Douban Latest Books: HTTP Error 403: Forbidden",
+    "RSSHub Douban Bookstore: HTTP Error 403: Forbidden",
+    "RSSHub Douban Fiction Chart: HTTP Error 403: Forbidden",
+    "RSSHub Douban Nonfiction Chart: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "RSSHub Books.com.tw New Releases: HTTP Error 403: Forbidden"
+  ],
+  "books": []
+}

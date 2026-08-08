@@ -1,0 +1,12 @@
+[project]
+name = "project-reading"
+version = "0.1.0"
+description = "Daily new-book discovery and WeChat notification."
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+new-book-alert = "new_book_alert.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
