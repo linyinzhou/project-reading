@@ -8,7 +8,9 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 from html import unescape
+from html.parser import HTMLParser
 from typing import Any
+from urllib.parse import urljoin
 
 from .config import Source, get_nested
 
@@ -25,21 +27,34 @@ class BookItem:
 
 
 def fetch_source(source: Source, timeout: int) -> list[BookItem]:
-    body = _download(source.url, timeout)
+    body = _download(source.url, timeout, source.type)
     if source.type.lower() in {"rss", "atom", "xml"}:
         return _parse_feed(body, source)
     if source.type.lower() == "json":
         return _parse_json(body, source)
+    if source.type.lower() == "douban_latest":
+        return _parse_douban_latest(body, source)
     raise ValueError(f"Unsupported source type: {source.type}")
 
 
-def _download(url: str, timeout: int) -> bytes:
+def _download(url: str, timeout: int, source_type: str = "") -> bytes:
     url = _apply_rsshub_base(url)
+    headers = {
+        "User-Agent": "project-reading/0.1 (+https://github.com/linyinzhou/project-reading)"
+    }
+    if source_type.lower() == "douban_latest":
+        headers.update(
+            {
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 Chrome/127.0 Safari/537.36"
+                ),
+                "Referer": "https://book.douban.com/",
+            }
+        )
     request = urllib.request.Request(
         url,
-        headers={
-            "User-Agent": "project-reading/0.1 (+https://github.com/linyinzhou/project-reading)"
-        },
+        headers=headers,
     )
     with urllib.request.urlopen(request, timeout=timeout) as response:
         return response.read()
@@ -103,11 +118,11 @@ def _parse_json(body: bytes, source: Source) -> list[BookItem]:
 
 
 def _json_item_to_book(item: dict[str, Any], source: Source, fields: dict[str, str]) -> BookItem:
-    title = _clean_text(str(get_nested(item, fields.get("title", "title")) or ""))
-    link = _clean_text(str(get_nested(item, fields.get("link", "link")) or ""))
-    author = _clean_text(str(get_nested(item, fields.get("author", "author")) or ""))
-    published = _clean_text(str(get_nested(item, fields.get("published", "published")) or ""))
-    summary = _clean_text(str(get_nested(item, fields.get("summary", "summary")) or ""))
+    title = _clean_value(get_nested(item, fields.get("title", "title")))
+    link = _clean_value(get_nested(item, fields.get("link", "link")))
+    author = _clean_value(get_nested(item, fields.get("author", "author")))
+    published = _clean_value(get_nested(item, fields.get("published", "published")))
+    summary = _clean_value(get_nested(item, fields.get("summary", "summary")))
 
     return BookItem(
         id=_stable_id(title, link, source.name),
@@ -118,6 +133,90 @@ def _json_item_to_book(item: dict[str, Any], source: Source, fields: dict[str, s
         published=published,
         summary=summary,
     )
+
+
+class _DoubanLatestParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.items: list[dict[str, str]] = []
+        self.current: dict[str, str] | None = None
+        self.in_heading = False
+        self.in_title_link = False
+        self.in_abstract = False
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attributes = dict(attrs)
+        classes = set((attributes.get("class") or "").split())
+
+        if tag == "li" and {"media", "clearfix"}.issubset(classes):
+            self.current = {"title": "", "link": "", "abstract": ""}
+        elif self.current is not None and tag == "h2":
+            self.in_heading = True
+        elif self.current is not None and tag == "a" and self.in_heading:
+            href = attributes.get("href") or ""
+            if "/subject/" in href:
+                self.current["link"] = href
+                self.in_title_link = True
+        elif self.current is not None and tag == "p" and "subject-abstract" in classes:
+            self.in_abstract = True
+
+    def handle_data(self, data: str) -> None:
+        if self.current is None:
+            return
+        if self.in_title_link:
+            self.current["title"] += data
+        elif self.in_abstract:
+            self.current["abstract"] += data
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag == "a":
+            self.in_title_link = False
+        elif tag == "h2":
+            self.in_heading = False
+        elif tag == "p":
+            self.in_abstract = False
+        elif tag == "li" and self.current is not None:
+            if self.current["title"] and self.current["link"]:
+                self.items.append(self.current)
+            self.current = None
+
+
+def _parse_douban_latest(body: bytes, source: Source) -> list[BookItem]:
+    parser = _DoubanLatestParser()
+    parser.feed(body.decode("utf-8"))
+
+    books: list[BookItem] = []
+    for item in parser.items:
+        title = _clean_text(item["title"])
+        link = urljoin(source.url, _clean_text(item["link"]))
+        author, published, summary = _parse_douban_abstract(item["abstract"])
+        books.append(
+            BookItem(
+                id=_stable_id(title, link, source.name),
+                title=title,
+                link=link,
+                source=source.name,
+                author=author,
+                published=published,
+                summary=summary,
+            )
+        )
+    return books
+
+
+def _parse_douban_abstract(value: str) -> tuple[str, str, str]:
+    parts = [_clean_text(part) for part in value.split("/") if _clean_text(part)]
+    date_index = next(
+        (index for index, part in enumerate(parts) if re.fullmatch(r"\d{4}(?:-\d{1,2}){0,2}", part)),
+        None,
+    )
+    if date_index is None:
+        return " / ".join(parts), "", ""
+
+    author = " / ".join(parts[:date_index])
+    published = parts[date_index]
+    summary = " / ".join(parts[date_index + 1 :])
+    return author, published, summary
 
 
 def _find_text(item: ET.Element, names: list[str]) -> str:
@@ -145,6 +244,13 @@ def _clean_text(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip()
 
 
+def _clean_value(value: Any) -> str:
+    if isinstance(value, list):
+        return _clean_text(" / ".join(str(item) for item in value if item is not None))
+    return _clean_text(str(value or ""))
+
+
 def _stable_id(title: str, link: str, source_name: str) -> str:
-    raw = "|".join([source_name, link, title]).encode("utf-8")
+    del source_name
+    raw = "|".join([link, title]).encode("utf-8")
     return hashlib.sha256(raw).hexdigest()[:16]

@@ -85,31 +85,29 @@
         padding: 24px 0 40px;
       }
 
-      .toolbar {
+      .period + .period {
+        margin-top: 32px;
+      }
+
+      .period-heading {
         display: flex;
-        gap: 10px;
-        align-items: center;
-        margin-bottom: 18px;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 16px;
+        margin-bottom: 12px;
+        border-bottom: 1px solid var(--line);
+        padding-bottom: 10px;
       }
 
-      input {
-        width: min(420px, 100%);
-        border: 1px solid var(--line);
-        border-radius: 8px;
-        padding: 10px 12px;
-        font: inherit;
-        background: var(--panel);
-        color: var(--ink);
+      .period-heading h2 {
+        margin: 0;
+        font-size: 18px;
+        line-height: 1.3;
       }
 
-      input::placeholder {
+      .period-count {
         color: var(--muted);
-      }
-
-      input:focus {
-        border-color: var(--accent);
-        outline: 2px solid color-mix(in srgb, var(--accent) 28%, transparent);
-        outline-offset: 1px;
+        font-size: 14px;
       }
 
       .book-list {
@@ -173,9 +171,6 @@
           justify-content: flex-start;
         }
 
-        .toolbar {
-          display: block;
-        }
       }
     </style>
   </head>
@@ -187,24 +182,32 @@
           <div class="meta" id="updated">读取中...</div>
         </div>
         <div class="stats">
-          <div class="stat"><strong id="book-count">0</strong><span>展示书目</span></div>
-          <div class="stat"><strong id="matched-count">0</strong><span>匹配结果</span></div>
+          <div class="stat"><strong id="today-count">0</strong><span>今天发现</span></div>
+          <div class="stat"><strong id="week-count">0</strong><span>近 7 天</span></div>
           <div class="stat"><strong id="fetched-count">0</strong><span>抓取条目</span></div>
         </div>
       </div>
     </header>
 
     <main class="wrap">
-      <div class="toolbar">
-        <input id="search" type="search" placeholder="按书名、摘要、来源搜索" />
-      </div>
-      <section class="book-list" id="book-list"></section>
+      <section class="period">
+        <div class="period-heading">
+          <h2>今天</h2>
+          <span class="period-count" id="today-label">0 本</span>
+        </div>
+        <div class="book-list" id="today-list"></div>
+      </section>
+      <section class="period">
+        <div class="period-heading">
+          <h2>过去 6 天</h2>
+          <span class="period-count" id="week-label">0 本</span>
+        </div>
+        <div class="book-list" id="week-list"></div>
+      </section>
       <section class="error-list" id="errors"></section>
     </main>
 
     <script>
-      const state = { books: [] };
-
       function formatDate(value) {
         if (!value) return "尚未生成数据";
         return new Intl.DateTimeFormat("zh-CN", {
@@ -214,36 +217,62 @@
         }).format(new Date(value));
       }
 
-      function bookText(book) {
-        return [book.title, book.author, book.summary, book.source].join(" ").toLowerCase();
+      function escapeHtml(value) {
+        return String(value ?? "").replace(
+          /[&<>"']/g,
+          (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[character],
+        );
       }
 
-      function renderBooks() {
-        const list = document.querySelector("#book-list");
-        const query = document.querySelector("#search").value.trim().toLowerCase();
-        const books = query ? state.books.filter((book) => bookText(book).includes(query)) : state.books;
-
+      function renderBookList(selector, books, emptyMessage) {
+        const list = document.querySelector(selector);
         if (!books.length) {
-          list.innerHTML = '<div class="empty">今天还没有匹配到新书，或者数据源暂时不可用。</div>';
+          list.innerHTML = `<div class="empty">${escapeHtml(emptyMessage)}</div>`;
           return;
         }
 
         list.innerHTML = books
           .map((book) => {
+            const bookTitle = escapeHtml(book.title || "Untitled");
             const title = book.link
-              ? `<a href="${book.link}" target="_blank" rel="noreferrer">${book.title || "Untitled"}</a>`
-              : book.title || "Untitled";
-            const details = [book.author && `作者：${book.author}`, book.published && `时间：${book.published}`]
+              ? `<a href="${escapeHtml(book.link)}" target="_blank" rel="noreferrer">${bookTitle}</a>`
+              : bookTitle;
+            const details = [book.author && `作者：${escapeHtml(book.author)}`, book.published && `出版：${escapeHtml(book.published)}`]
               .filter(Boolean)
               .join("；");
             return `<article class="book">
               <h2>${title}</h2>
               ${details ? `<div class="meta">${details}</div>` : ""}
-              ${book.summary ? `<p class="summary">${book.summary}</p>` : ""}
-              <span class="source">${book.source || "Unknown source"}</span>
+              ${book.summary ? `<p class="summary">${escapeHtml(book.summary)}</p>` : ""}
+              <span class="source">${escapeHtml(book.source || "Unknown source")}</span>
             </article>`;
           })
           .join("");
+      }
+
+      function shanghaiDay(value) {
+        const parts = new Intl.DateTimeFormat("en", {
+          year: "numeric",
+          month: "numeric",
+          day: "numeric",
+          timeZone: "Asia/Shanghai",
+        }).formatToParts(new Date(value));
+        const values = Object.fromEntries(parts.map((part) => [part.type, Number(part.value)]));
+        return Date.UTC(values.year, values.month - 1, values.day);
+      }
+
+      function groupBooks(books, generatedAt) {
+        const referenceDay = shanghaiDay(generatedAt || new Date());
+        const today = [];
+        const week = [];
+
+        for (const book of books) {
+          const discoveredDay = shanghaiDay(book.discovered_at || generatedAt);
+          const ageInDays = Math.round((referenceDay - discoveredDay) / 86400000);
+          if (ageInDays === 0) today.push(book);
+          else if (ageInDays > 0 && ageInDays <= 6) week.push(book);
+        }
+        return { today, week };
       }
 
       function renderErrors(errors) {
@@ -259,20 +288,26 @@
         try {
           const response = await fetch("books.json", { cache: "no-store" });
           const data = await response.json();
-          state.books = data.books || [];
+          const grouped = groupBooks(data.books || [], data.generated_at);
+          const sourceUnavailable = !data.fetched_count && data.source_errors?.length;
+          const todayEmpty = sourceUnavailable
+            ? "数据源暂时不可用，无法判断今天是否有新书。"
+            : "今天暂未发现符合关注方向的新书。";
           document.querySelector("#updated").textContent = `刷新时间：${formatDate(data.generated_at)}`;
-          document.querySelector("#book-count").textContent = state.books.length;
-          document.querySelector("#matched-count").textContent = data.matched_count || 0;
+          document.querySelector("#today-count").textContent = grouped.today.length;
+          document.querySelector("#week-count").textContent = grouped.today.length + grouped.week.length;
           document.querySelector("#fetched-count").textContent = data.fetched_count || 0;
-          renderBooks();
+          document.querySelector("#today-label").textContent = `${grouped.today.length} 本`;
+          document.querySelector("#week-label").textContent = `${grouped.week.length} 本`;
+          renderBookList("#today-list", grouped.today, todayEmpty);
+          renderBookList("#week-list", grouped.week, "此前 6 天暂未发现符合关注方向的新书。");
           renderErrors(data.source_errors);
         } catch (error) {
           document.querySelector("#updated").textContent = "数据读取失败";
-          document.querySelector("#book-list").innerHTML = '<div class="empty">暂时无法读取 books.json。</div>';
+          document.querySelector("#today-list").innerHTML = '<div class="empty">暂时无法读取 books.json。</div>';
         }
       }
 
-      document.querySelector("#search").addEventListener("input", renderBooks);
       init();
     </script>
   </body>

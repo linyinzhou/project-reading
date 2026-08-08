@@ -4,27 +4,24 @@ Daily new-book discovery dashboard for history, culture, fiction, and notable au
 
 ## What It Does
 
-- Fetches new-book feeds from configured sources.
+- Fetches new-book listings from configured sources.
 - Filters books by preferred topics and excluded keywords.
 - Deduplicates items that were already sent.
+- Keeps a rolling seven-day discovery history.
 - Writes a static dashboard dataset to `docs/books.json`.
 - Can run locally or from GitHub Actions.
 
 ## Data Sources
 
-The default sources use RSSHub routes for several book-discovery platforms:
+The default sources read the literature, fiction, history and culture, social nonfiction, and art and design categories from Douban's New Book Express pages:
 
-- https://rsshub.app/douban/book/latest
-- https://rsshub.app/douban/bookstore
-- https://rsshub.app/douban/book/rank/fiction
-- https://rsshub.app/douban/book/rank/nonfiction
-- https://rsshub.app/books/new
+- https://book.douban.com/latest
 
-The config also keeps Yueke as a disabled candidate source. Yueke is a Douban-based new-book page that exposes RSS/JSON and updates every few hours, but its exact feed endpoint should be confirmed before enabling it:
+The config keeps the previous RSSHub routes and Yueke endpoints as disabled fallback candidates. They can be re-enabled when a stable instance is available:
 
 - https://yueke.ababtools.com/
 
-More sources can be added in `config/sources.json` without changing the code, as long as they provide RSS, Atom, or JSON items with title/link fields. Good next candidates are publisher new-release pages, bookstore new-release feeds, and literary media feeds.
+More sources can be added in `config/sources.json` without changing the code when they provide RSS, Atom, or JSON items with title/link fields. The `douban_latest` source type handles Douban New Book Express category pages.
 
 ## Requirements
 
@@ -95,7 +92,7 @@ python -m new_book_alert --config config/sources.json --state data/seen_books.js
 
 Open `docs/index.html` locally, or use GitHub Pages after the repository is pushed.
 
-The dashboard reads `docs/books.json`, which is refreshed by the scheduled workflow every day at 08:30 China time.
+The dashboard reads `docs/books.json`, which is refreshed by the scheduled workflow every day at 08:30 China time. Books are grouped by the day this project first discovered them: today and the preceding six days.
 
 ## GitHub Actions
 
@@ -125,4 +122,4 @@ For JSON sources, set `items_path` when the item list is nested, and map fields 
 ## Notes
 
 - ServerChan Turbo free accounts currently have a small daily quota. Message delivery is kept optional while the dashboard is the primary interface.
-- Douban-related feeds may change format or availability. Keep additional reputable sources in `config/sources.json` as fallbacks.
+- Douban may change its page format or availability. Keep additional reputable sources in `config/sources.json` as fallbacks.

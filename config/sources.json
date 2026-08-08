@@ -4,30 +4,60 @@
       "name": "RSSHub Douban Latest Books",
       "type": "rss",
       "url": "https://rsshub.app/douban/book/latest",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "RSSHub Douban Bookstore",
       "type": "rss",
       "url": "https://rsshub.app/douban/bookstore",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "RSSHub Douban Fiction Chart",
       "type": "rss",
       "url": "https://rsshub.app/douban/book/rank/fiction",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "RSSHub Douban Nonfiction Chart",
       "type": "rss",
       "url": "https://rsshub.app/douban/book/rank/nonfiction",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "RSSHub Books.com.tw New Releases",
       "type": "rss",
       "url": "https://rsshub.app/books/new",
+      "enabled": false
+    },
+    {
+      "name": "豆瓣新书速递 · 文学",
+      "type": "douban_latest",
+      "url": "https://book.douban.com/latest?subcat=%E6%96%87%E5%AD%A6",
+      "enabled": true
+    },
+    {
+      "name": "豆瓣新书速递 · 小说",
+      "type": "douban_latest",
+      "url": "https://book.douban.com/latest?subcat=%E5%B0%8F%E8%AF%B4",
+      "enabled": true
+    },
+    {
+      "name": "豆瓣新书速递 · 历史文化",
+      "type": "douban_latest",
+      "url": "https://book.douban.com/latest?subcat=%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96",
+      "enabled": true
+    },
+    {
+      "name": "豆瓣新书速递 · 社会纪实",
+      "type": "douban_latest",
+      "url": "https://book.douban.com/latest?subcat=%E7%A4%BE%E4%BC%9A%E7%BA%AA%E5%AE%9E",
+      "enabled": true
+    },
+    {
+      "name": "豆瓣新书速递 · 艺术设计",
+      "type": "douban_latest",
+      "url": "https://book.douban.com/latest?subcat=%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1",
       "enabled": true
     },
     {

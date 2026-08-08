@@ -38,7 +38,7 @@ def run(
             errors.append(f"{source.name}: {exc}")
 
     matched = filter_books(fetched, config.include_keywords, config.exclude_keywords)
-    dashboard_books = matched[: config.max_items_per_digest]
+    dashboard_books = _select_balanced_books(matched, config.max_items_per_digest)
     if dashboard_path:
         write_dashboard_data(
             dashboard_path,
@@ -50,7 +50,7 @@ def run(
 
     seen = load_seen(state_path)
     new_books = [book for book in matched if book.id not in seen]
-    selected = new_books[: config.max_items_per_digest]
+    selected = _select_balanced_books(new_books, config.max_items_per_digest)
 
     if skip_notify:
         digest = format_digest(dashboard_books, errors) if dashboard_books else _format_errors(errors)
@@ -121,3 +121,27 @@ def _format_errors(errors: list[str]) -> str:
     if not errors:
         return ""
     return "\n".join(["Source errors:", *[f"- {error}" for error in errors]])
+
+
+def _select_balanced_books(books: list[BookItem], limit: int) -> list[BookItem]:
+    if limit <= 0:
+        return []
+
+    buckets: dict[str, list[BookItem]] = {}
+    for book in books:
+        buckets.setdefault(book.source, []).append(book)
+
+    selected: list[BookItem] = []
+    index = 0
+    while len(selected) < limit:
+        added = False
+        for bucket in buckets.values():
+            if index < len(bucket):
+                selected.append(bucket[index])
+                added = True
+                if len(selected) == limit:
+                    break
+        if not added:
+            break
+        index += 1
+    return selected
