@@ -6,15 +6,17 @@
     <title>每日新书雷达</title>
     <style>
       :root {
-        color-scheme: light;
-        --bg: #f7f5ef;
-        --panel: #ffffff;
-        --ink: #202124;
-        --muted: #6b665c;
-        --line: #ded8cb;
-        --accent: #28666e;
-        --accent-2: #b24c36;
-        --soft: #e7f0ef;
+        color-scheme: dark;
+        --bg: #111414;
+        --panel: #1a1e1e;
+        --ink: #f0f2ed;
+        --muted: #a8b0aa;
+        --line: #343b39;
+        --accent: #79cec4;
+        --accent-2: #f2a080;
+        --soft: #202d2b;
+        --summary: #d7dcd7;
+        --source-bg: #392a25;
       }
 
       * {
@@ -97,6 +99,17 @@
         padding: 10px 12px;
         font: inherit;
         background: var(--panel);
+        color: var(--ink);
+      }
+
+      input::placeholder {
+        color: var(--muted);
+      }
+
+      input:focus {
+        border-color: var(--accent);
+        outline: 2px solid color-mix(in srgb, var(--accent) 28%, transparent);
+        outline-offset: 1px;
       }
 
       .book-list {
@@ -130,7 +143,7 @@
 
       .summary {
         margin: 0;
-        color: #343434;
+        color: var(--summary);
         line-height: 1.7;
       }
 
@@ -139,7 +152,7 @@
         width: fit-content;
         border-radius: 999px;
         padding: 3px 9px;
-        background: #f4e7df;
+        background: var(--source-bg);
         color: var(--accent-2);
         font-size: 13px;
       }
