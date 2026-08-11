@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-08-10T10:42:09+08:00",
+  "generated_at": "2026-08-11T10:36:06+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 92,
+  "fetched_count": 93,
   "matched_count": 73,
   "source_errors": [],
   "books": [
+    {
+      "id": "dcaf4292a24c34b2",
+      "title": "山居续忆：外公、外婆及其他",
+      "link": "https://book.douban.com/subject/37808417/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[澳] 徐家祯",
+      "published": "2026-8-1",
+      "summary": "花城出版社 / 98元 / 精装",
+      "discovered_at": "2026-08-11T10:36:06+08:00"
+    },
+    {
+      "id": "3af8bfa79f23a2fd",
+      "title": "我和我的北大学生：一位社会学教授的教育札记",
+      "link": "https://book.douban.com/subject/38448556/",
+      "source": "豆瓣新书速递 · 社会纪实",
+      "author": "杨善华",
+      "published": "2026-8",
+      "summary": "生活·读书·新知三联书店 / 49.00元 / 平装",
+      "discovered_at": "2026-08-11T10:36:06+08:00"
+    },
+    {
+      "id": "d959c2f9712e6d2c",
+      "title": "豹变",
+      "link": "https://book.douban.com/subject/37194301/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[新加坡] 黄凯德",
+      "published": "2026-7",
+      "summary": "上海文艺出版社 / 58元 / 平装",
+      "discovered_at": "2026-08-11T10:36:06+08:00"
+    },
+    {
+      "id": "c05fbfd82bd79e96",
+      "title": "色雷斯女仆的笑声：理论的一种原历史",
+      "link": "https://book.douban.com/subject/38457927/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[德] 汉斯·布鲁门贝格",
+      "published": "2026-7",
+      "summary": "东方出版中心 / 59.8 / 平装",
+      "discovered_at": "2026-08-11T10:36:06+08:00"
+    },
+    {
+      "id": "7078f8a933e3ce96",
+      "title": "玛丽·罗丝的命运",
+      "link": "https://book.douban.com/subject/38489158/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英]卡罗琳·布莱克伍德",
+      "published": "2026-7",
+      "summary": "中信出版集团 / 59 / 平装",
+      "discovered_at": "2026-08-11T10:36:06+08:00"
+    },
+    {
+      "id": "9e9733fb34d314d7",
+      "title": "古典文学鉴赏论",
+      "link": "https://book.douban.com/subject/38567887/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "刘衍文 / 刘永翔",
+      "published": "2026-7",
+      "summary": "上海辞书出版社 / 148.00元",
+      "discovered_at": "2026-08-11T10:36:06+08:00"
+    },
+    {
+      "id": "10904d2bf4c6e41b",
+      "title": "树上南方",
+      "link": "https://book.douban.com/subject/38503798/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "陈思呈",
+      "published": "2026-6",
+      "summary": "花城出版社 / 58.00元",
+      "discovered_at": "2026-08-11T10:36:06+08:00"
+    },
+    {
+      "id": "5d6f4d0293d6c526",
+      "title": "夏倍上校",
+      "link": "https://book.douban.com/subject/38489492/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[法]奥诺雷·德·巴尔扎克",
+      "published": "2026-6",
+      "summary": "四川大学出版社 / 78 / 精装",
+      "discovered_at": "2026-08-11T10:36:06+08:00"
+    },
+    {
+      "id": "f427ada3494b3ef3",
+      "title": "反思历史学",
+      "link": "https://book.douban.com/subject/38517325/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "",
+      "published": "2026-6",
+      "summary": "北京大学出版社 / 66 / Paperback",
+      "discovered_at": "2026-08-11T10:36:06+08:00"
+    },
     {
       "id": "fced4937336d173c",
       "title": "荒原：一首诗的传记",
