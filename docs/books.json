@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-08-11T10:36:06+08:00",
+  "generated_at": "2026-08-12T11:05:45+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 93,
-  "matched_count": 73,
+  "fetched_count": 92,
+  "matched_count": 72,
   "source_errors": [],
   "books": [
+    {
+      "id": "abc27600aa991a68",
+      "title": "AI的批判理论",
+      "link": "https://book.douban.com/subject/38570429/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[瑞典] 西蒙·林德格伦",
+      "published": "2026-8",
+      "summary": "南京大学出版社 / 68.00 / 平装",
+      "discovered_at": "2026-08-12T11:05:45+08:00"
+    },
+    {
+      "id": "af6e39333a01a6ca",
+      "title": "光与线",
+      "link": "https://book.douban.com/subject/38219665/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[韩] 韩江",
+      "published": "2026-7-9",
+      "summary": "国文出版社 / 56.00 / 精装",
+      "discovered_at": "2026-08-12T11:05:45+08:00"
+    },
+    {
+      "id": "5a3f3757cee5ecde",
+      "title": "德里达传：一个事件，或许",
+      "link": "https://book.douban.com/subject/38503894/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[澳] 彼得·萨尔蒙",
+      "published": "2026-7",
+      "summary": "南京大学出版社 / 78 / 平装",
+      "discovered_at": "2026-08-12T11:05:45+08:00"
+    },
+    {
+      "id": "6e6e0774eb96bebd",
+      "title": "幕启幕落：中国现代话剧史上的外国剧",
+      "link": "https://book.douban.com/subject/37872611/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "夏岚",
+      "published": "2026-7",
+      "summary": "生活·读书·新知三联书店 / 89.00元 / 平装",
+      "discovered_at": "2026-08-12T11:05:45+08:00"
+    },
+    {
+      "id": "42645eb6da88ece4",
+      "title": "色诺芬四书",
+      "link": "https://book.douban.com/subject/38454622/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[古希腊] 色诺芬",
+      "published": "2026-6",
+      "summary": "上海译文出版社 / 108.00元 / 精装",
+      "discovered_at": "2026-08-12T11:05:45+08:00"
+    },
+    {
+      "id": "3dc3a1f610b5eaa2",
+      "title": "灰姑娘谜局",
+      "link": "https://book.douban.com/subject/38190206/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "塘璜",
+      "published": "2026-6",
+      "summary": "深圳出版社 / 59.00元 / 平装",
+      "discovered_at": "2026-08-12T11:05:45+08:00"
+    },
+    {
+      "id": "072fb13e8414240d",
+      "title": "欧也妮·葛朗台",
+      "link": "https://book.douban.com/subject/38489446/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[法]奥诺雷·德·巴尔扎克",
+      "published": "2026-6",
+      "summary": "四川大学出版社 / 78 / 精装",
+      "discovered_at": "2026-08-12T11:05:45+08:00"
+    },
+    {
+      "id": "d294e5954d9a9c11",
+      "title": "我们镇上的傻子，曾经是我",
+      "link": "https://book.douban.com/subject/38469323/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[爱尔兰]安妮•沃尔什•唐纳利",
+      "published": "2026-6",
+      "summary": "上海文艺出版社 / 52 / 平装",
+      "discovered_at": "2026-08-12T11:05:45+08:00"
+    },
+    {
+      "id": "53172d5a92242336",
+      "title": "寻路：行走、母亲身份与自由",
+      "link": "https://book.douban.com/subject/38388310/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英]克丽·安德鲁斯",
+      "published": "2026-6",
+      "summary": "上海社会科学院出版社 / 48.00元 / 平装",
+      "discovered_at": "2026-08-12T11:05:45+08:00"
+    },
     {
       "id": "dcaf4292a24c34b2",
       "title": "山居续忆：外公、外婆及其他",
