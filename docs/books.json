@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-08-12T11:05:45+08:00",
+  "generated_at": "2026-08-13T11:10:05+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 92,
-  "matched_count": 72,
+  "fetched_count": 93,
+  "matched_count": 71,
   "source_errors": [],
   "books": [
+    {
+      "id": "0be8f178331b4841",
+      "title": "论绘画之非客体",
+      "link": "https://book.douban.com/subject/37662690/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[法] 朱利安",
+      "published": "2026-8",
+      "summary": "上海人民出版社 / 78 / 精装",
+      "discovered_at": "2026-08-13T11:10:05+08:00"
+    },
+    {
+      "id": "b29c7fc4dd5c5586",
+      "title": "一部未写的小说：弗吉尼亚·伍尔夫短篇小说集",
+      "link": "https://book.douban.com/subject/38479348/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 弗吉尼亚·伍尔夫",
+      "published": "2026-8",
+      "summary": "文汇出版社 / 59.80元 / 平装",
+      "discovered_at": "2026-08-13T11:10:05+08:00"
+    },
+    {
+      "id": "7a901cdf861b401f",
+      "title": "徐霞客游记：名山插图珍藏版",
+      "link": "https://book.douban.com/subject/38546105/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "徐霞客 / 徐霞客",
+      "published": "2026-7",
+      "summary": "中信出版集团 / 158 / 精装",
+      "discovered_at": "2026-08-13T11:10:05+08:00"
+    },
+    {
+      "id": "8a93a7db924f4942",
+      "title": "广播中的美国：大萧条与现代大众文化的兴起",
+      "link": "https://book.douban.com/subject/38518894/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 布鲁斯·伦索尔",
+      "published": "2026-7",
+      "summary": "上海教育出版社 / 78.00 / 平装",
+      "discovered_at": "2026-08-13T11:10:05+08:00"
+    },
+    {
+      "id": "45313bf55dc7ad3c",
+      "title": "从白到黄：欧洲种族思想中的日本，1300—1735",
+      "link": "https://book.douban.com/subject/36968002/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[以色列]罗特姆·科纳 / [以色列] 罗特姆·科纳",
+      "published": "2026-6-1",
+      "summary": "江苏人民出版社 / 128 / 精装",
+      "discovered_at": "2026-08-13T11:10:05+08:00"
+    },
+    {
+      "id": "4a8020974a4089f3",
+      "title": "制度如何思考",
+      "link": "https://book.douban.com/subject/38431214/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[英] 玛丽·道格拉斯 / 玛丽·道格拉斯",
+      "published": "2026-6",
+      "summary": "上海人民出版社",
+      "discovered_at": "2026-08-13T11:10:05+08:00"
+    },
+    {
+      "id": "03a7292b93213c18",
+      "title": "僧与机器人的漫游",
+      "link": "https://book.douban.com/subject/38413675/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 贝基 ·钱伯斯",
+      "published": "2026-6",
+      "summary": "江苏凤凰文艺出版社 / 119.90元 / 平装",
+      "discovered_at": "2026-08-13T11:10:05+08:00"
+    },
     {
       "id": "abc27600aa991a68",
       "title": "AI的批判理论",
@@ -389,7 +459,7 @@
       "id": "e733249ca371ef81",
       "title": "蓝白红：基耶斯洛夫斯基谈电影",
       "link": "https://book.douban.com/subject/38521876/",
-      "source": "豆瓣新书速递 · 艺术设计",
+      "source": "豆瓣新书速递 · 文学",
       "author": "[波] 克日什托夫·基耶斯洛夫斯基",
       "published": "2026-8",
       "summary": "商务印书馆 / 78.00元 / 精装",
