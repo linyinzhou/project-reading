@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-08-13T11:10:05+08:00",
+  "generated_at": "2026-08-14T11:07:55+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 93,
-  "matched_count": 71,
+  "matched_count": 73,
   "source_errors": [],
   "books": [
+    {
+      "id": "a0ba116d331b73a2",
+      "title": "弓马与洋枪：一部清朝军事兴衰史",
+      "link": "https://book.douban.com/subject/38406989/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "周天一",
+      "published": "2026-7-1",
+      "summary": "浙江人民出版社 / 88.00 / 精装",
+      "discovered_at": "2026-08-14T11:07:55+08:00"
+    },
+    {
+      "id": "d63ebbb8bb18825d",
+      "title": "批评家之死",
+      "link": "https://book.douban.com/subject/38503642/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[德] 马丁·瓦尔泽",
+      "published": "2026-7",
+      "summary": "浙江文艺出版社 / 69.00元 / 精装",
+      "discovered_at": "2026-08-14T11:07:55+08:00"
+    },
+    {
+      "id": "9c672d9714c41b86",
+      "title": "天桥艺人：一个民俗学的诠释",
+      "link": "https://book.douban.com/subject/37562577/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "岳永逸",
+      "published": "2026-7",
+      "summary": "广东人民出版社 / 98.00元 / 精装",
+      "discovered_at": "2026-08-14T11:07:55+08:00"
+    },
+    {
+      "id": "3af30bb8a9cc5ec0",
+      "title": "低限度的自我",
+      "link": "https://book.douban.com/subject/38574767/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美]克里斯托弗·拉什",
+      "published": "2026-7",
+      "summary": "上海三联书店 / 72.00 / 平装",
+      "discovered_at": "2026-08-14T11:07:55+08:00"
+    },
+    {
+      "id": "4d7e5331262a00d1",
+      "title": "伊利亚特：插图口袋本",
+      "link": "https://book.douban.com/subject/38191616/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[古希腊]荷马",
+      "published": "2026-7",
+      "summary": "湖南文艺出版社 / 68.00元 / 平装",
+      "discovered_at": "2026-08-14T11:07:55+08:00"
+    },
+    {
+      "id": "cbfbf5edba909e5a",
+      "title": "那第三个人是谁",
+      "link": "https://book.douban.com/subject/37374698/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "康赫",
+      "published": "2026-6",
+      "summary": "作家出版社 / 78.00元 / 精装",
+      "discovered_at": "2026-08-14T11:07:55+08:00"
+    },
+    {
+      "id": "1bfe005674475160",
+      "title": "离线好友",
+      "link": "https://book.douban.com/subject/38455226/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[意] 西尔维娅·阿瓦洛内",
+      "published": "2026-6",
+      "summary": "上海译文出版社 / 89.00元",
+      "discovered_at": "2026-08-14T11:07:55+08:00"
+    },
     {
       "id": "0be8f178331b4841",
       "title": "论绘画之非客体",
