@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-08-15T09:58:19+08:00",
+  "generated_at": "2026-08-16T10:07:42+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 94,
-  "matched_count": 73,
+  "matched_count": 74,
   "source_errors": [],
   "books": [
+    {
+      "id": "dc376c727e06054c",
+      "title": "当我们比光还轻",
+      "link": "https://book.douban.com/subject/38177507/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 珍妮特·温特森",
+      "published": "2026-8-1",
+      "summary": "文汇出版社 / 59.90 / 平装双封",
+      "discovered_at": "2026-08-16T10:07:42+08:00"
+    },
+    {
+      "id": "e733249ca371ef81",
+      "title": "蓝白红：基耶斯洛夫斯基谈电影",
+      "link": "https://book.douban.com/subject/38521876/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[波] 克日什托夫·基耶斯洛夫斯基",
+      "published": "2026-8",
+      "summary": "商务印书馆 / 78.00元 / 精装",
+      "discovered_at": "2026-08-16T10:07:42+08:00"
+    },
+    {
+      "id": "9cf1e5ac60078851",
+      "title": "爱是搬起一块重石而不知缘故",
+      "link": "https://book.douban.com/subject/38490467/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 珍妮特·温特森",
+      "published": "2026-8",
+      "summary": "新星出版社 / 49.00元 / 精装",
+      "discovered_at": "2026-08-16T10:07:42+08:00"
+    },
+    {
+      "id": "0e38772cdfd4200b",
+      "title": "为什么是“他”：权力与支配的人类史",
+      "link": "https://book.douban.com/subject/38385403/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美]南希·林迪斯法恩 / [美]乔纳森·尼尔",
+      "published": "2026-7-1",
+      "summary": "浙江人民出版社 / 98.00元 / 精装",
+      "discovered_at": "2026-08-16T10:07:42+08:00"
+    },
+    {
+      "id": "1712b8cbc8fccb59",
+      "title": "所有无名的人",
+      "link": "https://book.douban.com/subject/38523983/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "陈年喜",
+      "published": "2026-7",
+      "summary": "江苏凤凰文艺出版社 / 58.00 / 平装",
+      "discovered_at": "2026-08-16T10:07:42+08:00"
+    },
+    {
+      "id": "72d30ee38866c269",
+      "title": "性别前后：生活中的性别神话",
+      "link": "https://book.douban.com/subject/38521878/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[英] 玛丽琳·斯特拉森",
+      "published": "2026-7",
+      "summary": "上海人民出版社 / 88.00元 / 平装",
+      "discovered_at": "2026-08-16T10:07:42+08:00"
+    },
+    {
+      "id": "cfaabceeb91106b8",
+      "title": "人类的五分之一",
+      "link": "https://book.douban.com/subject/38487604/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "安娜·路易丝·斯特朗",
+      "published": "2026-6",
+      "summary": "上海三联书店 / 83.00元 / 平装",
+      "discovered_at": "2026-08-16T10:07:42+08:00"
+    },
     {
       "id": "02f8f0cd77a53a35",
       "title": "真实与虚幻：厄休拉·勒古恩短篇小说自选集",
@@ -504,126 +574,6 @@
       "published": "2026",
       "summary": "格致出版社 / 98元 / 平装",
       "discovered_at": "2026-08-10T10:42:09+08:00"
-    },
-    {
-      "id": "f7a6e90cc73cbbf6",
-      "title": "酱园弄凶案：变动时代的女性、司法与社会",
-      "link": "https://book.douban.com/subject/38491402/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "彭晗",
-      "published": "2026-8",
-      "summary": "广西师范大学出版社 / 69 / 精装",
-      "discovered_at": "2026-08-09T10:36:23+08:00"
-    },
-    {
-      "id": "14f50818eac0184a",
-      "title": "欢喜皇帝",
-      "link": "https://book.douban.com/subject/38531076/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 王鸥行",
-      "published": "2026-8",
-      "summary": "新星出版社 / 79 / 平装",
-      "discovered_at": "2026-08-09T10:36:23+08:00"
-    },
-    {
-      "id": "18eea7d6d48d911c",
-      "title": "梦境之墙：克苏鲁的遗产",
-      "link": "https://book.douban.com/subject/37148756/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] H.P.洛夫克拉夫特",
-      "published": "2026-8",
-      "summary": "生活书店出版有限公司 / 498 / 精装",
-      "discovered_at": "2026-08-09T10:36:23+08:00"
-    },
-    {
-      "id": "c11584856599c76b",
-      "title": "驳杂的评论：维特根斯坦遗稿选集",
-      "link": "https://book.douban.com/subject/38494089/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[奥] 维特根斯坦",
-      "published": "2026-7",
-      "summary": "上海文艺出版社 / 52.00 / 平装",
-      "discovered_at": "2026-08-09T10:36:23+08:00"
-    },
-    {
-      "id": "ccd067d5dd440f02",
-      "title": "章法九讲：书法布局的艺术",
-      "link": "https://book.douban.com/subject/38406126/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "方建勋",
-      "published": "2026-7",
-      "summary": "生活·读书·新知三联书店 / 98.00元 / 平装",
-      "discovered_at": "2026-08-09T10:36:23+08:00"
-    },
-    {
-      "id": "d601b676f30f879f",
-      "title": "无论如何，潜水",
-      "link": "https://book.douban.com/subject/38531717/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "河美娜",
-      "published": "2026-7",
-      "summary": "广西师大出版社 / 49.8 / 平装",
-      "discovered_at": "2026-08-09T10:36:23+08:00"
-    },
-    {
-      "id": "1c42a8d53c59664f",
-      "title": "奥德赛：插图口袋本",
-      "link": "https://book.douban.com/subject/38192138/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "〔古希腊〕荷马",
-      "published": "2026-7",
-      "summary": "湖南文艺出版社 / 68.00元 / 平装",
-      "discovered_at": "2026-08-09T10:36:23+08:00"
-    },
-    {
-      "id": "e3a5ae24f56d8750",
-      "title": "你喜欢肖邦吗",
-      "link": "https://book.douban.com/subject/38432945/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "英国《留声机》",
-      "published": "2026-7",
-      "summary": "江苏凤凰文艺出版社 / 78.00 元 / 平装",
-      "discovered_at": "2026-08-09T10:36:23+08:00"
-    },
-    {
-      "id": "7149c46b93452df2",
-      "title": "结束一周工作后，我会去动物园做梦：红山动物园诗歌集",
-      "link": "https://book.douban.com/subject/38370239/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "沈志军 主编 / 红山的朋友们 著",
-      "published": "2026-6-1",
-      "summary": "译林出版社 / 58.00元 / 平装",
-      "discovered_at": "2026-08-09T10:36:23+08:00"
-    },
-    {
-      "id": "024e814bb455b1bb",
-      "title": "高老头",
-      "link": "https://book.douban.com/subject/38489389/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[法]奥诺雷·德·巴尔扎克",
-      "published": "2026-6",
-      "summary": "四川大学出版社 / 78 / 精装",
-      "discovered_at": "2026-08-09T10:36:23+08:00"
-    },
-    {
-      "id": "239f551a2f206b1d",
-      "title": "维克托·哈拉：一首未竟之歌",
-      "link": "https://book.douban.com/subject/38412237/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[英]琼·哈拉",
-      "published": "2026-6",
-      "summary": "浙江文艺出版社 / 66.00元 / 平装",
-      "discovered_at": "2026-08-09T10:36:23+08:00"
-    },
-    {
-      "id": "9f5f7dfd5671843f",
-      "title": "孤独、空虚与无聊：AI时代的人类意义危机",
-      "link": "https://book.douban.com/subject/38426938/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "徐贲",
-      "published": "2026-6",
-      "summary": "中国大百科全书出版社 / 128.00 / 平装",
-      "discovered_at": "2026-08-09T10:36:23+08:00"
     },
     {
       "id": "f92d94595474e313",
