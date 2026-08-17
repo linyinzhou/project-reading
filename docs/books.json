@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-08-16T10:07:42+08:00",
+  "generated_at": "2026-08-17T10:05:25+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 94,
   "matched_count": 74,
   "source_errors": [],
   "books": [
+    {
+      "id": "d1608430ed37cd75",
+      "title": "落在我身上的雨",
+      "link": "https://book.douban.com/subject/38461487/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "陆庆屹",
+      "published": "2026-8",
+      "summary": "新星出版社 / 59 / 平装",
+      "discovered_at": "2026-08-17T10:05:25+08:00"
+    },
+    {
+      "id": "254eba3f9dafc6f4",
+      "title": "爱",
+      "link": "https://book.douban.com/subject/38541603/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 托妮·莫里森",
+      "published": "2026-8",
+      "summary": "上海译文出版社 / 76 / 精装",
+      "discovered_at": "2026-08-17T10:05:25+08:00"
+    },
+    {
+      "id": "16b0ca887ac035e7",
+      "title": "零诺",
+      "link": "https://book.douban.com/subject/38241364/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "行烟烟",
+      "published": "2026-7-20",
+      "summary": "中信出版社 / 168 / 平装",
+      "discovered_at": "2026-08-17T10:05:25+08:00"
+    },
+    {
+      "id": "d601b676f30f879f",
+      "title": "无论如何，潜水",
+      "link": "https://book.douban.com/subject/38531717/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "河美娜",
+      "published": "2026-7",
+      "summary": "广西师大出版社 / 49.8 / 平装",
+      "discovered_at": "2026-08-17T10:05:25+08:00"
+    },
+    {
+      "id": "694938f8040c8581",
+      "title": "我漂泊，我沉思：兰斯顿·休斯回忆录",
+      "link": "https://book.douban.com/subject/38218972/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 兰斯顿·休斯",
+      "published": "2026-6",
+      "summary": "南京大学出版社 / 72.00元 / 平装",
+      "discovered_at": "2026-08-17T10:05:25+08:00"
+    },
+    {
+      "id": "53c36b06d00632c7",
+      "title": "悦古：中国艺术史中的古器物及其图像表达",
+      "link": "https://book.douban.com/subject/38499644/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "孔令伟",
+      "published": "2026-6",
+      "summary": "上海书画出版社 / 128.00元 / 软精装",
+      "discovered_at": "2026-08-17T10:05:25+08:00"
+    },
     {
       "id": "dc376c727e06054c",
       "title": "当我们比光还轻",
@@ -496,16 +556,6 @@
       "discovered_at": "2026-08-11T10:36:06+08:00"
     },
     {
-      "id": "fced4937336d173c",
-      "title": "荒原：一首诗的传记",
-      "link": "https://book.douban.com/subject/37651104/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 马修·霍利斯",
-      "published": "2026-8",
-      "summary": "河南大学出版社 / 98 / 平装",
-      "discovered_at": "2026-08-10T10:42:09+08:00"
-    },
-    {
       "id": "71d5007dd86a386d",
       "title": "好世界：草木之心与古花鸟画之美",
       "link": "https://book.douban.com/subject/38522747/",
@@ -513,66 +563,6 @@
       "author": "韦羲",
       "published": "2026-7-1",
       "summary": "广西师范大学出版社 / 88 / 平装锁线",
-      "discovered_at": "2026-08-10T10:42:09+08:00"
-    },
-    {
-      "id": "7c7b9fd45bccac1e",
-      "title": "反革命的欧洲：保守主义、启蒙运动与历史的塑造",
-      "link": "https://book.douban.com/subject/38405907/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[荷] 马泰斯·洛克",
-      "published": "2026-7-1",
-      "summary": "浙江大学出版社 / 88 / 精装",
-      "discovered_at": "2026-08-10T10:42:09+08:00"
-    },
-    {
-      "id": "77cfa369ec5a6a2a",
-      "title": "泛托邦",
-      "link": "https://book.douban.com/subject/38446637/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[德] 特蕾莎・汉尼根",
-      "published": "2026-7",
-      "summary": "浙江文艺出版社 / 69.00元 / 平装",
-      "discovered_at": "2026-08-10T10:42:09+08:00"
-    },
-    {
-      "id": "cd93c8729242b042",
-      "title": "帝国余晖：现代英国的命运转折",
-      "link": "https://book.douban.com/subject/37373765/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[英] 大卫·艾杰顿",
-      "published": "2026-7",
-      "summary": "浙江人民出版社 / 168.00 / 精装",
-      "discovered_at": "2026-08-10T10:42:09+08:00"
-    },
-    {
-      "id": "72806b48478f99f2",
-      "title": "岭南十三讲：叶兆言文学讲稿",
-      "link": "https://book.douban.com/subject/38427429/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "叶兆言",
-      "published": "2026-7",
-      "summary": "译林出版社 / 49.80元 / 平装",
-      "discovered_at": "2026-08-10T10:42:09+08:00"
-    },
-    {
-      "id": "c7a80094053bd7ee",
-      "title": "灭绝的象牙",
-      "link": "https://book.douban.com/subject/38413674/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 雷·内勒",
-      "published": "2026-6",
-      "summary": "江苏凤凰文艺出版社 / 89.90元 / 平装",
-      "discovered_at": "2026-08-10T10:42:09+08:00"
-    },
-    {
-      "id": "23e58ffab2e108a0",
-      "title": "犬之帝国：狗、日本与帝国主义世界的形成",
-      "link": "https://book.douban.com/subject/38408073/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 阿伦·斯卡布伦德（Aaron Herald Skabelund）",
-      "published": "2026",
-      "summary": "格致出版社 / 98元 / 平装",
       "discovered_at": "2026-08-10T10:42:09+08:00"
     },
     {
