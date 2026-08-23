@@ -1,10 +1,120 @@
 {
-  "generated_at": "2026-08-22T09:59:20+08:00",
+  "generated_at": "2026-08-23T10:10:09+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 96,
-  "matched_count": 77,
+  "matched_count": 76,
   "source_errors": [],
   "books": [
+    {
+      "id": "0be8f178331b4841",
+      "title": "论绘画之非客体",
+      "link": "https://book.douban.com/subject/37662690/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[法] 朱利安",
+      "published": "2026-8",
+      "summary": "上海人民出版社 / 78 / 精装",
+      "discovered_at": "2026-08-23T10:10:09+08:00"
+    },
+    {
+      "id": "ff1005ab05d4879e",
+      "title": "西魏北周政权史研究",
+      "link": "https://book.douban.com/subject/38517243/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "（日）前岛佳孝 著",
+      "published": "2026-8",
+      "summary": "山西人民出版社 / 精装",
+      "discovered_at": "2026-08-23T10:10:09+08:00"
+    },
+    {
+      "id": "8cb5bba6c0d628b1",
+      "title": "平等的限度：基佐与托克维尔的思想争鸣",
+      "link": "https://book.douban.com/subject/38377332/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "倪玉珍",
+      "published": "2026-8",
+      "summary": "生活·读书·新知三联书店 / 89.00元 / 精装",
+      "discovered_at": "2026-08-23T10:10:09+08:00"
+    },
+    {
+      "id": "53d474d9b360c8c0",
+      "title": "可疯",
+      "link": "https://book.douban.com/subject/38583378/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "杜可风",
+      "published": "2026-8",
+      "summary": "中信出版集团 / 138",
+      "discovered_at": "2026-08-23T10:10:09+08:00"
+    },
+    {
+      "id": "b29c7fc4dd5c5586",
+      "title": "一部未写的小说：弗吉尼亚·伍尔夫短篇小说集",
+      "link": "https://book.douban.com/subject/38479348/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 弗吉尼亚·伍尔夫",
+      "published": "2026-8",
+      "summary": "文汇出版社 / 59.80元 / 平装",
+      "discovered_at": "2026-08-23T10:10:09+08:00"
+    },
+    {
+      "id": "edb8a8c0c06fa3d3",
+      "title": "诱惑与背叛",
+      "link": "https://book.douban.com/subject/38536272/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 伊丽莎白·哈德威克",
+      "published": "2026-7",
+      "summary": "人民文学出版社 / 49.00元 / 平装",
+      "discovered_at": "2026-08-23T10:10:09+08:00"
+    },
+    {
+      "id": "0b48fac9d19dfa98",
+      "title": "无年龄的人：一个人类学家对自我、时间与意义的研究",
+      "link": "https://book.douban.com/subject/38603049/",
+      "source": "豆瓣新书速递 · 社会纪实",
+      "author": "莎朗·考夫曼",
+      "published": "2026-7",
+      "summary": "华东师范大学出版社 / 75.00 / 平装",
+      "discovered_at": "2026-08-23T10:10:09+08:00"
+    },
+    {
+      "id": "88e1e5c06ae38e53",
+      "title": "往昔岁月的喧嚣",
+      "link": "https://book.douban.com/subject/38385424/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[阿尔巴尼亚] 德里特洛·阿果里",
+      "published": "2026-7",
+      "summary": "重庆出版社 / 98.00元 / 精装",
+      "discovered_at": "2026-08-23T10:10:09+08:00"
+    },
+    {
+      "id": "e61150d6975dcd87",
+      "title": "陀思妥耶夫斯基笔记",
+      "link": "https://book.douban.com/subject/38175933/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[匈] 格奥尔格·卢卡奇",
+      "published": "2026-6-1",
+      "summary": "江苏人民出版社 / 精装",
+      "discovered_at": "2026-08-23T10:10:09+08:00"
+    },
+    {
+      "id": "fa4cbe208299c6d6",
+      "title": "山毛榉的一生",
+      "link": "https://book.douban.com/subject/38495733/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[德] 彼得·渥雷本",
+      "published": "2026-6",
+      "summary": "天津人民出版社 / 49.80元 / 平装",
+      "discovered_at": "2026-08-23T10:10:09+08:00"
+    },
+    {
+      "id": "9bcf01176de93d8f",
+      "title": "一座城市的形状",
+      "link": "https://book.douban.com/subject/38481145/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[法] 朱利安·格拉克 / 朱利安·格拉克",
+      "published": "2026-6",
+      "summary": "四川人民出版社 / 56.00 / 精装",
+      "discovered_at": "2026-08-23T10:10:09+08:00"
+    },
     {
       "id": "18eea7d6d48d911c",
       "title": "梦境之墙：克苏鲁的遗产",
@@ -454,76 +564,6 @@
       "published": "2026-6",
       "summary": "上海书画出版社 / 128.00元 / 软精装",
       "discovered_at": "2026-08-17T10:05:25+08:00"
-    },
-    {
-      "id": "dc376c727e06054c",
-      "title": "当我们比光还轻",
-      "link": "https://book.douban.com/subject/38177507/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 珍妮特·温特森",
-      "published": "2026-8-1",
-      "summary": "文汇出版社 / 59.90 / 平装双封",
-      "discovered_at": "2026-08-16T10:07:42+08:00"
-    },
-    {
-      "id": "e733249ca371ef81",
-      "title": "蓝白红：基耶斯洛夫斯基谈电影",
-      "link": "https://book.douban.com/subject/38521876/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[波] 克日什托夫·基耶斯洛夫斯基",
-      "published": "2026-8",
-      "summary": "商务印书馆 / 78.00元 / 精装",
-      "discovered_at": "2026-08-16T10:07:42+08:00"
-    },
-    {
-      "id": "9cf1e5ac60078851",
-      "title": "爱是搬起一块重石而不知缘故",
-      "link": "https://book.douban.com/subject/38490467/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 珍妮特·温特森",
-      "published": "2026-8",
-      "summary": "新星出版社 / 49.00元 / 精装",
-      "discovered_at": "2026-08-16T10:07:42+08:00"
-    },
-    {
-      "id": "0e38772cdfd4200b",
-      "title": "为什么是“他”：权力与支配的人类史",
-      "link": "https://book.douban.com/subject/38385403/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美]南希·林迪斯法恩 / [美]乔纳森·尼尔",
-      "published": "2026-7-1",
-      "summary": "浙江人民出版社 / 98.00元 / 精装",
-      "discovered_at": "2026-08-16T10:07:42+08:00"
-    },
-    {
-      "id": "1712b8cbc8fccb59",
-      "title": "所有无名的人",
-      "link": "https://book.douban.com/subject/38523983/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "陈年喜",
-      "published": "2026-7",
-      "summary": "江苏凤凰文艺出版社 / 58.00 / 平装",
-      "discovered_at": "2026-08-16T10:07:42+08:00"
-    },
-    {
-      "id": "72d30ee38866c269",
-      "title": "性别前后：生活中的性别神话",
-      "link": "https://book.douban.com/subject/38521878/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[英] 玛丽琳·斯特拉森",
-      "published": "2026-7",
-      "summary": "上海人民出版社 / 88.00元 / 平装",
-      "discovered_at": "2026-08-16T10:07:42+08:00"
-    },
-    {
-      "id": "cfaabceeb91106b8",
-      "title": "人类的五分之一",
-      "link": "https://book.douban.com/subject/38487604/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "安娜·路易丝·斯特朗",
-      "published": "2026-6",
-      "summary": "上海三联书店 / 83.00元 / 平装",
-      "discovered_at": "2026-08-16T10:07:42+08:00"
     }
   ]
 }
