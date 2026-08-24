@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-08-23T10:10:09+08:00",
+  "generated_at": "2026-08-24T10:08:34+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 96,
   "matched_count": 76,
   "source_errors": [],
   "books": [
+    {
+      "id": "dcaf4292a24c34b2",
+      "title": "山居续忆：外公、外婆及其他",
+      "link": "https://book.douban.com/subject/37808417/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[澳] 徐家祯",
+      "published": "2026-8-1",
+      "summary": "花城出版社 / 98元 / 精装",
+      "discovered_at": "2026-08-24T10:08:34+08:00"
+    },
+    {
+      "id": "e733249ca371ef81",
+      "title": "蓝白红：基耶斯洛夫斯基谈电影",
+      "link": "https://book.douban.com/subject/38521876/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[波] 克日什托夫·基耶斯洛夫斯基",
+      "published": "2026-8",
+      "summary": "商务印书馆 / 78.00元 / 精装",
+      "discovered_at": "2026-08-24T10:08:34+08:00"
+    },
+    {
+      "id": "6fc0a23111514acf",
+      "title": "所罗门之歌",
+      "link": "https://book.douban.com/subject/38541605/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 托妮·莫里森",
+      "published": "2026-8",
+      "summary": "上海译文出版社 / 89 / 精装",
+      "discovered_at": "2026-08-24T10:08:34+08:00"
+    },
+    {
+      "id": "ed5cd02ee01a791b",
+      "title": "布谷鸟那么小，宣告春天来临时那么骄傲",
+      "link": "https://book.douban.com/subject/38522014/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[葡] 利迪娅·若热",
+      "published": "2026-8",
+      "summary": "上海人民出版社 / 66.00元 / 精装",
+      "discovered_at": "2026-08-24T10:08:34+08:00"
+    },
+    {
+      "id": "1712b8cbc8fccb59",
+      "title": "所有无名的人",
+      "link": "https://book.douban.com/subject/38523983/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "陈年喜",
+      "published": "2026-7",
+      "summary": "江苏凤凰文艺出版社 / 58.00 / 平装",
+      "discovered_at": "2026-08-24T10:08:34+08:00"
+    },
+    {
+      "id": "7bb1ffa01262301d",
+      "title": "埃及艺术中的符号与魔法",
+      "link": "https://book.douban.com/subject/37454112/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[英] 理查德·H. 威尔金森",
+      "published": "2026-7",
+      "summary": "四川人民出版社 / 128.00",
+      "discovered_at": "2026-08-24T10:08:34+08:00"
+    },
+    {
+      "id": "e537238c7baaed85",
+      "title": "古史谜案：历史课本书外话",
+      "link": "https://book.douban.com/subject/38420822/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "辛德勇",
+      "published": "2026-7",
+      "summary": "浙江人民出版社 / 58.00 / 平装",
+      "discovered_at": "2026-08-24T10:08:34+08:00"
+    },
+    {
+      "id": "1bfe005674475160",
+      "title": "离线好友",
+      "link": "https://book.douban.com/subject/38455226/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[意] 西尔维娅·阿瓦洛内",
+      "published": "2026-6",
+      "summary": "上海译文出版社 / 89.00元",
+      "discovered_at": "2026-08-24T10:08:34+08:00"
+    },
+    {
+      "id": "4a8020974a4089f3",
+      "title": "制度如何思考",
+      "link": "https://book.douban.com/subject/38431214/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[英] 玛丽·道格拉斯 / 玛丽·道格拉斯",
+      "published": "2026-6",
+      "summary": "上海人民出版社",
+      "discovered_at": "2026-08-24T10:08:34+08:00"
+    },
     {
       "id": "0be8f178331b4841",
       "title": "论绘画之非客体",
@@ -504,66 +594,6 @@
       "published": "2026-6",
       "summary": "人民文学出版社 / 79 / 精装",
       "discovered_at": "2026-08-18T10:00:19+08:00"
-    },
-    {
-      "id": "d1608430ed37cd75",
-      "title": "落在我身上的雨",
-      "link": "https://book.douban.com/subject/38461487/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "陆庆屹",
-      "published": "2026-8",
-      "summary": "新星出版社 / 59 / 平装",
-      "discovered_at": "2026-08-17T10:05:25+08:00"
-    },
-    {
-      "id": "254eba3f9dafc6f4",
-      "title": "爱",
-      "link": "https://book.douban.com/subject/38541603/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 托妮·莫里森",
-      "published": "2026-8",
-      "summary": "上海译文出版社 / 76 / 精装",
-      "discovered_at": "2026-08-17T10:05:25+08:00"
-    },
-    {
-      "id": "16b0ca887ac035e7",
-      "title": "零诺",
-      "link": "https://book.douban.com/subject/38241364/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "行烟烟",
-      "published": "2026-7-20",
-      "summary": "中信出版社 / 168 / 平装",
-      "discovered_at": "2026-08-17T10:05:25+08:00"
-    },
-    {
-      "id": "d601b676f30f879f",
-      "title": "无论如何，潜水",
-      "link": "https://book.douban.com/subject/38531717/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "河美娜",
-      "published": "2026-7",
-      "summary": "广西师大出版社 / 49.8 / 平装",
-      "discovered_at": "2026-08-17T10:05:25+08:00"
-    },
-    {
-      "id": "694938f8040c8581",
-      "title": "我漂泊，我沉思：兰斯顿·休斯回忆录",
-      "link": "https://book.douban.com/subject/38218972/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美] 兰斯顿·休斯",
-      "published": "2026-6",
-      "summary": "南京大学出版社 / 72.00元 / 平装",
-      "discovered_at": "2026-08-17T10:05:25+08:00"
-    },
-    {
-      "id": "53c36b06d00632c7",
-      "title": "悦古：中国艺术史中的古器物及其图像表达",
-      "link": "https://book.douban.com/subject/38499644/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "孔令伟",
-      "published": "2026-6",
-      "summary": "上海书画出版社 / 128.00元 / 软精装",
-      "discovered_at": "2026-08-17T10:05:25+08:00"
     }
   ]
 }
