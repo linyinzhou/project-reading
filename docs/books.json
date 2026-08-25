@@ -1,10 +1,90 @@
 {
-  "generated_at": "2026-08-24T10:08:34+08:00",
+  "generated_at": "2026-08-25T10:04:11+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 96,
-  "matched_count": 76,
+  "matched_count": 75,
   "source_errors": [],
   "books": [
+    {
+      "id": "5d5ea88c5c00972f",
+      "title": "故事的讲法：从灵感、悬念机制、语言盛宴到故事的未来图景",
+      "link": "https://book.douban.com/subject/38583296/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "黄昱宁",
+      "published": "2026-8-3",
+      "summary": "广西师范大学出版社 / 68.00 / 平装",
+      "discovered_at": "2026-08-25T10:04:11+08:00"
+    },
+    {
+      "id": "f7a6e90cc73cbbf6",
+      "title": "酱园弄凶案：变动时代的女性、司法与社会",
+      "link": "https://book.douban.com/subject/38491402/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "彭晗",
+      "published": "2026-8",
+      "summary": "广西师范大学出版社 / 69 / 精装",
+      "discovered_at": "2026-08-25T10:04:11+08:00"
+    },
+    {
+      "id": "fbd4efd005664afe",
+      "title": "财富之泉：11-18世纪中国的货币和货币政策",
+      "link": "https://book.douban.com/subject/38213811/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 万志英 (Richard von Glahn)",
+      "published": "2026-8",
+      "summary": "社会科学文献出版社 / 89 / 精装",
+      "discovered_at": "2026-08-25T10:04:11+08:00"
+    },
+    {
+      "id": "a4ee4648b97f27a5",
+      "title": "老美国佬",
+      "link": "https://book.douban.com/subject/37894985/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[墨西哥] 卡洛斯·富恩特斯",
+      "published": "2026-7",
+      "summary": "上海译文出版社 / 58 / 精装",
+      "discovered_at": "2026-08-25T10:04:11+08:00"
+    },
+    {
+      "id": "8799485bd19db435",
+      "title": "给忙碌者的世界神话传说：全三册",
+      "link": "https://book.douban.com/subject/38434717/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英]狄·狄·钱尼 / [英]薇洛·温瑟姆",
+      "published": "2026-7",
+      "summary": "湖南文艺出版社 / 114.00元 / 平装口袋本",
+      "discovered_at": "2026-08-25T10:04:11+08:00"
+    },
+    {
+      "id": "50d809a5ae0fb397",
+      "title": "病态社会：挑战原始社会的和谐神话",
+      "link": "https://book.douban.com/subject/38507483/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 罗伯特·B.埃杰顿",
+      "published": "2026-7",
+      "summary": "译林出版社 / 72.00 / 平装",
+      "discovered_at": "2026-08-25T10:04:11+08:00"
+    },
+    {
+      "id": "185b9b1bc225f79d",
+      "title": "爱得更多的人：奥登诗歌精选集",
+      "link": "https://book.douban.com/subject/38531739/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英]W.H.奥登",
+      "published": "2026-7",
+      "summary": "湖南文艺出版社 / 46.00元 / 平装",
+      "discovered_at": "2026-08-25T10:04:11+08:00"
+    },
+    {
+      "id": "5d6f4d0293d6c526",
+      "title": "夏倍上校",
+      "link": "https://book.douban.com/subject/38489492/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[法]奥诺雷·德·巴尔扎克",
+      "published": "2026-6",
+      "summary": "四川大学出版社 / 78 / 精装",
+      "discovered_at": "2026-08-25T10:04:11+08:00"
+    },
     {
       "id": "dcaf4292a24c34b2",
       "title": "山居续忆：外公、外婆及其他",
@@ -524,66 +604,6 @@
       "published": "2026",
       "summary": "天津古籍出版社 / 68元 / 平装",
       "discovered_at": "2026-08-19T10:03:47+08:00"
-    },
-    {
-      "id": "0f89bc6813d55530",
-      "title": "马克思入门",
-      "link": "https://book.douban.com/subject/38540661/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[德] 伊林·费彻尔",
-      "published": "2026-8",
-      "summary": "东方出版中心 / 59.80 / 平装",
-      "discovered_at": "2026-08-18T10:00:19+08:00"
-    },
-    {
-      "id": "9ebfbcfa0cbf363c",
-      "title": "里尔克传：敞开的生命",
-      "link": "https://book.douban.com/subject/38499937/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[德] 桑德拉·里希特",
-      "published": "2026-8",
-      "summary": "译林出版社 / 98.00元 / 精装",
-      "discovered_at": "2026-08-18T10:00:19+08:00"
-    },
-    {
-      "id": "02ca89ec987db4f4",
-      "title": "散步后变身神奇动物",
-      "link": "https://book.douban.com/subject/38175863/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[阿根廷] 胡里奥·科塔萨尔",
-      "published": "2026-7",
-      "summary": "南海出版公司 / 78 / 平装",
-      "discovered_at": "2026-08-18T10:00:19+08:00"
-    },
-    {
-      "id": "2fd2a7b2664dfbcd",
-      "title": "妩媚的忠臣：隋唐变局中的魏徵",
-      "link": "https://book.douban.com/subject/38495090/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "赵帅淇",
-      "published": "2026-7",
-      "summary": "中华书局 / 58.00元 / 精装",
-      "discovered_at": "2026-08-18T10:00:19+08:00"
-    },
-    {
-      "id": "80fcfdcb5d02e804",
-      "title": "从动员到革命",
-      "link": "https://book.douban.com/subject/38536059/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 查尔斯·蒂利",
-      "published": "2026-7",
-      "summary": "格致出版社 / 98.00元 / Paperback",
-      "discovered_at": "2026-08-18T10:00:19+08:00"
-    },
-    {
-      "id": "2e89d5947608436d",
-      "title": "王爷爷",
-      "link": "https://book.douban.com/subject/38503534/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "王小列",
-      "published": "2026-6",
-      "summary": "重庆出版社 / 49.80元 / 平装",
-      "discovered_at": "2026-08-18T10:00:19+08:00"
     },
     {
       "id": "e150b578e60b600b",
