@@ -1,15 +1,75 @@
 {
-  "generated_at": "2026-08-26T10:10:10+08:00",
+  "generated_at": "2026-08-27T18:10:55+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 96,
-  "matched_count": 74,
+  "fetched_count": 97,
+  "matched_count": 76,
   "source_errors": [],
   "books": [
+    {
+      "id": "aa9d13df84080fa4",
+      "title": "败者食尘：马尔克斯的孤独与爱情",
+      "link": "https://book.douban.com/subject/38582395/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "陆浩斌 / 何飘飘",
+      "published": "2026-8",
+      "summary": "浙江文艺出版社 / 68 / 精装",
+      "discovered_at": "2026-08-27T18:10:55+08:00"
+    },
+    {
+      "id": "7e78525de1e9d18d",
+      "title": "燃烧的女孩",
+      "link": "https://book.douban.com/subject/38530127/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] C.J.图德",
+      "published": "2026-8",
+      "summary": "江苏凤凰文艺出版社 / 49.80元 / 平装",
+      "discovered_at": "2026-08-27T18:10:55+08:00"
+    },
+    {
+      "id": "2a694ee5311fcda2",
+      "title": "喜乐会",
+      "link": "https://book.douban.com/subject/38461193/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "周宏翔",
+      "published": "2026-8",
+      "summary": "人民文学出版社 / 42",
+      "discovered_at": "2026-08-27T18:10:55+08:00"
+    },
+    {
+      "id": "13fe3724bbd4a005",
+      "title": "永恒之城罗马：最初的三千年",
+      "link": "https://book.douban.com/subject/38446627/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[英] 费迪南德·阿迪斯",
+      "published": "2026-7",
+      "summary": "研究出版社 / 138.00元 / 精装",
+      "discovered_at": "2026-08-27T18:10:55+08:00"
+    },
+    {
+      "id": "a7100eadb68e91af",
+      "title": "权力的传记：墨西哥现代史，1810-1996",
+      "link": "https://book.douban.com/subject/38498565/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[墨] 恩里克·克劳泽",
+      "published": "2026-7",
+      "summary": "民主与建设出版社 / 189.00元 / 精装",
+      "discovered_at": "2026-08-27T18:10:55+08:00"
+    },
+    {
+      "id": "1dc5f441946bb753",
+      "title": "夺回时间：世俗信仰与精神自由",
+      "link": "https://book.douban.com/subject/38498568/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[瑞典] 马丁·黑格隆德",
+      "published": "2026-7",
+      "summary": "上海书店出版社 / 115 / 精装",
+      "discovered_at": "2026-08-27T18:10:55+08:00"
+    },
     {
       "id": "419ae8282a8c4d94",
       "title": "死过千回的女子：黄柳霜的一生",
       "link": "https://book.douban.com/subject/37925535/",
-      "source": "豆瓣新书速递 · 文学",
+      "source": "豆瓣新书速递 · 艺术设计",
       "author": "[美] 朱洁琳",
       "published": "2026-8",
       "summary": "北京联合出版公司 / 80.00元 / 裸脊锁线",
@@ -159,7 +219,7 @@
       "id": "e733249ca371ef81",
       "title": "蓝白红：基耶斯洛夫斯基谈电影",
       "link": "https://book.douban.com/subject/38521876/",
-      "source": "豆瓣新书速递 · 文学",
+      "source": "豆瓣新书速递 · 艺术设计",
       "author": "[波] 克日什托夫·基耶斯洛夫斯基",
       "published": "2026-8",
       "summary": "商务印书馆 / 78.00元 / 精装",
@@ -484,106 +544,6 @@
       "published": "2026-6",
       "summary": "山西人民出版社 / 78.00元 / 精装",
       "discovered_at": "2026-08-21T10:08:55+08:00"
-    },
-    {
-      "id": "b9c24bea2fefcfd8",
-      "title": "女巫之歌：被遗忘的老妇人童话集",
-      "link": "https://book.douban.com/subject/38190156/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 沙伦·布莱基 / [英] 安加拉德·温",
-      "published": "2026-8",
-      "summary": "北京联合出版公司 / 88 / 精装",
-      "discovered_at": "2026-08-20T10:02:19+08:00"
-    },
-    {
-      "id": "c4747f85ecc2add6",
-      "title": "堤：电影小说",
-      "link": "https://book.douban.com/subject/38521982/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[法] 克里斯·马克 / Chris Marker",
-      "published": "2026-8",
-      "summary": "上海书店出版社 / 218 / 精装",
-      "discovered_at": "2026-08-20T10:02:19+08:00"
-    },
-    {
-      "id": "12ac5a811a68eb79",
-      "title": "喜欢动物的人",
-      "link": "https://book.douban.com/subject/38541608/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[加] 亚历山大·麦克劳德",
-      "published": "2026-8",
-      "summary": "上海译文出版社 / 68 / 平装",
-      "discovered_at": "2026-08-20T10:02:19+08:00"
-    },
-    {
-      "id": "39947f4534088538",
-      "title": "九九失真：关于《西游记》的一些常谈",
-      "link": "https://book.douban.com/subject/37923423/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "刘勃",
-      "published": "2026-7-1",
-      "summary": "北京十月文艺出版社 / 52.00元 / 平装",
-      "discovered_at": "2026-08-20T10:02:19+08:00"
-    },
-    {
-      "id": "f92d94595474e313",
-      "title": "一个社会学家的临终笔记",
-      "link": "https://book.douban.com/subject/38517256/",
-      "source": "豆瓣新书速递 · 社会纪实",
-      "author": "[美] 埃里克·欧林·赖特",
-      "published": "2026-7",
-      "summary": "上海人民出版社 / 88.00元 / 平装",
-      "discovered_at": "2026-08-20T10:02:19+08:00"
-    },
-    {
-      "id": "bb3bb9078c93ba3b",
-      "title": "日本中世的国家与宗教",
-      "link": "https://book.douban.com/subject/38519391/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "黑田俊雄",
-      "published": "2026-6-30",
-      "summary": "崇文书局 / 精装",
-      "discovered_at": "2026-08-20T10:02:19+08:00"
-    },
-    {
-      "id": "97c0fbe6e3f37616",
-      "title": "一个村庄的陷落：纳粹如何瓦解日常生活",
-      "link": "https://book.douban.com/subject/38556395/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[英] 朱莉娅·博伊德 / [德] 安洁莉卡·帕特尔",
-      "published": "2026-6-1",
-      "summary": "上海人民出版社 / 88.00 / 精装",
-      "discovered_at": "2026-08-20T10:02:19+08:00"
-    },
-    {
-      "id": "4a8ba44595b56774",
-      "title": "不可思议的人生",
-      "link": "https://book.douban.com/subject/37938919/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 马特·海格",
-      "published": "2026-6",
-      "summary": "北京联合出版公司 / 60.00元 / 平装",
-      "discovered_at": "2026-08-20T10:02:19+08:00"
-    },
-    {
-      "id": "3af8bfa79f23a2fd",
-      "title": "我和我的北大学生：一位社会学教授的教育札记",
-      "link": "https://book.douban.com/subject/38448556/",
-      "source": "豆瓣新书速递 · 社会纪实",
-      "author": "杨善华",
-      "published": "2026-8",
-      "summary": "生活·读书·新知三联书店 / 49.00元 / 平装",
-      "discovered_at": "2026-08-19T10:03:47+08:00"
-    },
-    {
-      "id": "6379126315c6184e",
-      "title": "2026年推理佳作选：兰亭诗会",
-      "link": "https://book.douban.com/subject/38480547/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "朝露 / 可卡 / 余有行于京洛兮 / 聆和 / 逃生大王",
-      "published": "2026-8",
-      "summary": "上海文化出版社 / 59.00元 / 平装",
-      "discovered_at": "2026-08-19T10:03:47+08:00"
     }
   ]
 }
