@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-08-27T18:10:55+08:00",
+  "generated_at": "2026-08-28T20:03:50+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 97,
-  "matched_count": 76,
+  "fetched_count": 98,
+  "matched_count": 79,
   "source_errors": [],
   "books": [
+    {
+      "id": "c01a4167c7ced64d",
+      "title": "万色虚无",
+      "link": "https://book.douban.com/subject/38547025/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[越南]阮刻银微",
+      "published": "2026-8-11",
+      "summary": "上海文艺出版社 / 69.00 / 平装",
+      "discovered_at": "2026-08-28T20:03:50+08:00"
+    },
+    {
+      "id": "1e0dc8dcfc2d5b8d",
+      "title": "活水",
+      "link": "https://book.douban.com/subject/38495054/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英] 罗伯特·麦克法伦",
+      "published": "2026-8",
+      "summary": "文汇出版社 / 79 / 平装",
+      "discovered_at": "2026-08-28T20:03:50+08:00"
+    },
+    {
+      "id": "c4747f85ecc2add6",
+      "title": "堤：电影小说",
+      "link": "https://book.douban.com/subject/38521982/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[法] 克里斯·马克 / Chris Marker",
+      "published": "2026-8",
+      "summary": "上海书店出版社 / 218 / 精装",
+      "discovered_at": "2026-08-28T20:03:50+08:00"
+    },
+    {
+      "id": "810ae0b007843125",
+      "title": "明代政争探源",
+      "link": "https://book.douban.com/subject/38548465/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "郑克晟 著 / 孙卫国 修订",
+      "published": "2026-7",
+      "summary": "天津人民出版社 / 98.00元 / 精装",
+      "discovered_at": "2026-08-28T20:03:50+08:00"
+    },
+    {
+      "id": "72806b48478f99f2",
+      "title": "岭南十三讲：叶兆言文学讲稿",
+      "link": "https://book.douban.com/subject/38427429/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "叶兆言",
+      "published": "2026-7",
+      "summary": "译林出版社 / 49.80元 / 平装",
+      "discovered_at": "2026-08-28T20:03:50+08:00"
+    },
+    {
+      "id": "6b582aaf812a843c",
+      "title": "信仰的外化：中古宗教美术",
+      "link": "https://book.douban.com/subject/38384973/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美] 巫鸿",
+      "published": "2026-7",
+      "summary": "上海人民出版社 / 188元 / 精装",
+      "discovered_at": "2026-08-28T20:03:50+08:00"
+    },
+    {
+      "id": "f92d94595474e313",
+      "title": "一个社会学家的临终笔记",
+      "link": "https://book.douban.com/subject/38517256/",
+      "source": "豆瓣新书速递 · 社会纪实",
+      "author": "[美] 埃里克·欧林·赖特",
+      "published": "2026-7",
+      "summary": "上海人民出版社 / 88.00元 / 平装",
+      "discovered_at": "2026-08-28T20:03:50+08:00"
+    },
+    {
+      "id": "e150b578e60b600b",
+      "title": "春歌",
+      "link": "https://book.douban.com/subject/38523867/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "艾伟",
+      "published": "2026-6",
+      "summary": "人民文学出版社 / 79 / 精装",
+      "discovered_at": "2026-08-28T20:03:50+08:00"
+    },
+    {
+      "id": "a83b2542af9c0c09",
+      "title": "倒插朱门：明清时期的入赘婚",
+      "link": "https://book.douban.com/subject/38408078/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "薛英杰",
+      "published": "2026",
+      "summary": "天津古籍出版社 / 68元 / 平装",
+      "discovered_at": "2026-08-28T20:03:50+08:00"
+    },
     {
       "id": "aa9d13df84080fa4",
       "title": "败者食尘：马尔克斯的孤独与爱情",
@@ -456,66 +546,6 @@
       "discovered_at": "2026-08-22T09:59:20+08:00"
     },
     {
-      "id": "1ae1fe43df2fb472",
-      "title": "才女彻夜未眠：近代中国女性叙事文学的兴起",
-      "link": "https://book.douban.com/subject/38590265/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "胡晓真",
-      "published": "2026-9",
-      "summary": "广西师范大学出版社 / 88 / 精装",
-      "discovered_at": "2026-08-21T10:08:55+08:00"
-    },
-    {
-      "id": "9792e78442651432",
-      "title": "绘画的秘密：从达·芬奇到毕加索",
-      "link": "https://book.douban.com/subject/37656067/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[意] 彼得罗·C. 马拉尼（Pietro C. Marani）",
-      "published": "2026-7",
-      "summary": "四川美术出版社 / 798.00元 / 精装",
-      "discovered_at": "2026-08-21T10:08:55+08:00"
-    },
-    {
-      "id": "77cfa369ec5a6a2a",
-      "title": "泛托邦",
-      "link": "https://book.douban.com/subject/38446637/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[德] 特蕾莎・汉尼根",
-      "published": "2026-7",
-      "summary": "浙江文艺出版社 / 69.00元 / 平装",
-      "discovered_at": "2026-08-21T10:08:55+08:00"
-    },
-    {
-      "id": "544359d274da24f7",
-      "title": "树影墙前的夜晚：2007-2015年间的杂记与随想",
-      "link": "https://book.douban.com/subject/38521980/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[奥地利] 彼得·汉德克",
-      "published": "2026-7",
-      "summary": "上海人民出版社 / 92.00元 / 平装",
-      "discovered_at": "2026-08-21T10:08:55+08:00"
-    },
-    {
-      "id": "a781a87f1e93fa57",
-      "title": "弗拉德伯爵",
-      "link": "https://book.douban.com/subject/37892416/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[墨西哥] 卡洛斯·富恩特斯",
-      "published": "2026-7",
-      "summary": "上海译文出版社 / 58 / 精装",
-      "discovered_at": "2026-08-21T10:08:55+08:00"
-    },
-    {
-      "id": "8a93a7db924f4942",
-      "title": "广播中的美国：大萧条与现代大众文化的兴起",
-      "link": "https://book.douban.com/subject/38518894/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 布鲁斯·伦索尔",
-      "published": "2026-7",
-      "summary": "上海教育出版社 / 78.00 / 平装",
-      "discovered_at": "2026-08-21T10:08:55+08:00"
-    },
-    {
       "id": "d3de836540234158",
       "title": "冬之喜剧",
       "link": "https://book.douban.com/subject/38436544/",
@@ -523,26 +553,6 @@
       "author": "陆秋槎",
       "published": "2026-7",
       "summary": "新星出版社 / 56.00元 / 平装",
-      "discovered_at": "2026-08-21T10:08:55+08:00"
-    },
-    {
-      "id": "239f551a2f206b1d",
-      "title": "维克托·哈拉：一首未竟之歌",
-      "link": "https://book.douban.com/subject/38412237/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[英]琼·哈拉",
-      "published": "2026-6",
-      "summary": "浙江文艺出版社 / 66.00元 / 平装",
-      "discovered_at": "2026-08-21T10:08:55+08:00"
-    },
-    {
-      "id": "4ac32d43d9a961b1",
-      "title": "娘家与婆家：华北农村妇女的生活空间和后台权力",
-      "link": "https://book.douban.com/subject/38551807/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "李霞",
-      "published": "2026-6",
-      "summary": "山西人民出版社 / 78.00元 / 精装",
       "discovered_at": "2026-08-21T10:08:55+08:00"
     }
   ]
