@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-08-30T13:42:27+08:00",
+  "generated_at": "2026-08-31T13:58:40+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 96,
-  "matched_count": 77,
+  "matched_count": 76,
   "source_errors": [],
   "books": [
+    {
+      "id": "bb701e6eacac0d0a",
+      "title": "里斯本的冬天",
+      "link": "https://book.douban.com/subject/38502970/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[西] 安东尼奥·穆尼奥斯·莫利纳",
+      "published": "2026-8",
+      "summary": "译林出版社 / 68.00元 / 精装",
+      "discovered_at": "2026-08-31T13:58:40+08:00"
+    },
+    {
+      "id": "0b48fac9d19dfa98",
+      "title": "无年龄的人：一个人类学家对自我、时间与意义的研究",
+      "link": "https://book.douban.com/subject/38603049/",
+      "source": "豆瓣新书速递 · 社会纪实",
+      "author": "莎朗·考夫曼",
+      "published": "2026-7",
+      "summary": "华东师范大学出版社 / 75.00 / 平装",
+      "discovered_at": "2026-08-31T13:58:40+08:00"
+    },
+    {
+      "id": "446878d969055c32",
+      "title": "如何与世界开玩笑",
+      "link": "https://book.douban.com/subject/38569405/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "苏童 / 苏童",
+      "published": "2026-7",
+      "summary": "江苏凤凰文艺出版社 / 42.00元 / 平装",
+      "discovered_at": "2026-08-31T13:58:40+08:00"
+    },
+    {
+      "id": "a6c80f47fe57cb39",
+      "title": "中国人的自画像：中国文学史中的自传与自我表述",
+      "link": "https://book.douban.com/subject/38404173/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[德] 鲍吾刚",
+      "published": "2026-7",
+      "summary": "江苏人民出版社 / 188 / 平装",
+      "discovered_at": "2026-08-31T13:58:40+08:00"
+    },
+    {
+      "id": "6f65194512c2d37e",
+      "title": "努力玩乐：游戏：能动性的艺术",
+      "link": "https://book.douban.com/subject/37381102/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] C. 蒂·阮",
+      "published": "2026-6",
+      "summary": "中信出版集团 / 69.00元 / 假精装",
+      "discovered_at": "2026-08-31T13:58:40+08:00"
+    },
+    {
+      "id": "800f7f9180ebcce4",
+      "title": "中国神话",
+      "link": "https://book.douban.com/subject/37397145/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "刘陶陶",
+      "published": "2026-6",
+      "summary": "广东旅游出版社 / 65.00元 / 精装",
+      "discovered_at": "2026-08-31T13:58:40+08:00"
+    },
     {
       "id": "7e7b488631050c48",
       "title": "德国士人的衰落：1890—1933年的德国学术共同体",
@@ -406,26 +466,6 @@
       "discovered_at": "2026-08-25T10:04:11+08:00"
     },
     {
-      "id": "dcaf4292a24c34b2",
-      "title": "山居续忆：外公、外婆及其他",
-      "link": "https://book.douban.com/subject/37808417/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[澳] 徐家祯",
-      "published": "2026-8-1",
-      "summary": "花城出版社 / 98元 / 精装",
-      "discovered_at": "2026-08-24T10:08:34+08:00"
-    },
-    {
-      "id": "e733249ca371ef81",
-      "title": "蓝白红：基耶斯洛夫斯基谈电影",
-      "link": "https://book.douban.com/subject/38521876/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[波] 克日什托夫·基耶斯洛夫斯基",
-      "published": "2026-8",
-      "summary": "商务印书馆 / 78.00元 / 精装",
-      "discovered_at": "2026-08-24T10:08:34+08:00"
-    },
-    {
       "id": "6fc0a23111514acf",
       "title": "所罗门之歌",
       "link": "https://book.douban.com/subject/38541605/",
@@ -434,76 +474,6 @@
       "published": "2026-8",
       "summary": "上海译文出版社 / 89 / 精装",
       "discovered_at": "2026-08-24T10:08:34+08:00"
-    },
-    {
-      "id": "ed5cd02ee01a791b",
-      "title": "布谷鸟那么小，宣告春天来临时那么骄傲",
-      "link": "https://book.douban.com/subject/38522014/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[葡] 利迪娅·若热",
-      "published": "2026-8",
-      "summary": "上海人民出版社 / 66.00元 / 精装",
-      "discovered_at": "2026-08-24T10:08:34+08:00"
-    },
-    {
-      "id": "1712b8cbc8fccb59",
-      "title": "所有无名的人",
-      "link": "https://book.douban.com/subject/38523983/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "陈年喜",
-      "published": "2026-7",
-      "summary": "江苏凤凰文艺出版社 / 58.00 / 平装",
-      "discovered_at": "2026-08-24T10:08:34+08:00"
-    },
-    {
-      "id": "7bb1ffa01262301d",
-      "title": "埃及艺术中的符号与魔法",
-      "link": "https://book.douban.com/subject/37454112/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[英] 理查德·H. 威尔金森",
-      "published": "2026-7",
-      "summary": "四川人民出版社 / 128.00",
-      "discovered_at": "2026-08-24T10:08:34+08:00"
-    },
-    {
-      "id": "e537238c7baaed85",
-      "title": "古史谜案：历史课本书外话",
-      "link": "https://book.douban.com/subject/38420822/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "辛德勇",
-      "published": "2026-7",
-      "summary": "浙江人民出版社 / 58.00 / 平装",
-      "discovered_at": "2026-08-24T10:08:34+08:00"
-    },
-    {
-      "id": "1bfe005674475160",
-      "title": "离线好友",
-      "link": "https://book.douban.com/subject/38455226/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[意] 西尔维娅·阿瓦洛内",
-      "published": "2026-6",
-      "summary": "上海译文出版社 / 89.00元",
-      "discovered_at": "2026-08-24T10:08:34+08:00"
-    },
-    {
-      "id": "4a8020974a4089f3",
-      "title": "制度如何思考",
-      "link": "https://book.douban.com/subject/38431214/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[英] 玛丽·道格拉斯 / 玛丽·道格拉斯",
-      "published": "2026-6",
-      "summary": "上海人民出版社",
-      "discovered_at": "2026-08-24T10:08:34+08:00"
-    },
-    {
-      "id": "88e1e5c06ae38e53",
-      "title": "往昔岁月的喧嚣",
-      "link": "https://book.douban.com/subject/38385424/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[阿尔巴尼亚] 德里特洛·阿果里",
-      "published": "2026-7",
-      "summary": "重庆出版社 / 98.00元 / 精装",
-      "discovered_at": "2026-08-23T10:10:09+08:00"
     }
   ]
 }
