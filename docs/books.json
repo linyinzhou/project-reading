@@ -1,10 +1,90 @@
 {
-  "generated_at": "2026-09-01T13:31:40+08:00",
+  "generated_at": "2026-09-02T12:57:19+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 96,
   "matched_count": 74,
   "source_errors": [],
   "books": [
+    {
+      "id": "3edd6921cde9ce29",
+      "title": "无人观看",
+      "link": "https://book.douban.com/subject/38591073/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "刘天昭",
+      "published": "2026-8-12",
+      "summary": "广西师范大学出版社 / 49.00 / 平装",
+      "discovered_at": "2026-09-02T12:57:19+08:00"
+    },
+    {
+      "id": "e733249ca371ef81",
+      "title": "蓝白红：基耶斯洛夫斯基谈电影",
+      "link": "https://book.douban.com/subject/38521876/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[波] 克日什托夫·基耶斯洛夫斯基",
+      "published": "2026-8",
+      "summary": "商务印书馆 / 78.00元 / 精装",
+      "discovered_at": "2026-09-02T12:57:19+08:00"
+    },
+    {
+      "id": "79eb92306939a19a",
+      "title": "构建《三国志》",
+      "link": "https://book.douban.com/subject/38483855/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "黄粱",
+      "published": "2026-8",
+      "summary": "中华书局 / 62.00元 / 平装",
+      "discovered_at": "2026-09-02T12:57:19+08:00"
+    },
+    {
+      "id": "d3de836540234158",
+      "title": "冬之喜剧",
+      "link": "https://book.douban.com/subject/38436544/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "陆秋槎",
+      "published": "2026-7",
+      "summary": "新星出版社 / 56.00元 / 平装",
+      "discovered_at": "2026-09-02T12:57:19+08:00"
+    },
+    {
+      "id": "e3a5ae24f56d8750",
+      "title": "你喜欢肖邦吗",
+      "link": "https://book.douban.com/subject/38432945/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "英国《留声机》",
+      "published": "2026-7",
+      "summary": "江苏凤凰文艺出版社 / 78.00 元 / 平装",
+      "discovered_at": "2026-09-02T12:57:19+08:00"
+    },
+    {
+      "id": "0e38772cdfd4200b",
+      "title": "为什么是“他”：权力与支配的人类史",
+      "link": "https://book.douban.com/subject/38385403/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美]南希·林迪斯法恩 / [美]乔纳森·尼尔",
+      "published": "2026-7",
+      "summary": "浙江人民出版社 / 98.00元 / 精装",
+      "discovered_at": "2026-09-02T12:57:19+08:00"
+    },
+    {
+      "id": "b3b75256041c4419",
+      "title": "三个基尼",
+      "link": "https://book.douban.com/subject/38405927/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英] 弗吉尼亚·伍尔夫",
+      "published": "2026-7",
+      "summary": "浙江文艺出版社 / 45.00元 / 平装",
+      "discovered_at": "2026-09-02T12:57:19+08:00"
+    },
+    {
+      "id": "239f551a2f206b1d",
+      "title": "维克托·哈拉：一首未竟之歌",
+      "link": "https://book.douban.com/subject/38412237/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[英]琼·哈拉",
+      "published": "2026-6",
+      "summary": "浙江文艺出版社 / 66.00元 / 平装",
+      "discovered_at": "2026-09-02T12:57:19+08:00"
+    },
     {
       "id": "6c4f3c2a43cf92eb",
       "title": "看见情绪：在艺术中舒压",
@@ -394,56 +474,6 @@
       "published": "2026-7",
       "summary": "上海书店出版社 / 115 / 精装",
       "discovered_at": "2026-08-27T18:10:55+08:00"
-    },
-    {
-      "id": "419ae8282a8c4d94",
-      "title": "死过千回的女子：黄柳霜的一生",
-      "link": "https://book.douban.com/subject/37925535/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美] 朱洁琳",
-      "published": "2026-8",
-      "summary": "北京联合出版公司 / 80.00元 / 裸脊锁线",
-      "discovered_at": "2026-08-26T10:10:10+08:00"
-    },
-    {
-      "id": "85519ecb0037157b",
-      "title": "格拉斯医生",
-      "link": "https://book.douban.com/subject/37379647/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[瑞典]雅尔玛尔·瑟德尔贝里 / [瑞典]雅尔玛尔·瑟德尔贝里",
-      "published": "2026-8",
-      "summary": "江苏凤凰文艺出版社 / 78 / 精装",
-      "discovered_at": "2026-08-26T10:10:10+08:00"
-    },
-    {
-      "id": "17305b4280c9684c",
-      "title": "明天吃什么",
-      "link": "https://book.douban.com/subject/38522391/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "张佳玮",
-      "published": "2026-8",
-      "summary": "上海文艺出版社 / 68 / 平装",
-      "discovered_at": "2026-08-26T10:10:10+08:00"
-    },
-    {
-      "id": "ccd067d5dd440f02",
-      "title": "章法九讲：书法布局的艺术",
-      "link": "https://book.douban.com/subject/38406126/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "方建勋",
-      "published": "2026-7",
-      "summary": "生活·读书·新知三联书店 / 98.00元 / 平装",
-      "discovered_at": "2026-08-26T10:10:10+08:00"
-    },
-    {
-      "id": "98ba787a2268f231",
-      "title": "我和我生活过的地方",
-      "link": "https://book.douban.com/subject/38520059/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[日] 吉本芭娜娜",
-      "published": "2026-7",
-      "summary": "上海译文出版社 / 55.00元 / 精装",
-      "discovered_at": "2026-08-26T10:10:10+08:00"
     },
     {
       "id": "5a3f3757cee5ecde",
