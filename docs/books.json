@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-09-02T12:57:19+08:00",
+  "generated_at": "2026-09-03T12:54:41+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 96,
-  "matched_count": 74,
+  "fetched_count": 97,
+  "matched_count": 78,
   "source_errors": [],
   "books": [
+    {
+      "id": "322ca044dc66205b",
+      "title": "写信人",
+      "link": "https://book.douban.com/subject/38489157/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美]弗吉尼亚·埃文斯",
+      "published": "2026-7-20",
+      "summary": "中信出版社 / 平装",
+      "discovered_at": "2026-09-03T12:54:41+08:00"
+    },
+    {
+      "id": "8260e86822fb1480",
+      "title": "铸造天帝",
+      "link": "https://book.douban.com/subject/38596783/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "辛德勇",
+      "published": "2026-7",
+      "summary": "现代出版社 / 118.00元 / 精装",
+      "discovered_at": "2026-09-03T12:54:41+08:00"
+    },
+    {
+      "id": "a4ee4648b97f27a5",
+      "title": "老美国佬",
+      "link": "https://book.douban.com/subject/37894985/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[墨西哥] 卡洛斯·富恩特斯",
+      "published": "2026-7",
+      "summary": "上海译文出版社 / 58 / 精装",
+      "discovered_at": "2026-09-03T12:54:41+08:00"
+    },
+    {
+      "id": "fa96152c35d0229d",
+      "title": "给忙碌者的世界神话传说·星空篇",
+      "link": "https://book.douban.com/subject/38434720/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "〔英〕薇洛·温瑟姆",
+      "published": "2026-7",
+      "summary": "湖南文艺出版社 / 38.00元 / 平装口袋本",
+      "discovered_at": "2026-09-03T12:54:41+08:00"
+    },
+    {
+      "id": "7ecf3d50f2f73209",
+      "title": "开普勒的精灵：科幻与古典",
+      "link": "https://book.douban.com/subject/38469285/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "吴雅凌",
+      "published": "2026-7",
+      "summary": "上海文艺出版社 / 58.00 / 平装",
+      "discovered_at": "2026-09-03T12:54:41+08:00"
+    },
+    {
+      "id": "f51753062dbde613",
+      "title": "一个女人",
+      "link": "https://book.douban.com/subject/38193260/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[意] 西比拉·阿莱拉莫",
+      "published": "2026-7",
+      "summary": "浙江文艺出版社 / 45.00元 / 平装",
+      "discovered_at": "2026-09-03T12:54:41+08:00"
+    },
+    {
+      "id": "74fb5e10f1a7ea89",
+      "title": "画家中的画家：西方绘画史上的三十座高峰",
+      "link": "https://book.douban.com/subject/38509129/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "张法中",
+      "published": "2026-6",
+      "summary": "广东人民出版社 / 138.00 / 平装",
+      "discovered_at": "2026-09-03T12:54:41+08:00"
+    },
     {
       "id": "3edd6921cde9ce29",
       "title": "无人观看",
@@ -414,76 +484,6 @@
       "published": "2026",
       "summary": "天津古籍出版社 / 68元 / 平装",
       "discovered_at": "2026-08-28T20:03:50+08:00"
-    },
-    {
-      "id": "aa9d13df84080fa4",
-      "title": "败者食尘：马尔克斯的孤独与爱情",
-      "link": "https://book.douban.com/subject/38582395/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "陆浩斌 / 何飘飘",
-      "published": "2026-8",
-      "summary": "浙江文艺出版社 / 68 / 精装",
-      "discovered_at": "2026-08-27T18:10:55+08:00"
-    },
-    {
-      "id": "7e78525de1e9d18d",
-      "title": "燃烧的女孩",
-      "link": "https://book.douban.com/subject/38530127/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] C.J.图德",
-      "published": "2026-8",
-      "summary": "江苏凤凰文艺出版社 / 49.80元 / 平装",
-      "discovered_at": "2026-08-27T18:10:55+08:00"
-    },
-    {
-      "id": "2a694ee5311fcda2",
-      "title": "喜乐会",
-      "link": "https://book.douban.com/subject/38461193/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "周宏翔",
-      "published": "2026-8",
-      "summary": "人民文学出版社 / 42",
-      "discovered_at": "2026-08-27T18:10:55+08:00"
-    },
-    {
-      "id": "13fe3724bbd4a005",
-      "title": "永恒之城罗马：最初的三千年",
-      "link": "https://book.douban.com/subject/38446627/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[英] 费迪南德·阿迪斯",
-      "published": "2026-7",
-      "summary": "研究出版社 / 138.00元 / 精装",
-      "discovered_at": "2026-08-27T18:10:55+08:00"
-    },
-    {
-      "id": "a7100eadb68e91af",
-      "title": "权力的传记：墨西哥现代史，1810-1996",
-      "link": "https://book.douban.com/subject/38498565/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[墨] 恩里克·克劳泽",
-      "published": "2026-7",
-      "summary": "民主与建设出版社 / 189.00元 / 精装",
-      "discovered_at": "2026-08-27T18:10:55+08:00"
-    },
-    {
-      "id": "1dc5f441946bb753",
-      "title": "夺回时间：世俗信仰与精神自由",
-      "link": "https://book.douban.com/subject/38498568/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[瑞典] 马丁·黑格隆德",
-      "published": "2026-7",
-      "summary": "上海书店出版社 / 115 / 精装",
-      "discovered_at": "2026-08-27T18:10:55+08:00"
-    },
-    {
-      "id": "5a3f3757cee5ecde",
-      "title": "德里达传：一个事件，或许",
-      "link": "https://book.douban.com/subject/38503894/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[澳] 彼得·萨尔蒙",
-      "published": "2026-7",
-      "summary": "南京大学出版社 / 78 / 平装",
-      "discovered_at": "2026-08-26T10:10:10+08:00"
     }
   ]
 }
