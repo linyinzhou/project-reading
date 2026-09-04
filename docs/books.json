@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-09-03T12:54:41+08:00",
+  "generated_at": "2026-09-04T12:59:16+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 97,
   "matched_count": 78,
   "source_errors": [],
   "books": [
+    {
+      "id": "49887dfc4657b8b5",
+      "title": "从闺阁到报馆",
+      "link": "https://book.douban.com/subject/38572216/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 马育新",
+      "published": "2026-9",
+      "summary": "岳麓书社 / 88.00 / 裸脊锁线",
+      "discovered_at": "2026-09-04T12:59:16+08:00"
+    },
+    {
+      "id": "9f39cc7397b3336a",
+      "title": "金陵风雨图：生死归途",
+      "link": "https://book.douban.com/subject/38530226/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "何慕",
+      "published": "2026-8",
+      "summary": "北京联合出版公司 / 59.80元 / 平装",
+      "discovered_at": "2026-09-04T12:59:16+08:00"
+    },
+    {
+      "id": "419ae8282a8c4d94",
+      "title": "死过千回的女子：黄柳霜的一生",
+      "link": "https://book.douban.com/subject/37925535/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美] 朱洁琳",
+      "published": "2026-8",
+      "summary": "北京联合出版公司 / 80.00元 / 裸脊锁线",
+      "discovered_at": "2026-09-04T12:59:16+08:00"
+    },
+    {
+      "id": "50d809a5ae0fb397",
+      "title": "病态社会：挑战原始社会的和谐神话",
+      "link": "https://book.douban.com/subject/38507483/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 罗伯特·B.埃杰顿",
+      "published": "2026-7",
+      "summary": "译林出版社 / 72.00 / 平装",
+      "discovered_at": "2026-09-04T12:59:16+08:00"
+    },
+    {
+      "id": "88e1e5c06ae38e53",
+      "title": "往昔岁月的喧嚣",
+      "link": "https://book.douban.com/subject/38385424/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[阿尔巴尼亚] 德里特洛·阿果里",
+      "published": "2026-7",
+      "summary": "重庆出版社 / 98.00元 / 精装",
+      "discovered_at": "2026-09-04T12:59:16+08:00"
+    },
+    {
+      "id": "c515afbe271c43b5",
+      "title": "张爱玲：浮世的悲哀",
+      "link": "https://book.douban.com/subject/37231902/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 宋明炜",
+      "published": "2026-7",
+      "summary": "上海文艺出版社 / 68元 / 平装",
+      "discovered_at": "2026-09-04T12:59:16+08:00"
+    },
     {
       "id": "322ca044dc66205b",
       "title": "写信人",
@@ -396,46 +456,6 @@
       "discovered_at": "2026-08-29T15:18:17+08:00"
     },
     {
-      "id": "c01a4167c7ced64d",
-      "title": "万色虚无",
-      "link": "https://book.douban.com/subject/38547025/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[越南]阮刻银微",
-      "published": "2026-8-11",
-      "summary": "上海文艺出版社 / 69.00 / 平装",
-      "discovered_at": "2026-08-28T20:03:50+08:00"
-    },
-    {
-      "id": "1e0dc8dcfc2d5b8d",
-      "title": "活水",
-      "link": "https://book.douban.com/subject/38495054/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 罗伯特·麦克法伦",
-      "published": "2026-8",
-      "summary": "文汇出版社 / 79 / 平装",
-      "discovered_at": "2026-08-28T20:03:50+08:00"
-    },
-    {
-      "id": "c4747f85ecc2add6",
-      "title": "堤：电影小说",
-      "link": "https://book.douban.com/subject/38521982/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[法] 克里斯·马克 / Chris Marker",
-      "published": "2026-8",
-      "summary": "上海书店出版社 / 218 / 精装",
-      "discovered_at": "2026-08-28T20:03:50+08:00"
-    },
-    {
-      "id": "810ae0b007843125",
-      "title": "明代政争探源",
-      "link": "https://book.douban.com/subject/38548465/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "郑克晟 著 / 孙卫国 修订",
-      "published": "2026-7",
-      "summary": "天津人民出版社 / 98.00元 / 精装",
-      "discovered_at": "2026-08-28T20:03:50+08:00"
-    },
-    {
       "id": "72806b48478f99f2",
       "title": "岭南十三讲：叶兆言文学讲稿",
       "link": "https://book.douban.com/subject/38427429/",
@@ -446,16 +466,6 @@
       "discovered_at": "2026-08-28T20:03:50+08:00"
     },
     {
-      "id": "6b582aaf812a843c",
-      "title": "信仰的外化：中古宗教美术",
-      "link": "https://book.douban.com/subject/38384973/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美] 巫鸿",
-      "published": "2026-7",
-      "summary": "上海人民出版社 / 188元 / 精装",
-      "discovered_at": "2026-08-28T20:03:50+08:00"
-    },
-    {
       "id": "f92d94595474e313",
       "title": "一个社会学家的临终笔记",
       "link": "https://book.douban.com/subject/38517256/",
@@ -463,26 +473,6 @@
       "author": "[美] 埃里克·欧林·赖特",
       "published": "2026-7",
       "summary": "上海人民出版社 / 88.00元 / 平装",
-      "discovered_at": "2026-08-28T20:03:50+08:00"
-    },
-    {
-      "id": "e150b578e60b600b",
-      "title": "春歌",
-      "link": "https://book.douban.com/subject/38523867/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "艾伟",
-      "published": "2026-6",
-      "summary": "人民文学出版社 / 79 / 精装",
-      "discovered_at": "2026-08-28T20:03:50+08:00"
-    },
-    {
-      "id": "a83b2542af9c0c09",
-      "title": "倒插朱门：明清时期的入赘婚",
-      "link": "https://book.douban.com/subject/38408078/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "薛英杰",
-      "published": "2026",
-      "summary": "天津古籍出版社 / 68元 / 平装",
       "discovered_at": "2026-08-28T20:03:50+08:00"
     }
   ]
