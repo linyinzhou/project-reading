@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-09-04T12:59:16+08:00",
+  "generated_at": "2026-09-05T12:52:02+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 97,
-  "matched_count": 78,
+  "matched_count": 75,
   "source_errors": [],
   "books": [
+    {
+      "id": "dc376c727e06054c",
+      "title": "当我们比光还轻",
+      "link": "https://book.douban.com/subject/38177507/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 珍妮特·温特森",
+      "published": "2026-8-1",
+      "summary": "文汇出版社 / 59.90 / 平装双封",
+      "discovered_at": "2026-09-05T12:52:02+08:00"
+    },
+    {
+      "id": "8f80b3acb64e1ec2",
+      "title": "明代小说四大奇书",
+      "link": "https://book.douban.com/subject/38535908/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 浦安迪",
+      "published": "2026-8",
+      "summary": "浙江文艺出版社 / 88.00元 / 平装",
+      "discovered_at": "2026-09-05T12:52:02+08:00"
+    },
+    {
+      "id": "ed5cd02ee01a791b",
+      "title": "布谷鸟那么小，宣告春天来临时那么骄傲",
+      "link": "https://book.douban.com/subject/38522014/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[葡] 利迪娅·若热",
+      "published": "2026-8",
+      "summary": "上海人民出版社 / 66.00元 / 精装",
+      "discovered_at": "2026-09-05T12:52:02+08:00"
+    },
+    {
+      "id": "2f828f7e8ff58e44",
+      "title": "巴纳姆博物馆：斯蒂文·米尔豪瑟短篇自选集",
+      "link": "https://book.douban.com/subject/37648900/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 斯蒂文·米尔豪瑟",
+      "published": "2026-8",
+      "summary": "北京联合出版公司 / 138.00 / 单册平装+函盒",
+      "discovered_at": "2026-09-05T12:52:02+08:00"
+    },
+    {
+      "id": "c5bb7d04e96f3155",
+      "title": "如何像女人那样思考：父权制下，女哲学家们的精神突围",
+      "link": "https://book.douban.com/subject/38434682/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 丽甘·佩纳卢纳",
+      "published": "2026-8",
+      "summary": "广东人民出版社 / 68.00元 / 平装",
+      "discovered_at": "2026-09-05T12:52:02+08:00"
+    },
+    {
+      "id": "9e1a86ff967b6fe0",
+      "title": "即使不会游泳，也要浮出水面",
+      "link": "https://book.douban.com/subject/38568443/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 薇薇安·戈尔尼克",
+      "published": "2026-8",
+      "summary": "上海教育出版社 / 49.8元 / 平装",
+      "discovered_at": "2026-09-05T12:52:02+08:00"
+    },
+    {
+      "id": "544359d274da24f7",
+      "title": "树影墙前的夜晚：2007-2015年间的杂记与随想",
+      "link": "https://book.douban.com/subject/38521980/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[奥地利] 彼得·汉德克",
+      "published": "2026-7",
+      "summary": "上海人民出版社 / 92.00元 / 平装",
+      "discovered_at": "2026-09-05T12:52:02+08:00"
+    },
+    {
+      "id": "7bb1ffa01262301d",
+      "title": "埃及艺术中的符号与魔法",
+      "link": "https://book.douban.com/subject/37454112/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[英] 理查德·H. 威尔金森",
+      "published": "2026-7",
+      "summary": "四川人民出版社 / 128.00",
+      "discovered_at": "2026-09-05T12:52:02+08:00"
+    },
+    {
+      "id": "258f8d4ed3bd98a8",
+      "title": "催眠时代",
+      "link": "https://book.douban.com/subject/38570222/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "萧轶",
+      "published": "2026-7",
+      "summary": "广东人民出版社 / 88 / 精装",
+      "discovered_at": "2026-09-05T12:52:02+08:00"
+    },
     {
       "id": "49887dfc4657b8b5",
       "title": "从闺阁到报馆",
@@ -396,46 +486,6 @@
       "discovered_at": "2026-08-30T13:42:27+08:00"
     },
     {
-      "id": "aacbc04be35b6701",
-      "title": "非物质主义：对象与社会理论",
-      "link": "https://book.douban.com/subject/38547008/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 格拉汉姆·哈曼",
-      "published": "2026-8",
-      "summary": "广西师范大学出版社 / 49 / 精装",
-      "discovered_at": "2026-08-29T15:18:17+08:00"
-    },
-    {
-      "id": "323f5faea6d032cc",
-      "title": "再唤一声阿弟仔",
-      "link": "https://book.douban.com/subject/38597943/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "黄伟康",
-      "published": "2026-8",
-      "summary": "江苏凤凰文艺出版社 / 59.00元 / 平装",
-      "discovered_at": "2026-08-29T15:18:17+08:00"
-    },
-    {
-      "id": "b296345f328fa983",
-      "title": "裂隙之境",
-      "link": "https://book.douban.com/subject/38490850/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[法] 弗兰克·蒂利耶",
-      "published": "2026-7",
-      "summary": "新星出版社 / 69.00元 / 平装",
-      "discovered_at": "2026-08-29T15:18:17+08:00"
-    },
-    {
-      "id": "8a93a7db924f4942",
-      "title": "广播中的美国：大萧条与现代大众文化的兴起",
-      "link": "https://book.douban.com/subject/38518894/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 布鲁斯·伦索尔",
-      "published": "2026-7",
-      "summary": "上海教育出版社 / 78.00 / 平装",
-      "discovered_at": "2026-08-29T15:18:17+08:00"
-    },
-    {
       "id": "3835611e547f8ad0",
       "title": "地下的灵域：中国墓葬美术",
       "link": "https://book.douban.com/subject/37764064/",
@@ -444,26 +494,6 @@
       "published": "2026-7",
       "summary": "上海人民出版社 / 168.00元 / 精装",
       "discovered_at": "2026-08-29T15:18:17+08:00"
-    },
-    {
-      "id": "4d7e5331262a00d1",
-      "title": "伊利亚特：插图口袋本",
-      "link": "https://book.douban.com/subject/38191616/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[古希腊]荷马",
-      "published": "2026-7",
-      "summary": "湖南文艺出版社 / 68.00元 / 平装",
-      "discovered_at": "2026-08-29T15:18:17+08:00"
-    },
-    {
-      "id": "72806b48478f99f2",
-      "title": "岭南十三讲：叶兆言文学讲稿",
-      "link": "https://book.douban.com/subject/38427429/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "叶兆言",
-      "published": "2026-7",
-      "summary": "译林出版社 / 49.80元 / 平装",
-      "discovered_at": "2026-08-28T20:03:50+08:00"
     },
     {
       "id": "f92d94595474e313",
