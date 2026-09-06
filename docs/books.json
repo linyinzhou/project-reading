@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-09-05T12:52:02+08:00",
+  "generated_at": "2026-09-06T12:59:32+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 97,
-  "matched_count": 75,
+  "matched_count": 78,
   "source_errors": [],
   "books": [
+    {
+      "id": "4f183ce09342234e",
+      "title": "透明人",
+      "link": "https://book.douban.com/subject/38487618/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[苏]伊利亚·伊里夫 / [苏]叶夫根尼·彼得罗夫",
+      "published": "2026-8",
+      "summary": "湖南文艺出版社 / 68.00元 / 精装",
+      "discovered_at": "2026-09-06T12:59:32+08:00"
+    },
+    {
+      "id": "720e29d2c14f4e3f",
+      "title": "维特根斯坦笔记",
+      "link": "https://book.douban.com/subject/38519811/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[奥]路德维希·维特根斯坦",
+      "published": "2026-8",
+      "summary": "岳麓书社 / 49.00 / 平装",
+      "discovered_at": "2026-09-06T12:59:32+08:00"
+    },
+    {
+      "id": "57525a31a28b0196",
+      "title": "穿越：在漫游中想象艺术",
+      "link": "https://book.douban.com/subject/38583596/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美] 巫鸿",
+      "published": "2026-8",
+      "summary": "上海三联书店 / 239.00 / 精装",
+      "discovered_at": "2026-09-06T12:59:32+08:00"
+    },
+    {
+      "id": "87b8e9ec268f6d40",
+      "title": "大一统的制度密码：行政发包制与国家治理",
+      "link": "https://book.douban.com/subject/38574624/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "周黎安",
+      "published": "2026-8",
+      "summary": "格致出版社 / 188.00元 / 精装",
+      "discovered_at": "2026-09-06T12:59:32+08:00"
+    },
+    {
+      "id": "d2e4c41d28017aa9",
+      "title": "继女",
+      "link": "https://book.douban.com/subject/38431429/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 卡罗琳·布莱克伍德",
+      "published": "2026-7",
+      "summary": "中信出版社 / 45.00元 / 平装",
+      "discovered_at": "2026-09-06T12:59:32+08:00"
+    },
+    {
+      "id": "750aa7b09dd8823b",
+      "title": "诗礼相成：《诗经》文本的生成与阐释",
+      "link": "https://book.douban.com/subject/38581006/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "马银琴",
+      "published": "2026",
+      "summary": "中华书局 / 158.00元 / 平装",
+      "discovered_at": "2026-09-06T12:59:32+08:00"
+    },
     {
       "id": "dc376c727e06054c",
       "title": "当我们比光还轻",
@@ -436,16 +496,6 @@
       "discovered_at": "2026-08-31T13:58:40+08:00"
     },
     {
-      "id": "7e7b488631050c48",
-      "title": "德国士人的衰落：1890—1933年的德国学术共同体",
-      "link": "https://book.douban.com/subject/38535508/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美]弗里茨·林格",
-      "published": "2026-8-1",
-      "summary": "北京大学出版社 / 98.00 / 平装",
-      "discovered_at": "2026-08-30T13:42:27+08:00"
-    },
-    {
       "id": "3af8bfa79f23a2fd",
       "title": "我和我的北大学生：一位社会学教授的教育札记",
       "link": "https://book.douban.com/subject/38448556/",
@@ -454,56 +504,6 @@
       "published": "2026-8",
       "summary": "生活·读书·新知三联书店 / 49.00元 / 平装",
       "discovered_at": "2026-08-30T13:42:27+08:00"
-    },
-    {
-      "id": "6379126315c6184e",
-      "title": "2026年推理佳作选：兰亭诗会",
-      "link": "https://book.douban.com/subject/38480547/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "朝露 / 可卡 / 余有行于京洛兮 / 聆和 / 逃生大王",
-      "published": "2026-8",
-      "summary": "上海文化出版社 / 59.00元 / 平装",
-      "discovered_at": "2026-08-30T13:42:27+08:00"
-    },
-    {
-      "id": "9e9733fb34d314d7",
-      "title": "古典文学鉴赏论",
-      "link": "https://book.douban.com/subject/38567887/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "刘衍文 / 刘永翔",
-      "published": "2026-7",
-      "summary": "上海辞书出版社 / 148.00元",
-      "discovered_at": "2026-08-30T13:42:27+08:00"
-    },
-    {
-      "id": "f427ada3494b3ef3",
-      "title": "反思历史学",
-      "link": "https://book.douban.com/subject/38517325/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "",
-      "published": "2026-6",
-      "summary": "北京大学出版社 / 66 / Paperback",
-      "discovered_at": "2026-08-30T13:42:27+08:00"
-    },
-    {
-      "id": "3835611e547f8ad0",
-      "title": "地下的灵域：中国墓葬美术",
-      "link": "https://book.douban.com/subject/37764064/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美] 巫鸿",
-      "published": "2026-7",
-      "summary": "上海人民出版社 / 168.00元 / 精装",
-      "discovered_at": "2026-08-29T15:18:17+08:00"
-    },
-    {
-      "id": "f92d94595474e313",
-      "title": "一个社会学家的临终笔记",
-      "link": "https://book.douban.com/subject/38517256/",
-      "source": "豆瓣新书速递 · 社会纪实",
-      "author": "[美] 埃里克·欧林·赖特",
-      "published": "2026-7",
-      "summary": "上海人民出版社 / 88.00元 / 平装",
-      "discovered_at": "2026-08-28T20:03:50+08:00"
     }
   ]
 }
