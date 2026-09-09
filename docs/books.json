@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-09-08T13:04:55+08:00",
+  "generated_at": "2026-09-09T13:03:30+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 97,
-  "matched_count": 75,
+  "fetched_count": 95,
+  "matched_count": 77,
   "source_errors": [],
   "books": [
+    {
+      "id": "4840149edcc94677",
+      "title": "社会学的想象力",
+      "link": "https://book.douban.com/subject/38546847/",
+      "source": "豆瓣新书速递 · 社会纪实",
+      "author": "[美] C.赖特·米尔斯",
+      "published": "2026-9",
+      "summary": "北京大学出版社 / 88.00元 / 平装",
+      "discovered_at": "2026-09-09T13:03:30+08:00"
+    },
+    {
+      "id": "fbd4efd005664afe",
+      "title": "财富之泉：11-18世纪中国的货币和货币政策",
+      "link": "https://book.douban.com/subject/38213811/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 万志英 (Richard von Glahn)",
+      "published": "2026-8",
+      "summary": "社会科学文献出版社 / 89 / 精装",
+      "discovered_at": "2026-09-09T13:03:30+08:00"
+    },
+    {
+      "id": "85fce87f3438daee",
+      "title": "艺术与对象",
+      "link": "https://book.douban.com/subject/38449856/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美]格拉汉姆·哈曼",
+      "published": "2026-8",
+      "summary": "上海社会科学院出版社 / 78.00元 / 平装",
+      "discovered_at": "2026-09-09T13:03:30+08:00"
+    },
+    {
+      "id": "4af49d8b72b92faa",
+      "title": "纪德作品集：生命的变奏",
+      "link": "https://book.douban.com/subject/38584589/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "安德烈·纪德",
+      "published": "2026-8",
+      "summary": "浙江文艺出版社 / 189.00 / 函套",
+      "discovered_at": "2026-09-09T13:03:30+08:00"
+    },
+    {
+      "id": "45b0d0162944459c",
+      "title": "繁漪女士",
+      "link": "https://book.douban.com/subject/38498672/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "万方",
+      "published": "2026-8",
+      "summary": "北京十月文艺出版社 / 62",
+      "discovered_at": "2026-09-09T13:03:30+08:00"
+    },
+    {
+      "id": "375ac03e3d5548f0",
+      "title": "空间物种",
+      "link": "https://book.douban.com/subject/38581000/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[法]乔治·佩雷克",
+      "published": "2026-8",
+      "summary": "南京大学出版社 / 62.00 / 精装",
+      "discovered_at": "2026-09-09T13:03:30+08:00"
+    },
+    {
+      "id": "17305b4280c9684c",
+      "title": "明天吃什么",
+      "link": "https://book.douban.com/subject/38522391/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "张佳玮",
+      "published": "2026-8",
+      "summary": "上海文艺出版社 / 68 / 平装",
+      "discovered_at": "2026-09-09T13:03:30+08:00"
+    },
+    {
+      "id": "b29c7fc4dd5c5586",
+      "title": "一部未写的小说：弗吉尼亚·伍尔夫短篇小说集",
+      "link": "https://book.douban.com/subject/38479348/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 弗吉尼亚·伍尔夫",
+      "published": "2026-8",
+      "summary": "文汇出版社 / 59.80元 / 平装",
+      "discovered_at": "2026-09-09T13:03:30+08:00"
+    },
+    {
+      "id": "72806b48478f99f2",
+      "title": "岭南十三讲：叶兆言文学讲稿",
+      "link": "https://book.douban.com/subject/38427429/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "叶兆言",
+      "published": "2026-7",
+      "summary": "译林出版社 / 49.80元 / 平装",
+      "discovered_at": "2026-09-09T13:03:30+08:00"
+    },
     {
       "id": "488ed4f1ec938793",
       "title": "勇气呼唤勇气",
@@ -446,20 +536,10 @@
       "discovered_at": "2026-09-03T12:54:41+08:00"
     },
     {
-      "id": "3edd6921cde9ce29",
-      "title": "无人观看",
-      "link": "https://book.douban.com/subject/38591073/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "刘天昭",
-      "published": "2026-8-12",
-      "summary": "广西师范大学出版社 / 49.00 / 平装",
-      "discovered_at": "2026-09-02T12:57:19+08:00"
-    },
-    {
       "id": "e733249ca371ef81",
       "title": "蓝白红：基耶斯洛夫斯基谈电影",
       "link": "https://book.douban.com/subject/38521876/",
-      "source": "豆瓣新书速递 · 文学",
+      "source": "豆瓣新书速递 · 艺术设计",
       "author": "[波] 克日什托夫·基耶斯洛夫斯基",
       "published": "2026-8",
       "summary": "商务印书馆 / 78.00元 / 精装",
@@ -473,56 +553,6 @@
       "author": "黄粱",
       "published": "2026-8",
       "summary": "中华书局 / 62.00元 / 平装",
-      "discovered_at": "2026-09-02T12:57:19+08:00"
-    },
-    {
-      "id": "d3de836540234158",
-      "title": "冬之喜剧",
-      "link": "https://book.douban.com/subject/38436544/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "陆秋槎",
-      "published": "2026-7",
-      "summary": "新星出版社 / 56.00元 / 平装",
-      "discovered_at": "2026-09-02T12:57:19+08:00"
-    },
-    {
-      "id": "e3a5ae24f56d8750",
-      "title": "你喜欢肖邦吗",
-      "link": "https://book.douban.com/subject/38432945/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "英国《留声机》",
-      "published": "2026-7",
-      "summary": "江苏凤凰文艺出版社 / 78.00 元 / 平装",
-      "discovered_at": "2026-09-02T12:57:19+08:00"
-    },
-    {
-      "id": "0e38772cdfd4200b",
-      "title": "为什么是“他”：权力与支配的人类史",
-      "link": "https://book.douban.com/subject/38385403/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美]南希·林迪斯法恩 / [美]乔纳森·尼尔",
-      "published": "2026-7",
-      "summary": "浙江人民出版社 / 98.00元 / 精装",
-      "discovered_at": "2026-09-02T12:57:19+08:00"
-    },
-    {
-      "id": "b3b75256041c4419",
-      "title": "三个基尼",
-      "link": "https://book.douban.com/subject/38405927/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 弗吉尼亚·伍尔夫",
-      "published": "2026-7",
-      "summary": "浙江文艺出版社 / 45.00元 / 平装",
-      "discovered_at": "2026-09-02T12:57:19+08:00"
-    },
-    {
-      "id": "239f551a2f206b1d",
-      "title": "维克托·哈拉：一首未竟之歌",
-      "link": "https://book.douban.com/subject/38412237/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[英]琼·哈拉",
-      "published": "2026-6",
-      "summary": "浙江文艺出版社 / 66.00元 / 平装",
       "discovered_at": "2026-09-02T12:57:19+08:00"
     },
     {
