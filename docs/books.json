@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-09-11T13:04:18+08:00",
+  "generated_at": "2026-09-12T12:54:34+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 95,
-  "matched_count": 75,
+  "fetched_count": 96,
+  "matched_count": 77,
   "source_errors": [],
   "books": [
+    {
+      "id": "c65341daaec5ec23",
+      "title": "河上一周",
+      "link": "https://book.douban.com/subject/38571956/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美]亨利·戴维·梭罗",
+      "published": "2026-8",
+      "summary": "湖南科学技术出版社 / 78 / 平装",
+      "discovered_at": "2026-09-12T12:54:34+08:00"
+    },
+    {
+      "id": "8eea615afc4558d6",
+      "title": "有风无风都自由",
+      "link": "https://book.douban.com/subject/38616611/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "高军",
+      "published": "2026-8",
+      "summary": "江苏凤凰文艺出版社 / 59.00元 / 平装",
+      "discovered_at": "2026-09-12T12:54:34+08:00"
+    },
+    {
+      "id": "53d474d9b360c8c0",
+      "title": "可疯",
+      "link": "https://book.douban.com/subject/38583378/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "杜可风",
+      "published": "2026-8",
+      "summary": "中信出版集团 / 138",
+      "discovered_at": "2026-09-12T12:54:34+08:00"
+    },
+    {
+      "id": "322ca044dc66205b",
+      "title": "写信人",
+      "link": "https://book.douban.com/subject/38489157/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美]弗吉尼亚·埃文斯",
+      "published": "2026-7-20",
+      "summary": "中信出版社 / 平装",
+      "discovered_at": "2026-09-12T12:54:34+08:00"
+    },
+    {
+      "id": "50d809a5ae0fb397",
+      "title": "病态社会：挑战原始社会的和谐神话",
+      "link": "https://book.douban.com/subject/38507483/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 罗伯特·B.埃杰顿",
+      "published": "2026-7",
+      "summary": "译林出版社 / 72.00 / 平装",
+      "discovered_at": "2026-09-12T12:54:34+08:00"
+    },
+    {
+      "id": "cfe2ade40c93ce22",
+      "title": "海洋之星",
+      "link": "https://book.douban.com/subject/38531054/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 科马克·麦卡锡",
+      "published": "2026-7",
+      "summary": "云南人民出版社 / 69.00元 / 平装",
+      "discovered_at": "2026-09-12T12:54:34+08:00"
+    },
+    {
+      "id": "6b582aaf812a843c",
+      "title": "信仰的外化：中古宗教美术",
+      "link": "https://book.douban.com/subject/38384973/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美] 巫鸿",
+      "published": "2026-7",
+      "summary": "上海人民出版社 / 188元 / 精装",
+      "discovered_at": "2026-09-12T12:54:34+08:00"
+    },
     {
       "id": "ffd906c4d4d72e9b",
       "title": "沙墓",
@@ -436,46 +506,6 @@
       "discovered_at": "2026-09-06T12:59:32+08:00"
     },
     {
-      "id": "dc376c727e06054c",
-      "title": "当我们比光还轻",
-      "link": "https://book.douban.com/subject/38177507/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 珍妮特·温特森",
-      "published": "2026-8-1",
-      "summary": "文汇出版社 / 59.90 / 平装双封",
-      "discovered_at": "2026-09-05T12:52:02+08:00"
-    },
-    {
-      "id": "8f80b3acb64e1ec2",
-      "title": "明代小说四大奇书",
-      "link": "https://book.douban.com/subject/38535908/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美] 浦安迪",
-      "published": "2026-8",
-      "summary": "浙江文艺出版社 / 88.00元 / 平装",
-      "discovered_at": "2026-09-05T12:52:02+08:00"
-    },
-    {
-      "id": "ed5cd02ee01a791b",
-      "title": "布谷鸟那么小，宣告春天来临时那么骄傲",
-      "link": "https://book.douban.com/subject/38522014/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[葡] 利迪娅·若热",
-      "published": "2026-8",
-      "summary": "上海人民出版社 / 66.00元 / 精装",
-      "discovered_at": "2026-09-05T12:52:02+08:00"
-    },
-    {
-      "id": "2f828f7e8ff58e44",
-      "title": "巴纳姆博物馆：斯蒂文·米尔豪瑟短篇自选集",
-      "link": "https://book.douban.com/subject/37648900/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 斯蒂文·米尔豪瑟",
-      "published": "2026-8",
-      "summary": "北京联合出版公司 / 138.00 / 单册平装+函盒",
-      "discovered_at": "2026-09-05T12:52:02+08:00"
-    },
-    {
       "id": "c5bb7d04e96f3155",
       "title": "如何像女人那样思考：父权制下，女哲学家们的精神突围",
       "link": "https://book.douban.com/subject/38434682/",
@@ -483,46 +513,6 @@
       "author": "[美] 丽甘·佩纳卢纳",
       "published": "2026-8",
       "summary": "广东人民出版社 / 68.00元 / 平装",
-      "discovered_at": "2026-09-05T12:52:02+08:00"
-    },
-    {
-      "id": "9e1a86ff967b6fe0",
-      "title": "即使不会游泳，也要浮出水面",
-      "link": "https://book.douban.com/subject/38568443/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美] 薇薇安·戈尔尼克",
-      "published": "2026-8",
-      "summary": "上海教育出版社 / 49.8元 / 平装",
-      "discovered_at": "2026-09-05T12:52:02+08:00"
-    },
-    {
-      "id": "544359d274da24f7",
-      "title": "树影墙前的夜晚：2007-2015年间的杂记与随想",
-      "link": "https://book.douban.com/subject/38521980/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[奥地利] 彼得·汉德克",
-      "published": "2026-7",
-      "summary": "上海人民出版社 / 92.00元 / 平装",
-      "discovered_at": "2026-09-05T12:52:02+08:00"
-    },
-    {
-      "id": "7bb1ffa01262301d",
-      "title": "埃及艺术中的符号与魔法",
-      "link": "https://book.douban.com/subject/37454112/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[英] 理查德·H. 威尔金森",
-      "published": "2026-7",
-      "summary": "四川人民出版社 / 128.00",
-      "discovered_at": "2026-09-05T12:52:02+08:00"
-    },
-    {
-      "id": "258f8d4ed3bd98a8",
-      "title": "催眠时代",
-      "link": "https://book.douban.com/subject/38570222/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "萧轶",
-      "published": "2026-7",
-      "summary": "广东人民出版社 / 88 / 精装",
       "discovered_at": "2026-09-05T12:52:02+08:00"
     },
     {
