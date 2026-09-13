@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-09-12T12:54:34+08:00",
+  "generated_at": "2026-09-13T13:15:59+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 96,
-  "matched_count": 77,
+  "matched_count": 76,
   "source_errors": [],
   "books": [
+    {
+      "id": "e5cd1c895f4c74c9",
+      "title": "偶像：消费资本主义中的欲望形象",
+      "link": "https://book.douban.com/subject/38564356/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "帕特里克·W. 加尔布雷思 / 杰森·G. 卡林",
+      "published": "2026-9",
+      "summary": "广西师范大学出版社 / 平装",
+      "discovered_at": "2026-09-13T13:15:59+08:00"
+    },
+    {
+      "id": "648f052cb2ee1cda",
+      "title": "激情",
+      "link": "https://book.douban.com/subject/38535040/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "李宏伟",
+      "published": "2026-8-8",
+      "summary": "上海文艺出版社 / 69 / 平装",
+      "discovered_at": "2026-09-13T13:15:59+08:00"
+    },
+    {
+      "id": "a4a0b6a757a8c6b4",
+      "title": "隐蔽嫌疑人",
+      "link": "https://book.douban.com/subject/37147122/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "陈浩基",
+      "published": "2026-8",
+      "summary": "上海三联书店 / 79.00元 / 平装",
+      "discovered_at": "2026-09-13T13:15:59+08:00"
+    },
+    {
+      "id": "7f8ca8a4bba6ab2b",
+      "title": "认知的不正义",
+      "link": "https://book.douban.com/subject/38413867/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[英] 米兰达·弗里克",
+      "published": "2026-8",
+      "summary": "浙江人民出版社 / 78.00元 / 平装",
+      "discovered_at": "2026-09-13T13:15:59+08:00"
+    },
+    {
+      "id": "e32f9d0724576ba0",
+      "title": "荷尔德林赞歌集：文本·翻译·评注",
+      "link": "https://book.douban.com/subject/37479731/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[德] 荷尔德林",
+      "published": "2026-8",
+      "summary": "上海文艺出版社 / 148.00元 / 精装",
+      "discovered_at": "2026-09-13T13:15:59+08:00"
+    },
+    {
+      "id": "9839d9a4bbeeb605",
+      "title": "乌鸦的慰藉",
+      "link": "https://book.douban.com/subject/38521715/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 玛格丽特·伦克尔",
+      "published": "2026-8",
+      "summary": "天津人民出版社 / 78 / 精装",
+      "discovered_at": "2026-09-13T13:15:59+08:00"
+    },
     {
       "id": "c65341daaec5ec23",
       "title": "河上一周",
@@ -444,76 +504,6 @@
       "published": "2026-7",
       "summary": "天津人民出版社 / 96 / 精装",
       "discovered_at": "2026-09-07T13:06:32+08:00"
-    },
-    {
-      "id": "4f183ce09342234e",
-      "title": "透明人",
-      "link": "https://book.douban.com/subject/38487618/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[苏]伊利亚·伊里夫 / [苏]叶夫根尼·彼得罗夫",
-      "published": "2026-8",
-      "summary": "湖南文艺出版社 / 68.00元 / 精装",
-      "discovered_at": "2026-09-06T12:59:32+08:00"
-    },
-    {
-      "id": "720e29d2c14f4e3f",
-      "title": "维特根斯坦笔记",
-      "link": "https://book.douban.com/subject/38519811/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[奥]路德维希·维特根斯坦",
-      "published": "2026-8",
-      "summary": "岳麓书社 / 49.00 / 平装",
-      "discovered_at": "2026-09-06T12:59:32+08:00"
-    },
-    {
-      "id": "57525a31a28b0196",
-      "title": "穿越：在漫游中想象艺术",
-      "link": "https://book.douban.com/subject/38583596/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美] 巫鸿",
-      "published": "2026-8",
-      "summary": "上海三联书店 / 239.00 / 精装",
-      "discovered_at": "2026-09-06T12:59:32+08:00"
-    },
-    {
-      "id": "87b8e9ec268f6d40",
-      "title": "大一统的制度密码：行政发包制与国家治理",
-      "link": "https://book.douban.com/subject/38574624/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "周黎安",
-      "published": "2026-8",
-      "summary": "格致出版社 / 188.00元 / 精装",
-      "discovered_at": "2026-09-06T12:59:32+08:00"
-    },
-    {
-      "id": "d2e4c41d28017aa9",
-      "title": "继女",
-      "link": "https://book.douban.com/subject/38431429/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 卡罗琳·布莱克伍德",
-      "published": "2026-7",
-      "summary": "中信出版社 / 45.00元 / 平装",
-      "discovered_at": "2026-09-06T12:59:32+08:00"
-    },
-    {
-      "id": "750aa7b09dd8823b",
-      "title": "诗礼相成：《诗经》文本的生成与阐释",
-      "link": "https://book.douban.com/subject/38581006/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "马银琴",
-      "published": "2026",
-      "summary": "中华书局 / 158.00元 / 平装",
-      "discovered_at": "2026-09-06T12:59:32+08:00"
-    },
-    {
-      "id": "c5bb7d04e96f3155",
-      "title": "如何像女人那样思考：父权制下，女哲学家们的精神突围",
-      "link": "https://book.douban.com/subject/38434682/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 丽甘·佩纳卢纳",
-      "published": "2026-8",
-      "summary": "广东人民出版社 / 68.00元 / 平装",
-      "discovered_at": "2026-09-05T12:52:02+08:00"
     },
     {
       "id": "0b48fac9d19dfa98",
