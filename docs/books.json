@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-09-18T13:04:49+08:00",
+  "generated_at": "2026-09-19T12:55:25+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 98,
-  "matched_count": 80,
+  "matched_count": 79,
   "source_errors": [],
   "books": [
+    {
+      "id": "c9c4e8f7d4d5c761",
+      "title": "鸟类绘画入门：美国自然学家劳斯观鸟与画鸟指南",
+      "link": "https://book.douban.com/subject/38576025/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美]约翰·缪尔·劳斯",
+      "published": "2026-8-24",
+      "summary": "北京科学技术出版社 / 88 / 平装",
+      "discovered_at": "2026-09-19T12:55:25+08:00"
+    },
+    {
+      "id": "f341d6552a0755e2",
+      "title": "河流上的黄昏",
+      "link": "https://book.douban.com/subject/38591845/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "李颖",
+      "published": "2026-8-12",
+      "summary": "广西师范大学出版社 / 58.00元 / 平装",
+      "discovered_at": "2026-09-19T12:55:25+08:00"
+    },
+    {
+      "id": "d1608430ed37cd75",
+      "title": "落在我身上的雨",
+      "link": "https://book.douban.com/subject/38461487/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "陆庆屹",
+      "published": "2026-8",
+      "summary": "新星出版社 / 59.00元 / 平装",
+      "discovered_at": "2026-09-19T12:55:25+08:00"
+    },
+    {
+      "id": "a9cb0c7ff2dc3c83",
+      "title": "给青年诗人的信：译注本",
+      "link": "https://book.douban.com/subject/38500506/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[奥] 赖纳·马利亚·里尔克 / [奥] 弗朗茨·克萨韦尔·卡普斯",
+      "published": "2026-8",
+      "summary": "译林出版社 / 48.00元 / 精装",
+      "discovered_at": "2026-09-19T12:55:25+08:00"
+    },
+    {
+      "id": "419ae8282a8c4d94",
+      "title": "死过千回的女子：黄柳霜的一生",
+      "link": "https://book.douban.com/subject/37925535/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美] 朱洁琳",
+      "published": "2026-8",
+      "summary": "北京联合出版公司 / 80.00元 / 裸脊锁线",
+      "discovered_at": "2026-09-19T12:55:25+08:00"
+    },
+    {
+      "id": "60e2b9e834ecf40d",
+      "title": "大马士革事件：1860年大屠杀与现代中东的形成",
+      "link": "https://book.douban.com/subject/38562825/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 尤金·罗根",
+      "published": "2026-8",
+      "summary": "民主与建设出版社 / 98.00元 / 精装",
+      "discovered_at": "2026-09-19T12:55:25+08:00"
+    },
+    {
+      "id": "b95a4402c0c6a080",
+      "title": "哈拉维精华集",
+      "link": "https://book.douban.com/subject/38546836/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 唐娜·哈拉维",
+      "published": "2026-8",
+      "summary": "广西师范大学出版社 / 精装",
+      "discovered_at": "2026-09-19T12:55:25+08:00"
+    },
     {
       "id": "4840149edcc94677",
       "title": "社会学的想象力",
@@ -166,16 +236,6 @@
       "discovered_at": "2026-09-17T13:12:00+08:00"
     },
     {
-      "id": "bbeedd86b44c2703",
-      "title": "行途遭逢的神奸（和毒恶生物）：中国古代旅行之研究",
-      "link": "https://book.douban.com/subject/38635638/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "江绍原",
-      "published": "2026-9-1",
-      "summary": "崇文书局 / 49 / 平装",
-      "discovered_at": "2026-09-16T13:07:11+08:00"
-    },
-    {
       "id": "c4bd9c01cfd755b8",
       "title": "重新回到生活：科技时代的工作、情绪、爱情和死亡",
       "link": "https://book.douban.com/subject/38594797/",
@@ -223,6 +283,16 @@
       "author": "赵柏田",
       "published": "2026-8",
       "summary": "北京大学出版社 / 78元 / 平装",
+      "discovered_at": "2026-09-16T13:07:11+08:00"
+    },
+    {
+      "id": "bbeedd86b44c2703",
+      "title": "行途遭逢的神奸（和毒恶生物）：中国古代旅行之研究",
+      "link": "https://book.douban.com/subject/38635638/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "江绍原",
+      "published": "2026-7",
+      "summary": "崇文书局 / 49.00元 / 平装",
       "discovered_at": "2026-09-16T13:07:11+08:00"
     },
     {
@@ -466,56 +536,6 @@
       "discovered_at": "2026-09-13T13:15:59+08:00"
     },
     {
-      "id": "c65341daaec5ec23",
-      "title": "河上一周",
-      "link": "https://book.douban.com/subject/38571956/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美]亨利·戴维·梭罗",
-      "published": "2026-8",
-      "summary": "湖南科学技术出版社 / 78 / 平装",
-      "discovered_at": "2026-09-12T12:54:34+08:00"
-    },
-    {
-      "id": "8eea615afc4558d6",
-      "title": "有风无风都自由",
-      "link": "https://book.douban.com/subject/38616611/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "高军",
-      "published": "2026-8",
-      "summary": "江苏凤凰文艺出版社 / 59.00元 / 平装",
-      "discovered_at": "2026-09-12T12:54:34+08:00"
-    },
-    {
-      "id": "53d474d9b360c8c0",
-      "title": "可疯",
-      "link": "https://book.douban.com/subject/38583378/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "杜可风",
-      "published": "2026-8",
-      "summary": "中信出版集团 / 138",
-      "discovered_at": "2026-09-12T12:54:34+08:00"
-    },
-    {
-      "id": "322ca044dc66205b",
-      "title": "写信人",
-      "link": "https://book.douban.com/subject/38489157/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美]弗吉尼亚·埃文斯",
-      "published": "2026-7-20",
-      "summary": "中信出版社 / 平装",
-      "discovered_at": "2026-09-12T12:54:34+08:00"
-    },
-    {
-      "id": "50d809a5ae0fb397",
-      "title": "病态社会：挑战原始社会的和谐神话",
-      "link": "https://book.douban.com/subject/38507483/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 罗伯特·B.埃杰顿",
-      "published": "2026-7",
-      "summary": "译林出版社 / 72.00 / 平装",
-      "discovered_at": "2026-09-12T12:54:34+08:00"
-    },
-    {
       "id": "cfe2ade40c93ce22",
       "title": "海洋之星",
       "link": "https://book.douban.com/subject/38531054/",
@@ -524,26 +544,6 @@
       "published": "2026-7",
       "summary": "云南人民出版社 / 69.00元 / 平装",
       "discovered_at": "2026-09-12T12:54:34+08:00"
-    },
-    {
-      "id": "6b582aaf812a843c",
-      "title": "信仰的外化：中古宗教美术",
-      "link": "https://book.douban.com/subject/38384973/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美] 巫鸿",
-      "published": "2026-7",
-      "summary": "上海人民出版社 / 188元 / 精装",
-      "discovered_at": "2026-09-12T12:54:34+08:00"
-    },
-    {
-      "id": "ffd906c4d4d72e9b",
-      "title": "沙墓",
-      "link": "https://book.douban.com/subject/37394328/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[印度]吉丹贾丽·斯里",
-      "published": "2026-9",
-      "summary": "浙江教育出版社 / 78 / 平装",
-      "discovered_at": "2026-09-11T13:04:18+08:00"
     }
   ]
 }
