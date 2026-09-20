@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-09-19T12:55:25+08:00",
+  "generated_at": "2026-09-20T13:16:42+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 98,
-  "matched_count": 79,
+  "matched_count": 81,
   "source_errors": [],
   "books": [
+    {
+      "id": "9ab8d87e65bb25d8",
+      "title": "锅匠、裁缝、士兵、间谍",
+      "link": "https://book.douban.com/subject/38350908/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 约翰·勒卡雷",
+      "published": "2026-8",
+      "summary": "上海译文出版社 / 89 / 精装",
+      "discovered_at": "2026-09-20T13:16:42+08:00"
+    },
+    {
+      "id": "9f39cc7397b3336a",
+      "title": "金陵风雨图：生死归途",
+      "link": "https://book.douban.com/subject/38530226/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "何慕",
+      "published": "2026-8",
+      "summary": "北京联合出版公司 / 59.80元 / 平装",
+      "discovered_at": "2026-09-20T13:16:42+08:00"
+    },
+    {
+      "id": "4af49d8b72b92faa",
+      "title": "纪德作品集：生命的变奏",
+      "link": "https://book.douban.com/subject/38584589/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "安德烈·纪德",
+      "published": "2026-8",
+      "summary": "浙江文艺出版社 / 189.00 / 函套",
+      "discovered_at": "2026-09-20T13:16:42+08:00"
+    },
+    {
+      "id": "3af8bfa79f23a2fd",
+      "title": "我和我的北大学生：一位社会学教授的教育札记",
+      "link": "https://book.douban.com/subject/38448556/",
+      "source": "豆瓣新书速递 · 社会纪实",
+      "author": "杨善华",
+      "published": "2026-8",
+      "summary": "生活·读书·新知三联书店 / 49.00元 / 平装",
+      "discovered_at": "2026-09-20T13:16:42+08:00"
+    },
+    {
+      "id": "53d474d9b360c8c0",
+      "title": "可疯",
+      "link": "https://book.douban.com/subject/38583378/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "杜可风",
+      "published": "2026-8",
+      "summary": "中信出版集团 / 138",
+      "discovered_at": "2026-09-20T13:16:42+08:00"
+    },
+    {
+      "id": "827867b1ac584034",
+      "title": "主唱死了",
+      "link": "https://book.douban.com/subject/37809070/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "刘书宇",
+      "published": "2026-8",
+      "summary": "上海文艺出版社 / 59 / 平装",
+      "discovered_at": "2026-09-20T13:16:42+08:00"
+    },
+    {
+      "id": "8799485bd19db435",
+      "title": "给忙碌者的世界神话传说：全三册",
+      "link": "https://book.douban.com/subject/38434717/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英]狄·狄·钱尼 / [英]薇洛·温瑟姆",
+      "published": "2026-7",
+      "summary": "湖南文艺出版社 / 114.00元 / 平装口袋本",
+      "discovered_at": "2026-09-20T13:16:42+08:00"
+    },
+    {
+      "id": "e43e8b187a7c74e1",
+      "title": "剥皮树",
+      "link": "https://book.douban.com/subject/38405911/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "韩东",
+      "published": "2026-7",
+      "summary": "江苏凤凰文艺出版社 / 52.00 元 / 精装",
+      "discovered_at": "2026-09-20T13:16:42+08:00"
+    },
+    {
+      "id": "eafc47f626276ce3",
+      "title": "乡土之链：明清会馆与社会变迁",
+      "link": "https://book.douban.com/subject/38548476/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "王日根",
+      "published": "2026-7",
+      "summary": "天津人民出版社 / 96 / 精装",
+      "discovered_at": "2026-09-20T13:16:42+08:00"
+    },
     {
       "id": "c9c4e8f7d4d5c761",
       "title": "鸟类绘画入门：美国自然学家劳斯观鸟与画鸟指南",
@@ -474,76 +564,6 @@
       "published": "2026-7",
       "summary": "云南人民出版社 / 89.00元 / 精装",
       "discovered_at": "2026-09-14T13:20:39+08:00"
-    },
-    {
-      "id": "e5cd1c895f4c74c9",
-      "title": "偶像：消费资本主义中的欲望形象",
-      "link": "https://book.douban.com/subject/38564356/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "帕特里克·W. 加尔布雷思 / 杰森·G. 卡林",
-      "published": "2026-9",
-      "summary": "广西师范大学出版社 / 平装",
-      "discovered_at": "2026-09-13T13:15:59+08:00"
-    },
-    {
-      "id": "648f052cb2ee1cda",
-      "title": "激情",
-      "link": "https://book.douban.com/subject/38535040/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "李宏伟",
-      "published": "2026-8-8",
-      "summary": "上海文艺出版社 / 69 / 平装",
-      "discovered_at": "2026-09-13T13:15:59+08:00"
-    },
-    {
-      "id": "a4a0b6a757a8c6b4",
-      "title": "隐蔽嫌疑人",
-      "link": "https://book.douban.com/subject/37147122/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "陈浩基",
-      "published": "2026-8",
-      "summary": "上海三联书店 / 79.00元 / 平装",
-      "discovered_at": "2026-09-13T13:15:59+08:00"
-    },
-    {
-      "id": "7f8ca8a4bba6ab2b",
-      "title": "认知的不正义",
-      "link": "https://book.douban.com/subject/38413867/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[英] 米兰达·弗里克",
-      "published": "2026-8",
-      "summary": "浙江人民出版社 / 78.00元 / 平装",
-      "discovered_at": "2026-09-13T13:15:59+08:00"
-    },
-    {
-      "id": "e32f9d0724576ba0",
-      "title": "荷尔德林赞歌集：文本·翻译·评注",
-      "link": "https://book.douban.com/subject/37479731/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[德] 荷尔德林",
-      "published": "2026-8",
-      "summary": "上海文艺出版社 / 148.00元 / 精装",
-      "discovered_at": "2026-09-13T13:15:59+08:00"
-    },
-    {
-      "id": "9839d9a4bbeeb605",
-      "title": "乌鸦的慰藉",
-      "link": "https://book.douban.com/subject/38521715/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美] 玛格丽特·伦克尔",
-      "published": "2026-8",
-      "summary": "天津人民出版社 / 78 / 精装",
-      "discovered_at": "2026-09-13T13:15:59+08:00"
-    },
-    {
-      "id": "cfe2ade40c93ce22",
-      "title": "海洋之星",
-      "link": "https://book.douban.com/subject/38531054/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 科马克·麦卡锡",
-      "published": "2026-7",
-      "summary": "云南人民出版社 / 69.00元 / 平装",
-      "discovered_at": "2026-09-12T12:54:34+08:00"
     }
   ]
 }
