@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-09-20T13:16:42+08:00",
+  "generated_at": "2026-09-21T13:19:44+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 98,
   "matched_count": 81,
   "source_errors": [],
   "books": [
+    {
+      "id": "ad40a5f9bd3378b9",
+      "title": "让无权无势者有力：齐格蒙特·鲍曼谈社会学",
+      "link": "https://book.douban.com/subject/38574884/",
+      "source": "豆瓣新书速递 · 社会纪实",
+      "author": "[英]齐格蒙特·鲍曼 / [丹]迈克尔·维德·雅各布森 / [英]基思·特斯特",
+      "published": "2026-9-30",
+      "summary": "江苏凤凰文艺出版社 / 79.9 / 精装",
+      "discovered_at": "2026-09-21T13:19:44+08:00"
+    },
+    {
+      "id": "9c4f30b111a99dbf",
+      "title": "汉政与王道：汉代政治演进与治理模式变迁",
+      "link": "https://book.douban.com/subject/37322645/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "陈苏镇",
+      "published": "2026-9",
+      "summary": "生活·读书·新知三联书店 / 138.00元 / 精装",
+      "discovered_at": "2026-09-21T13:19:44+08:00"
+    },
+    {
+      "id": "b77b62e605e21fa6",
+      "title": "124个梦",
+      "link": "https://book.douban.com/subject/38546672/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[法] 乔治·佩雷克",
+      "published": "2026-9",
+      "summary": "四川文艺出版社 / 56.00 / 平装",
+      "discovered_at": "2026-09-21T13:19:44+08:00"
+    },
+    {
+      "id": "ac5c362e2fab1c3a",
+      "title": "诗歌的价值",
+      "link": "https://book.douban.com/subject/37925545/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 埃里克·法尔奇",
+      "published": "2026-8",
+      "summary": "南京大学出版社 / 68.00元 / 平装",
+      "discovered_at": "2026-09-21T13:19:44+08:00"
+    },
+    {
+      "id": "79eb92306939a19a",
+      "title": "构建《三国志》",
+      "link": "https://book.douban.com/subject/38483855/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "黄粱",
+      "published": "2026-8",
+      "summary": "中华书局 / 62.00元 / 平装",
+      "discovered_at": "2026-09-21T13:19:44+08:00"
+    },
+    {
+      "id": "c8c66880dc4cf2d7",
+      "title": "给忙碌者的世界神话传说·森林篇",
+      "link": "https://book.douban.com/subject/38434719/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英]狄·狄·钱尼 / [英]薇洛·温瑟姆",
+      "published": "2026-7",
+      "summary": "湖南文艺出版社 / 38.00元 / 平装口袋本",
+      "discovered_at": "2026-09-21T13:19:44+08:00"
+    },
     {
       "id": "9ab8d87e65bb25d8",
       "title": "锅匠、裁缝、士兵、间谍",
@@ -486,56 +546,6 @@
       "discovered_at": "2026-09-15T13:11:27+08:00"
     },
     {
-      "id": "e31b55ce841b41a2",
-      "title": "电影的色彩",
-      "link": "https://book.douban.com/subject/38492034/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美]查尔斯 · 布拉梅斯科",
-      "published": "2026-8-23",
-      "summary": "北京联合出版公司 / 168.00",
-      "discovered_at": "2026-09-14T13:20:39+08:00"
-    },
-    {
-      "id": "6de99e52db2e9701",
-      "title": "远征：世纪前卫与全球当代",
-      "link": "https://book.douban.com/subject/38247373/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "鲁明军",
-      "published": "2026-8",
-      "summary": "生活·读书·新知三联书店 / 98.00元 / 精装",
-      "discovered_at": "2026-09-14T13:20:39+08:00"
-    },
-    {
-      "id": "02f8f0cd77a53a35",
-      "title": "真实与虚幻：厄休拉·勒古恩短篇小说自选集",
-      "link": "https://book.douban.com/subject/38431581/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 厄休拉·勒古恩",
-      "published": "2026-8",
-      "summary": "上海译文出版社 / 139.00元",
-      "discovered_at": "2026-09-14T13:20:39+08:00"
-    },
-    {
-      "id": "254eba3f9dafc6f4",
-      "title": "爱",
-      "link": "https://book.douban.com/subject/38541603/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 托妮·莫里森",
-      "published": "2026-8",
-      "summary": "上海译文出版社 / 76 / 精装",
-      "discovered_at": "2026-09-14T13:20:39+08:00"
-    },
-    {
-      "id": "8f996c9fc1a5149c",
-      "title": "幻觉之战：1911-1914年的德国政策",
-      "link": "https://book.douban.com/subject/38352089/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[德] 弗里茨·费舍尔 / Fritz Fischer",
-      "published": "2026-8",
-      "summary": "商务印书馆 / 198 / 精装",
-      "discovered_at": "2026-09-14T13:20:39+08:00"
-    },
-    {
       "id": "8711683a76be7c0e",
       "title": "远山回忆",
       "link": "https://book.douban.com/subject/38549105/",
@@ -543,16 +553,6 @@
       "author": "[土] 奥尔罕·帕慕克",
       "published": "2026-7",
       "summary": "上海人民出版社 / 118元 / 平装",
-      "discovered_at": "2026-09-14T13:20:39+08:00"
-    },
-    {
-      "id": "7ea4d24884161f0e",
-      "title": "她踏浪而来，向自由",
-      "link": "https://book.douban.com/subject/37071241/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 苏珊娜·海伍德（Suzanne Heywood）",
-      "published": "2026-7",
-      "summary": "贵州人民出版社 / 68.00元 / 平装",
       "discovered_at": "2026-09-14T13:20:39+08:00"
     },
     {
