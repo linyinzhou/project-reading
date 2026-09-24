@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-09-23T13:02:53+08:00",
+  "generated_at": "2026-09-24T13:14:19+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 97,
-  "matched_count": 77,
+  "matched_count": 79,
   "source_errors": [],
   "books": [
+    {
+      "id": "3cc0f44abcabe471",
+      "title": "夜晚的语言学家：发现汉语的100个秘密",
+      "link": "https://book.douban.com/subject/38536534/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "陈笠",
+      "published": "2026-9",
+      "summary": "海峡书局 / 68.00元 / 平装",
+      "discovered_at": "2026-09-24T13:14:19+08:00"
+    },
+    {
+      "id": "179f29c8bbe5bf29",
+      "title": "聆听永恒：古典音乐中的灵魂与回响",
+      "link": "https://book.douban.com/subject/38552873/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "高建",
+      "published": "2026-8",
+      "summary": "化学工业出版社 / 138.00元 / 平装",
+      "discovered_at": "2026-09-24T13:14:19+08:00"
+    },
+    {
+      "id": "20d71b98491209e6",
+      "title": "最好的时光：文艺经典十一讲",
+      "link": "https://book.douban.com/subject/38427482/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "王晓明 / 薛毅 / 倪文尖 / 孙晓忠 / 董丽敏 / 倪伟 / 罗岗 / 毛尖 / 雷启立",
+      "published": "2026-8",
+      "summary": "广西师范大学出版社 / 69元 / 精装",
+      "discovered_at": "2026-09-24T13:14:19+08:00"
+    },
+    {
+      "id": "cfd85bc911d032cb",
+      "title": "明月白雪照着大地",
+      "link": "https://book.douban.com/subject/38569327/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "李嘉茵",
+      "published": "2026-8",
+      "summary": "上海文艺出版社 / 58.00元 / 平装",
+      "discovered_at": "2026-09-24T13:14:19+08:00"
+    },
+    {
+      "id": "2f828f7e8ff58e44",
+      "title": "巴纳姆博物馆：斯蒂文·米尔豪瑟短篇自选集",
+      "link": "https://book.douban.com/subject/37648900/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 斯蒂文·米尔豪瑟",
+      "published": "2026-8",
+      "summary": "北京联合出版公司 / 138.00 / 单册平装+函盒",
+      "discovered_at": "2026-09-24T13:14:19+08:00"
+    },
+    {
+      "id": "323f5faea6d032cc",
+      "title": "再唤一声阿弟仔",
+      "link": "https://book.douban.com/subject/38597943/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "黄伟康",
+      "published": "2026-8",
+      "summary": "江苏凤凰文艺出版社 / 59.00元 / 平装",
+      "discovered_at": "2026-09-24T13:14:19+08:00"
+    },
     {
       "id": "e7ac32eaf4129656",
       "title": "正念杀机",
@@ -456,76 +516,6 @@
       "discovered_at": "2026-09-17T13:12:00+08:00"
     },
     {
-      "id": "14e2fe9f410a8494",
-      "title": "谁杀了武大郎？",
-      "link": "https://book.douban.com/subject/38552192/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "时晨",
-      "published": "2026-9",
-      "summary": "北京联合出版公司 / 49.8元 / 平装",
-      "discovered_at": "2026-09-17T13:12:00+08:00"
-    },
-    {
-      "id": "d664f34bd195c390",
-      "title": "旱船",
-      "link": "https://book.douban.com/subject/38615971/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "朱朱",
-      "published": "2026-9",
-      "summary": "南京大学出版社 / 58.00元 / 空背锁线",
-      "discovered_at": "2026-09-17T13:12:00+08:00"
-    },
-    {
-      "id": "6954a02740a1f7d0",
-      "title": "人杰：流亡与离异中的李清照",
-      "link": "https://book.douban.com/subject/38434650/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "庄秋水",
-      "published": "2026-9",
-      "summary": "生活·读书·新知三联书店 / 52.00元 / 精装",
-      "discovered_at": "2026-09-17T13:12:00+08:00"
-    },
-    {
-      "id": "f4f29b48285e4013",
-      "title": "幻影小巷",
-      "link": "https://book.douban.com/subject/38436570/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[法] 保罗·霍尔特",
-      "published": "2026-8-9",
-      "summary": "浙江文艺出版社 / 60.00元 / 平装",
-      "discovered_at": "2026-09-17T13:12:00+08:00"
-    },
-    {
-      "id": "4adc42029a974e70",
-      "title": "上海房子",
-      "link": "https://book.douban.com/subject/38590638/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "席闻雷 / 冯立",
-      "published": "2026-8-14",
-      "summary": "东华大学出版社 / 98.00 / 平装",
-      "discovered_at": "2026-09-17T13:12:00+08:00"
-    },
-    {
-      "id": "4f183ce09342234e",
-      "title": "透明人",
-      "link": "https://book.douban.com/subject/38487618/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[苏]伊利亚·伊里夫 / [苏]叶夫根尼·彼得罗夫",
-      "published": "2026-8",
-      "summary": "湖南文艺出版社 / 68.00元 / 精装",
-      "discovered_at": "2026-09-17T13:12:00+08:00"
-    },
-    {
-      "id": "8f80b3acb64e1ec2",
-      "title": "明代小说四大奇书",
-      "link": "https://book.douban.com/subject/38535908/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美] 浦安迪",
-      "published": "2026-8",
-      "summary": "浙江文艺出版社 / 88.00元 / 平装",
-      "discovered_at": "2026-09-17T13:12:00+08:00"
-    },
-    {
       "id": "c5bb7d04e96f3155",
       "title": "如何像女人那样思考：父权制下，女哲学家们的精神突围",
       "link": "https://book.douban.com/subject/38434682/",
@@ -534,16 +524,6 @@
       "published": "2026-8",
       "summary": "广东人民出版社 / 68.00元 / 平装",
       "discovered_at": "2026-09-17T13:12:00+08:00"
-    },
-    {
-      "id": "7e78525de1e9d18d",
-      "title": "燃烧的女孩",
-      "link": "https://book.douban.com/subject/38530127/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] C.J.图德",
-      "published": "2026-8",
-      "summary": "江苏凤凰文艺出版社 / 49.80元 / 平装",
-      "discovered_at": "2026-09-16T13:07:11+08:00"
     },
     {
       "id": "0b48fac9d19dfa98",
