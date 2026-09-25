@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-09-24T13:14:19+08:00",
+  "generated_at": "2026-09-25T13:15:51+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 97,
-  "matched_count": 79,
+  "fetched_count": 96,
+  "matched_count": 80,
   "source_errors": [],
   "books": [
+    {
+      "id": "cd2b0dec3fff3ea2",
+      "title": "我的风暴，我的庇护所",
+      "link": "https://book.douban.com/subject/38901091/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[印度]阿兰达蒂·洛伊",
+      "published": "2026-9",
+      "summary": "新星出版社 / 68 / 精装",
+      "discovered_at": "2026-09-25T13:15:51+08:00"
+    },
+    {
+      "id": "32dbe71807d43e4c",
+      "title": "凶手就在聊天记录中",
+      "link": "https://book.douban.com/subject/37866616/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 珍妮丝・哈雷特",
+      "published": "2026-9",
+      "summary": "北京联合出版公司 / 65.00元 / 平装",
+      "discovered_at": "2026-09-25T13:15:51+08:00"
+    },
+    {
+      "id": "6c4f3c2a43cf92eb",
+      "title": "看见情绪：在艺术中舒压",
+      "link": "https://book.douban.com/subject/38607113/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "刘正奎 / 卢征远",
+      "published": "2026-8-17",
+      "summary": "北京联合出版公司 / 128.00元 / 平装",
+      "discovered_at": "2026-09-25T13:15:51+08:00"
+    },
+    {
+      "id": "283577491ce73570",
+      "title": "赞歌集",
+      "link": "https://book.douban.com/subject/38493442/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[古罗马] 贺拉斯",
+      "published": "2026-8",
+      "summary": "华东师范大学出版社 / 精装",
+      "discovered_at": "2026-09-25T13:15:51+08:00"
+    },
+    {
+      "id": "44df643c61ff0f63",
+      "title": "窄门",
+      "link": "https://book.douban.com/subject/38584573/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[法]安德烈·纪德",
+      "published": "2026-8",
+      "summary": "浙江文艺出版社 / 37.8 / 平装",
+      "discovered_at": "2026-09-25T13:15:51+08:00"
+    },
+    {
+      "id": "bbeedd86b44c2703",
+      "title": "行途遭逢的神奸（和毒恶生物）：中国古代旅行之研究",
+      "link": "https://book.douban.com/subject/38635638/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "江绍原",
+      "published": "2026-7",
+      "summary": "崇文书局 / 49.00元 / 平装",
+      "discovered_at": "2026-09-25T13:15:51+08:00"
+    },
+    {
+      "id": "93365d2ad491ed2d",
+      "title": "揭开道学面纱：宋孝宗朝的政治景观",
+      "link": "https://book.douban.com/subject/38481180/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "张维玲",
+      "published": "2026-7",
+      "summary": "上海古籍出版社 / 58.00元 / 平装",
+      "discovered_at": "2026-09-25T13:15:51+08:00"
+    },
     {
       "id": "3cc0f44abcabe471",
       "title": "夜晚的语言学家：发现汉语的100个秘密",
@@ -436,36 +506,6 @@
       "discovered_at": "2026-09-19T12:55:25+08:00"
     },
     {
-      "id": "4840149edcc94677",
-      "title": "社会学的想象力",
-      "link": "https://book.douban.com/subject/38546847/",
-      "source": "豆瓣新书速递 · 社会纪实",
-      "author": "[美] C.赖特·米尔斯",
-      "published": "2026-9",
-      "summary": "北京大学出版社 / 88.00元 / 平装",
-      "discovered_at": "2026-09-18T13:04:49+08:00"
-    },
-    {
-      "id": "b4a551c28b6c0423",
-      "title": "法老的密室",
-      "link": "https://book.douban.com/subject/37870976/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[日]白川尚史",
-      "published": "2026-9",
-      "summary": "新星出版社 / 56.00元 / 平装",
-      "discovered_at": "2026-09-18T13:04:49+08:00"
-    },
-    {
-      "id": "348ec98a33828cb2",
-      "title": "魏玛十五年：一个国家失败的样本",
-      "link": "https://book.douban.com/subject/38529630/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "马国川",
-      "published": "2026-8",
-      "summary": "广东人民出版社 / 88.00元 / 精装",
-      "discovered_at": "2026-09-18T13:04:49+08:00"
-    },
-    {
       "id": "57525a31a28b0196",
       "title": "穿越：在漫游中想象艺术",
       "link": "https://book.douban.com/subject/38583596/",
@@ -476,36 +516,6 @@
       "discovered_at": "2026-09-18T13:04:49+08:00"
     },
     {
-      "id": "1e0dc8dcfc2d5b8d",
-      "title": "活水",
-      "link": "https://book.douban.com/subject/38495054/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 罗伯特·麦克法伦",
-      "published": "2026-8",
-      "summary": "文汇出版社 / 79 / 平装",
-      "discovered_at": "2026-09-18T13:04:49+08:00"
-    },
-    {
-      "id": "37c2ca08f59720b8",
-      "title": "就像烈风归于水",
-      "link": "https://book.douban.com/subject/38557326/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "东来",
-      "published": "2026-8",
-      "summary": "浙江文艺出版社 / 52 / 平装",
-      "discovered_at": "2026-09-18T13:04:49+08:00"
-    },
-    {
-      "id": "b4516babd5092d1f",
-      "title": "躲在文字背后的人",
-      "link": "https://book.douban.com/subject/38569388/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "苏童",
-      "published": "2026-7",
-      "summary": "江苏凤凰文艺出版社 / 45.00元 / 平装",
-      "discovered_at": "2026-09-18T13:04:49+08:00"
-    },
-    {
       "id": "a5accaeccb9069d0",
       "title": "我们之间：用社会学自我疗愈和改革世界",
       "link": "https://book.douban.com/subject/38649214/",
@@ -513,16 +523,6 @@
       "author": "[美]玛丽卡·林霍尔姆 / [美]伊丽莎白·安妮·伍德",
       "published": "2026-9-1",
       "summary": "中国民主法制出版社 / 88.00 / 精装",
-      "discovered_at": "2026-09-17T13:12:00+08:00"
-    },
-    {
-      "id": "c5bb7d04e96f3155",
-      "title": "如何像女人那样思考：父权制下，女哲学家们的精神突围",
-      "link": "https://book.douban.com/subject/38434682/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 丽甘·佩纳卢纳",
-      "published": "2026-8",
-      "summary": "广东人民出版社 / 68.00元 / 平装",
       "discovered_at": "2026-09-17T13:12:00+08:00"
     },
     {
