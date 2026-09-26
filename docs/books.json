@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-09-25T13:15:51+08:00",
+  "generated_at": "2026-09-26T13:21:14+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 96,
-  "matched_count": 80,
+  "fetched_count": 95,
+  "matched_count": 77,
   "source_errors": [],
   "books": [
+    {
+      "id": "499aae82d393a8a6",
+      "title": "莫斯科有高楼：纪念碑式建筑与首都城市生活（1930—1950年代）",
+      "link": "https://book.douban.com/subject/38469258/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 凯瑟琳·祖博维奇",
+      "published": "2026-9",
+      "summary": "生活·读书·新知三联书店 / 98.00元 / 精装",
+      "discovered_at": "2026-09-26T13:21:14+08:00"
+    },
+    {
+      "id": "0263339c1063b126",
+      "title": "照片的阅读方法",
+      "link": "https://book.douban.com/subject/38357093/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[日] 名取洋之助",
+      "published": "2026-9",
+      "summary": "广西师范大学出版社 / 59.00元 / 平装",
+      "discovered_at": "2026-09-26T13:21:14+08:00"
+    },
+    {
+      "id": "49887dfc4657b8b5",
+      "title": "从闺阁到报馆",
+      "link": "https://book.douban.com/subject/38572216/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 马育新",
+      "published": "2026-9",
+      "summary": "岳麓书社 / 88.00 / 裸脊锁线",
+      "discovered_at": "2026-09-26T13:21:14+08:00"
+    },
+    {
+      "id": "4f183ce09342234e",
+      "title": "透明人",
+      "link": "https://book.douban.com/subject/38487618/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[苏]伊利亚·伊里夫 / [苏]叶夫根尼·彼得罗夫",
+      "published": "2026-8",
+      "summary": "湖南文艺出版社 / 68.00元 / 精装",
+      "discovered_at": "2026-09-26T13:21:14+08:00"
+    },
+    {
+      "id": "6de99e52db2e9701",
+      "title": "远征：世纪前卫与全球当代",
+      "link": "https://book.douban.com/subject/38247373/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "鲁明军",
+      "published": "2026-8",
+      "summary": "生活·读书·新知三联书店 / 98.00元 / 精装",
+      "discovered_at": "2026-09-26T13:21:14+08:00"
+    },
+    {
+      "id": "02f8f0cd77a53a35",
+      "title": "真实与虚幻：厄休拉·勒古恩短篇小说自选集",
+      "link": "https://book.douban.com/subject/38431581/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 厄休拉·勒古恩",
+      "published": "2026-8",
+      "summary": "上海译文出版社 / 139.00元",
+      "discovered_at": "2026-09-26T13:21:14+08:00"
+    },
+    {
+      "id": "66b93c4e1f06fbbb",
+      "title": "我曾这样寂寞生活",
+      "link": "https://book.douban.com/subject/38420884/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[波] 维斯拉瓦·辛波斯卡",
+      "published": "2026-8",
+      "summary": "湖南文艺出版社 / 59.00 / 精装",
+      "discovered_at": "2026-09-26T13:21:14+08:00"
+    },
+    {
+      "id": "f51753062dbde613",
+      "title": "一个女人",
+      "link": "https://book.douban.com/subject/38193260/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[意] 西比拉·阿莱拉莫",
+      "published": "2026-7",
+      "summary": "浙江文艺出版社 / 45.00元 / 平装",
+      "discovered_at": "2026-09-26T13:21:14+08:00"
+    },
+    {
+      "id": "1f5609c68aac2de6",
+      "title": "拥抱的姿势：论女性及其所珍爱的",
+      "link": "https://book.douban.com/subject/38636018/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英] 德博拉·利维",
+      "published": "2026-10",
+      "summary": "湖南文艺出版社 / 56.00元 / 平装",
+      "discovered_at": "2026-09-26T13:21:14+08:00"
+    },
     {
       "id": "cd2b0dec3fff3ea2",
       "title": "我的风暴，我的庇护所",
@@ -291,7 +381,7 @@
       "link": "https://book.douban.com/subject/38574884/",
       "source": "豆瓣新书速递 · 社会纪实",
       "author": "[英]齐格蒙特·鲍曼 / [丹]迈克尔·维德·雅各布森 / [英]基思·特斯特",
-      "published": "2026-9-30",
+      "published": "2026-9",
       "summary": "江苏凤凰文艺出版社 / 79.9 / 精装",
       "discovered_at": "2026-09-21T13:19:44+08:00"
     },
@@ -434,96 +524,6 @@
       "published": "2026-7",
       "summary": "天津人民出版社 / 96 / 精装",
       "discovered_at": "2026-09-20T13:16:42+08:00"
-    },
-    {
-      "id": "c9c4e8f7d4d5c761",
-      "title": "鸟类绘画入门：美国自然学家劳斯观鸟与画鸟指南",
-      "link": "https://book.douban.com/subject/38576025/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美]约翰·缪尔·劳斯",
-      "published": "2026-8-24",
-      "summary": "北京科学技术出版社 / 88 / 平装",
-      "discovered_at": "2026-09-19T12:55:25+08:00"
-    },
-    {
-      "id": "f341d6552a0755e2",
-      "title": "河流上的黄昏",
-      "link": "https://book.douban.com/subject/38591845/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "李颖",
-      "published": "2026-8-12",
-      "summary": "广西师范大学出版社 / 58.00元 / 平装",
-      "discovered_at": "2026-09-19T12:55:25+08:00"
-    },
-    {
-      "id": "d1608430ed37cd75",
-      "title": "落在我身上的雨",
-      "link": "https://book.douban.com/subject/38461487/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "陆庆屹",
-      "published": "2026-8",
-      "summary": "新星出版社 / 59.00元 / 平装",
-      "discovered_at": "2026-09-19T12:55:25+08:00"
-    },
-    {
-      "id": "a9cb0c7ff2dc3c83",
-      "title": "给青年诗人的信：译注本",
-      "link": "https://book.douban.com/subject/38500506/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[奥] 赖纳·马利亚·里尔克 / [奥] 弗朗茨·克萨韦尔·卡普斯",
-      "published": "2026-8",
-      "summary": "译林出版社 / 48.00元 / 精装",
-      "discovered_at": "2026-09-19T12:55:25+08:00"
-    },
-    {
-      "id": "419ae8282a8c4d94",
-      "title": "死过千回的女子：黄柳霜的一生",
-      "link": "https://book.douban.com/subject/37925535/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美] 朱洁琳",
-      "published": "2026-8",
-      "summary": "北京联合出版公司 / 80.00元 / 裸脊锁线",
-      "discovered_at": "2026-09-19T12:55:25+08:00"
-    },
-    {
-      "id": "60e2b9e834ecf40d",
-      "title": "大马士革事件：1860年大屠杀与现代中东的形成",
-      "link": "https://book.douban.com/subject/38562825/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 尤金·罗根",
-      "published": "2026-8",
-      "summary": "民主与建设出版社 / 98.00元 / 精装",
-      "discovered_at": "2026-09-19T12:55:25+08:00"
-    },
-    {
-      "id": "b95a4402c0c6a080",
-      "title": "哈拉维精华集",
-      "link": "https://book.douban.com/subject/38546836/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 唐娜·哈拉维",
-      "published": "2026-8",
-      "summary": "广西师范大学出版社 / 精装",
-      "discovered_at": "2026-09-19T12:55:25+08:00"
-    },
-    {
-      "id": "57525a31a28b0196",
-      "title": "穿越：在漫游中想象艺术",
-      "link": "https://book.douban.com/subject/38583596/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美] 巫鸿",
-      "published": "2026-8",
-      "summary": "上海三联书店 / 239.00 / 精装",
-      "discovered_at": "2026-09-18T13:04:49+08:00"
-    },
-    {
-      "id": "a5accaeccb9069d0",
-      "title": "我们之间：用社会学自我疗愈和改革世界",
-      "link": "https://book.douban.com/subject/38649214/",
-      "source": "豆瓣新书速递 · 社会纪实",
-      "author": "[美]玛丽卡·林霍尔姆 / [美]伊丽莎白·安妮·伍德",
-      "published": "2026-9-1",
-      "summary": "中国民主法制出版社 / 88.00 / 精装",
-      "discovered_at": "2026-09-17T13:12:00+08:00"
     },
     {
       "id": "0b48fac9d19dfa98",
