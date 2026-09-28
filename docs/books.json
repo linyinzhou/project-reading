@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-09-27T13:37:21+08:00",
+  "generated_at": "2026-09-28T13:45:11+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 95,
   "matched_count": 78,
   "source_errors": [],
   "books": [
+    {
+      "id": "a5accaeccb9069d0",
+      "title": "我们之间：用社会学自我疗愈和改革世界",
+      "link": "https://book.douban.com/subject/38649214/",
+      "source": "豆瓣新书速递 · 社会纪实",
+      "author": "[美]玛丽卡·林霍尔姆 / [美]伊丽莎白·安妮·伍德",
+      "published": "2026-9-1",
+      "summary": "中国民主法制出版社 / 88.00 / 精装",
+      "discovered_at": "2026-09-28T13:45:11+08:00"
+    },
+    {
+      "id": "91701bd9e4382ed6",
+      "title": "卧观天井悬：中国古代墓葬艺术的视觉性",
+      "link": "https://book.douban.com/subject/38536785/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "郑岩",
+      "published": "2026-9-1",
+      "summary": "北京大学出版社 / 168.00元 / 精装",
+      "discovered_at": "2026-09-28T13:45:11+08:00"
+    },
+    {
+      "id": "9f39cc7397b3336a",
+      "title": "金陵风雨图：生死归途",
+      "link": "https://book.douban.com/subject/38530226/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "何慕",
+      "published": "2026-8",
+      "summary": "北京联合出版公司 / 59.80元 / 平装",
+      "discovered_at": "2026-09-28T13:45:11+08:00"
+    },
+    {
+      "id": "e1e6995469a8e07c",
+      "title": "西出阳关",
+      "link": "https://book.douban.com/subject/38469256/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "梁优",
+      "published": "2026-8",
+      "summary": "上海文艺出版社 / 62.00元 / 平装",
+      "discovered_at": "2026-09-28T13:45:11+08:00"
+    },
+    {
+      "id": "5ad7f7e562317177",
+      "title": "弗洛伊德与精神分析家的欲望：第2版",
+      "link": "https://book.douban.com/subject/38529592/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[法]塞尔日·科泰",
+      "published": "2026-8",
+      "summary": "上海社会科学院出版社 / 58.00 / 平装",
+      "discovered_at": "2026-09-28T13:45:11+08:00"
+    },
+    {
+      "id": "827867b1ac584034",
+      "title": "主唱死了",
+      "link": "https://book.douban.com/subject/37809070/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "刘书宇",
+      "published": "2026-8",
+      "summary": "上海文艺出版社 / 59 / 平装",
+      "discovered_at": "2026-09-28T13:45:11+08:00"
+    },
+    {
+      "id": "c021a2f2126cfefe",
+      "title": "世界的史诗：血缘、权力与文明兴衰",
+      "link": "https://book.douban.com/subject/36462602/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[英]西蒙·蒙蒂菲奥里",
+      "published": "2026-8",
+      "summary": "岳麓书社 / 198.00元 / 精装",
+      "discovered_at": "2026-09-28T13:45:11+08:00"
+    },
+    {
+      "id": "9792e78442651432",
+      "title": "绘画的秘密：从达·芬奇到毕加索",
+      "link": "https://book.douban.com/subject/37656067/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[意] 彼得罗·C. 马拉尼（Pietro C. Marani）",
+      "published": "2026-7",
+      "summary": "四川美术出版社 / 798.00元 / 精装",
+      "discovered_at": "2026-09-28T13:45:11+08:00"
+    },
+    {
+      "id": "5b6f18dd6f562f10",
+      "title": "二十世纪西方文学理论：新译本",
+      "link": "https://book.douban.com/subject/38612861/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英]特里·伊格尔顿",
+      "published": "2026-10",
+      "summary": "北京大学出版社 / 83.00元 / 平装",
+      "discovered_at": "2026-09-28T13:45:11+08:00"
+    },
     {
       "id": "906d8e7ea7569bec",
       "title": "昨日清晨",
@@ -356,16 +446,6 @@
       "discovered_at": "2026-09-22T13:17:25+08:00"
     },
     {
-      "id": "20cb59935e89c67e",
-      "title": "诗艺：修订版",
-      "link": "https://book.douban.com/subject/38592116/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[阿根廷] 豪尔赫·路易斯·博尔赫斯",
-      "published": "2026-8-20",
-      "summary": "上海译文出版社 / 48.00 / 平装",
-      "discovered_at": "2026-09-22T13:17:25+08:00"
-    },
-    {
       "id": "a8f0ec131ce8ebd8",
       "title": "一个人的博物馆",
       "link": "https://book.douban.com/subject/38584500/",
@@ -383,6 +463,16 @@
       "author": "陈浩基",
       "published": "2026-8",
       "summary": "上海三联书店 / 79.00元 / 平装",
+      "discovered_at": "2026-09-22T13:17:25+08:00"
+    },
+    {
+      "id": "20cb59935e89c67e",
+      "title": "诗艺：修订版",
+      "link": "https://book.douban.com/subject/38592116/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[阿根廷] 豪尔赫·路易斯·博尔赫斯",
+      "published": "2026-8",
+      "summary": "上海译文出版社 / 48.00 / 平装",
       "discovered_at": "2026-09-22T13:17:25+08:00"
     },
     {
@@ -434,76 +524,6 @@
       "published": "2026-7",
       "summary": "商务印书馆 / 78.00 / 平装",
       "discovered_at": "2026-09-22T13:17:25+08:00"
-    },
-    {
-      "id": "ad40a5f9bd3378b9",
-      "title": "让无权无势者有力：齐格蒙特·鲍曼谈社会学",
-      "link": "https://book.douban.com/subject/38574884/",
-      "source": "豆瓣新书速递 · 社会纪实",
-      "author": "[英]齐格蒙特·鲍曼 / [丹]迈克尔·维德·雅各布森 / [英]基思·特斯特",
-      "published": "2026-9",
-      "summary": "江苏凤凰文艺出版社 / 79.9 / 精装",
-      "discovered_at": "2026-09-21T13:19:44+08:00"
-    },
-    {
-      "id": "9c4f30b111a99dbf",
-      "title": "汉政与王道：汉代政治演进与治理模式变迁",
-      "link": "https://book.douban.com/subject/37322645/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "陈苏镇",
-      "published": "2026-9",
-      "summary": "生活·读书·新知三联书店 / 138.00元 / 精装",
-      "discovered_at": "2026-09-21T13:19:44+08:00"
-    },
-    {
-      "id": "b77b62e605e21fa6",
-      "title": "124个梦",
-      "link": "https://book.douban.com/subject/38546672/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[法] 乔治·佩雷克",
-      "published": "2026-9",
-      "summary": "四川文艺出版社 / 56.00 / 平装",
-      "discovered_at": "2026-09-21T13:19:44+08:00"
-    },
-    {
-      "id": "ac5c362e2fab1c3a",
-      "title": "诗歌的价值",
-      "link": "https://book.douban.com/subject/37925545/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美] 埃里克·法尔奇",
-      "published": "2026-8",
-      "summary": "南京大学出版社 / 68.00元 / 平装",
-      "discovered_at": "2026-09-21T13:19:44+08:00"
-    },
-    {
-      "id": "79eb92306939a19a",
-      "title": "构建《三国志》",
-      "link": "https://book.douban.com/subject/38483855/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "黄粱",
-      "published": "2026-8",
-      "summary": "中华书局 / 62.00元 / 平装",
-      "discovered_at": "2026-09-21T13:19:44+08:00"
-    },
-    {
-      "id": "c8c66880dc4cf2d7",
-      "title": "给忙碌者的世界神话传说·森林篇",
-      "link": "https://book.douban.com/subject/38434719/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英]狄·狄·钱尼 / [英]薇洛·温瑟姆",
-      "published": "2026-7",
-      "summary": "湖南文艺出版社 / 38.00元 / 平装口袋本",
-      "discovered_at": "2026-09-21T13:19:44+08:00"
-    },
-    {
-      "id": "4af49d8b72b92faa",
-      "title": "纪德作品集：生命的变奏",
-      "link": "https://book.douban.com/subject/38584589/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "安德烈·纪德",
-      "published": "2026-8",
-      "summary": "浙江文艺出版社 / 189.00 / 函套",
-      "discovered_at": "2026-09-20T13:16:42+08:00"
     },
     {
       "id": "0b48fac9d19dfa98",
