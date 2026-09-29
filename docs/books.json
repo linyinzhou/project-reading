@@ -1,10 +1,90 @@
 {
-  "generated_at": "2026-09-28T13:45:11+08:00",
+  "generated_at": "2026-09-29T14:02:49+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 95,
-  "matched_count": 78,
+  "fetched_count": 94,
+  "matched_count": 76,
   "source_errors": [],
   "books": [
+    {
+      "id": "c165bb13c15facd4",
+      "title": "万物源起",
+      "link": "https://book.douban.com/subject/38219552/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[韩] 金宝英",
+      "published": "2026-9-10",
+      "summary": "国文出版社 / 58.00元 / 平装",
+      "discovered_at": "2026-09-29T14:02:49+08:00"
+    },
+    {
+      "id": "4840149edcc94677",
+      "title": "社会学的想象力",
+      "link": "https://book.douban.com/subject/38546847/",
+      "source": "豆瓣新书速递 · 社会纪实",
+      "author": "[美] C.赖特·米尔斯",
+      "published": "2026-9",
+      "summary": "北京大学出版社 / 88.00元 / 平装",
+      "discovered_at": "2026-09-29T14:02:49+08:00"
+    },
+    {
+      "id": "ace1dfa322222d69",
+      "title": "家奴的边界：宦官与北宋统治秩序",
+      "link": "https://book.douban.com/subject/38552861/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "丁义珏",
+      "published": "2026-9",
+      "summary": "中华书局 / 88.00元 / 精装",
+      "discovered_at": "2026-09-29T14:02:49+08:00"
+    },
+    {
+      "id": "d6567bf4d3d8fa29",
+      "title": "在明日的阴影中：对现代弊病的诊断",
+      "link": "https://book.douban.com/subject/38552866/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[荷兰]约翰·赫伊津哈",
+      "published": "2026-9",
+      "summary": "上海三联书店 / 68.00元 / 精装",
+      "discovered_at": "2026-09-29T14:02:49+08:00"
+    },
+    {
+      "id": "4adc42029a974e70",
+      "title": "上海房子",
+      "link": "https://book.douban.com/subject/38590638/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "席闻雷 / 冯立",
+      "published": "2026-8-14",
+      "summary": "东华大学出版社 / 98.00 / 平装",
+      "discovered_at": "2026-09-29T14:02:49+08:00"
+    },
+    {
+      "id": "69a3f254704d2568",
+      "title": "都是她的错",
+      "link": "https://book.douban.com/subject/38547020/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[爱尔兰] 安德烈娅·玛拉",
+      "published": "2026-8",
+      "summary": "广西师范大学出版社 / 68.00 / 平装",
+      "discovered_at": "2026-09-29T14:02:49+08:00"
+    },
+    {
+      "id": "c8c66880dc4cf2d7",
+      "title": "给忙碌者的世界神话传说·森林篇",
+      "link": "https://book.douban.com/subject/38434719/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英]狄·狄·钱尼 / [英]薇洛·温瑟姆",
+      "published": "2026-7",
+      "summary": "湖南文艺出版社 / 38.00元 / 平装口袋本",
+      "discovered_at": "2026-09-29T14:02:49+08:00"
+    },
+    {
+      "id": "b3b75256041c4419",
+      "title": "三个基尼",
+      "link": "https://book.douban.com/subject/38405927/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英] 弗吉尼亚·伍尔夫",
+      "published": "2026-7",
+      "summary": "浙江文艺出版社 / 45.00元 / 平装",
+      "discovered_at": "2026-09-29T14:02:49+08:00"
+    },
     {
       "id": "a5accaeccb9069d0",
       "title": "我们之间：用社会学自我疗愈和改革世界",
@@ -434,96 +514,6 @@
       "published": "2026-7",
       "summary": "湖南文艺出版社 / 38.00元 / 平装口袋本",
       "discovered_at": "2026-09-23T13:02:53+08:00"
-    },
-    {
-      "id": "69104280760b2c74",
-      "title": "我在北京送快递：插画增订版",
-      "link": "https://book.douban.com/subject/38491447/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "胡安焉",
-      "published": "2026-8-8",
-      "summary": "上海译文出版社 / 65.00元 / 平装",
-      "discovered_at": "2026-09-22T13:17:25+08:00"
-    },
-    {
-      "id": "a8f0ec131ce8ebd8",
-      "title": "一个人的博物馆",
-      "link": "https://book.douban.com/subject/38584500/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "扫舍",
-      "published": "2026-8-10",
-      "summary": "上海人民美术出版社 / 98.00元 / 平装",
-      "discovered_at": "2026-09-22T13:17:25+08:00"
-    },
-    {
-      "id": "a4a0b6a757a8c6b4",
-      "title": "隐蔽嫌疑人",
-      "link": "https://book.douban.com/subject/37147122/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "陈浩基",
-      "published": "2026-8",
-      "summary": "上海三联书店 / 79.00元 / 平装",
-      "discovered_at": "2026-09-22T13:17:25+08:00"
-    },
-    {
-      "id": "20cb59935e89c67e",
-      "title": "诗艺：修订版",
-      "link": "https://book.douban.com/subject/38592116/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[阿根廷] 豪尔赫·路易斯·博尔赫斯",
-      "published": "2026-8",
-      "summary": "上海译文出版社 / 48.00 / 平装",
-      "discovered_at": "2026-09-22T13:17:25+08:00"
-    },
-    {
-      "id": "45b0d0162944459c",
-      "title": "繁漪女士",
-      "link": "https://book.douban.com/subject/38498672/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "万方",
-      "published": "2026-8",
-      "summary": "北京十月文艺出版社 / 62",
-      "discovered_at": "2026-09-22T13:17:25+08:00"
-    },
-    {
-      "id": "b174db4429459dcc",
-      "title": "深陷泥沼的人类学家",
-      "link": "https://book.douban.com/subject/38483071/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[法] 马蒂亚斯·埃纳尔",
-      "published": "2026-8",
-      "summary": "上海人民出版社 / 79.00 / 平装",
-      "discovered_at": "2026-09-22T13:17:25+08:00"
-    },
-    {
-      "id": "5b7522977907e7e3",
-      "title": "最蓝的眼睛",
-      "link": "https://book.douban.com/subject/38546670/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 托妮·莫里森",
-      "published": "2026-8",
-      "summary": "上海译文出版社 / 78 / 精装",
-      "discovered_at": "2026-09-22T13:17:25+08:00"
-    },
-    {
-      "id": "3835611e547f8ad0",
-      "title": "地下的灵域：中国墓葬美术",
-      "link": "https://book.douban.com/subject/37764064/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美] 巫鸿",
-      "published": "2026-7",
-      "summary": "上海人民出版社 / 168.00元 / 精装",
-      "discovered_at": "2026-09-22T13:17:25+08:00"
-    },
-    {
-      "id": "03a5c9b53f77dd83",
-      "title": "历史与自由意识：黑格尔与马克思的自由辩证法",
-      "link": "https://book.douban.com/subject/37647061/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[德] 安德烈亚斯·阿恩特",
-      "published": "2026-7",
-      "summary": "商务印书馆 / 78.00 / 平装",
-      "discovered_at": "2026-09-22T13:17:25+08:00"
     },
     {
       "id": "0b48fac9d19dfa98",
