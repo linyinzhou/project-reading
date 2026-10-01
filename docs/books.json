@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-09-30T13:51:41+08:00",
+  "generated_at": "2026-10-01T14:25:15+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 94,
+  "fetched_count": 93,
   "matched_count": 77,
   "source_errors": [],
   "books": [
+    {
+      "id": "64e1063618a84f7c",
+      "title": "码头上的异乡人：一个家族肖像画",
+      "link": "https://book.douban.com/subject/38541645/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 欧大旭",
+      "published": "2026-9",
+      "summary": "上海译文出版社 / 42 / 精装",
+      "discovered_at": "2026-10-01T14:25:15+08:00"
+    },
+    {
+      "id": "8633257abe6dfb76",
+      "title": "椭圆形午后",
+      "link": "https://book.douban.com/subject/38501911/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "沈大成",
+      "published": "2026-9",
+      "summary": "云南人民出版社 / 59.80元 / 平装",
+      "discovered_at": "2026-10-01T14:25:15+08:00"
+    },
+    {
+      "id": "8e34c426036d0239",
+      "title": "恐惧",
+      "link": "https://book.douban.com/subject/38510363/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[奥地利] 斯蒂芬·茨威格",
+      "published": "2026-8",
+      "summary": "江苏凤凰文艺出版社 / 精装",
+      "discovered_at": "2026-10-01T14:25:15+08:00"
+    },
+    {
+      "id": "9e1a86ff967b6fe0",
+      "title": "即使不会游泳，也要浮出水面",
+      "link": "https://book.douban.com/subject/38568443/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 薇薇安·戈尔尼克",
+      "published": "2026-8",
+      "summary": "上海教育出版社 / 49.8元 / 平装",
+      "discovered_at": "2026-10-01T14:25:15+08:00"
+    },
+    {
+      "id": "da88d3cd4cec1034",
+      "title": "俄罗斯草原边境：一个欧亚帝国的形成（1500—1800）",
+      "link": "https://book.douban.com/subject/38556201/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 迈克尔·霍达尔科夫斯基",
+      "published": "2026-8",
+      "summary": "中国大百科全书出版社 / 88.00元 / 平装",
+      "discovered_at": "2026-10-01T14:25:15+08:00"
+    },
+    {
+      "id": "0b48fac9d19dfa98",
+      "title": "无年龄的人：一个人类学家对自我、时间与意义的研究",
+      "link": "https://book.douban.com/subject/38603049/",
+      "source": "豆瓣新书速递 · 社会纪实",
+      "author": "莎朗·考夫曼",
+      "published": "2026-7",
+      "summary": "华东师范大学出版社 / 75.00 / 平装",
+      "discovered_at": "2026-10-01T14:25:15+08:00"
+    },
     {
       "id": "237ee446161b4b2a",
       "title": "燕食记",
@@ -464,66 +524,6 @@
       "published": "2026-7",
       "summary": "上海古籍出版社 / 58.00元 / 平装",
       "discovered_at": "2026-09-25T13:15:51+08:00"
-    },
-    {
-      "id": "3cc0f44abcabe471",
-      "title": "夜晚的语言学家：发现汉语的100个秘密",
-      "link": "https://book.douban.com/subject/38536534/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "陈笠",
-      "published": "2026-9",
-      "summary": "海峡书局 / 68.00元 / 平装",
-      "discovered_at": "2026-09-24T13:14:19+08:00"
-    },
-    {
-      "id": "179f29c8bbe5bf29",
-      "title": "聆听永恒：古典音乐中的灵魂与回响",
-      "link": "https://book.douban.com/subject/38552873/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "高建",
-      "published": "2026-8",
-      "summary": "化学工业出版社 / 138.00元 / 平装",
-      "discovered_at": "2026-09-24T13:14:19+08:00"
-    },
-    {
-      "id": "20d71b98491209e6",
-      "title": "最好的时光：文艺经典十一讲",
-      "link": "https://book.douban.com/subject/38427482/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "王晓明 / 薛毅 / 倪文尖 / 孙晓忠 / 董丽敏 / 倪伟 / 罗岗 / 毛尖 / 雷启立",
-      "published": "2026-8",
-      "summary": "广西师范大学出版社 / 69元 / 精装",
-      "discovered_at": "2026-09-24T13:14:19+08:00"
-    },
-    {
-      "id": "cfd85bc911d032cb",
-      "title": "明月白雪照着大地",
-      "link": "https://book.douban.com/subject/38569327/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "李嘉茵",
-      "published": "2026-8",
-      "summary": "上海文艺出版社 / 58.00元 / 平装",
-      "discovered_at": "2026-09-24T13:14:19+08:00"
-    },
-    {
-      "id": "2f828f7e8ff58e44",
-      "title": "巴纳姆博物馆：斯蒂文·米尔豪瑟短篇自选集",
-      "link": "https://book.douban.com/subject/37648900/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 斯蒂文·米尔豪瑟",
-      "published": "2026-8",
-      "summary": "北京联合出版公司 / 138.00 / 单册平装+函盒",
-      "discovered_at": "2026-09-24T13:14:19+08:00"
-    },
-    {
-      "id": "323f5faea6d032cc",
-      "title": "再唤一声阿弟仔",
-      "link": "https://book.douban.com/subject/38597943/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "黄伟康",
-      "published": "2026-8",
-      "summary": "江苏凤凰文艺出版社 / 59.00元 / 平装",
-      "discovered_at": "2026-09-24T13:14:19+08:00"
     }
   ]
 }
