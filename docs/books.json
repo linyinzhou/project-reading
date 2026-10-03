@@ -1,10 +1,90 @@
 {
-  "generated_at": "2026-10-02T14:03:50+08:00",
+  "generated_at": "2026-10-03T13:37:47+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 92,
-  "matched_count": 76,
+  "matched_count": 73,
   "source_errors": [],
   "books": [
+    {
+      "id": "96ac7f86ab95e164",
+      "title": "逃离新世界",
+      "link": "https://book.douban.com/subject/38536093/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "张小北",
+      "published": "2026-9",
+      "summary": "新星出版社 / 65.00元 / 平装",
+      "discovered_at": "2026-10-03T13:37:47+08:00"
+    },
+    {
+      "id": "b733e3cfeaa53ffc",
+      "title": "意大利蠢事集",
+      "link": "https://book.douban.com/subject/38552600/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[意] 埃乌杰尼奥·蒙塔莱",
+      "published": "2026-9",
+      "summary": "文汇出版社 / 68.00元 / 精装",
+      "discovered_at": "2026-10-03T13:37:47+08:00"
+    },
+    {
+      "id": "42a80204678af387",
+      "title": "将怀疑作为方法",
+      "link": "https://book.douban.com/subject/38556442/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[英]伯特兰·罗素",
+      "published": "2026-9",
+      "summary": "岳麓书社 / 59.00 / 平装",
+      "discovered_at": "2026-10-03T13:37:47+08:00"
+    },
+    {
+      "id": "1dcf88ef9f1fdf47",
+      "title": "凝神时刻",
+      "link": "https://book.douban.com/subject/38593398/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "邓安庆",
+      "published": "2026-9",
+      "summary": "浙江文艺出版社 / 52.00元 / 平装",
+      "discovered_at": "2026-10-03T13:37:47+08:00"
+    },
+    {
+      "id": "85fce87f3438daee",
+      "title": "艺术与对象",
+      "link": "https://book.douban.com/subject/38449856/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美]格拉汉姆·哈曼",
+      "published": "2026-8",
+      "summary": "上海社会科学院出版社 / 78.00元 / 平装",
+      "discovered_at": "2026-10-03T13:37:47+08:00"
+    },
+    {
+      "id": "0a4aa0cb10809b8f",
+      "title": "沙乡年鉴",
+      "link": "https://book.douban.com/subject/38571809/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美]奥尔多·利奥波德",
+      "published": "2026-8",
+      "summary": "湖南科学技术出版社 / 68 / 平装",
+      "discovered_at": "2026-10-03T13:37:47+08:00"
+    },
+    {
+      "id": "2f828f7e8ff58e44",
+      "title": "巴纳姆博物馆：斯蒂文·米尔豪瑟短篇自选集",
+      "link": "https://book.douban.com/subject/37648900/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 斯蒂文·米尔豪瑟",
+      "published": "2026-8",
+      "summary": "北京联合出版公司 / 138.00 / 单册平装+函盒",
+      "discovered_at": "2026-10-03T13:37:47+08:00"
+    },
+    {
+      "id": "09074cc3eaab5a94",
+      "title": "宛如泰坦尼克",
+      "link": "https://book.douban.com/subject/38548421/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 杰西卡·欣德曼",
+      "published": "2026-8",
+      "summary": "广西师范大学出版社 / 64元 / 平装",
+      "discovered_at": "2026-10-03T13:37:47+08:00"
+    },
     {
       "id": "4a14a14e9b29cc0e",
       "title": "留白",
@@ -454,96 +534,6 @@
       "published": "2026-7",
       "summary": "上海文艺出版社 / 78.00 / 精装",
       "discovered_at": "2026-09-27T13:37:21+08:00"
-    },
-    {
-      "id": "499aae82d393a8a6",
-      "title": "莫斯科有高楼：纪念碑式建筑与首都城市生活（1930—1950年代）",
-      "link": "https://book.douban.com/subject/38469258/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 凯瑟琳·祖博维奇",
-      "published": "2026-9",
-      "summary": "生活·读书·新知三联书店 / 98.00元 / 精装",
-      "discovered_at": "2026-09-26T13:21:14+08:00"
-    },
-    {
-      "id": "0263339c1063b126",
-      "title": "照片的阅读方法",
-      "link": "https://book.douban.com/subject/38357093/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[日] 名取洋之助",
-      "published": "2026-9",
-      "summary": "广西师范大学出版社 / 59.00元 / 平装",
-      "discovered_at": "2026-09-26T13:21:14+08:00"
-    },
-    {
-      "id": "49887dfc4657b8b5",
-      "title": "从闺阁到报馆",
-      "link": "https://book.douban.com/subject/38572216/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 马育新",
-      "published": "2026-9",
-      "summary": "岳麓书社 / 88.00 / 裸脊锁线",
-      "discovered_at": "2026-09-26T13:21:14+08:00"
-    },
-    {
-      "id": "4f183ce09342234e",
-      "title": "透明人",
-      "link": "https://book.douban.com/subject/38487618/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[苏]伊利亚·伊里夫 / [苏]叶夫根尼·彼得罗夫",
-      "published": "2026-8",
-      "summary": "湖南文艺出版社 / 68.00元 / 精装",
-      "discovered_at": "2026-09-26T13:21:14+08:00"
-    },
-    {
-      "id": "6de99e52db2e9701",
-      "title": "远征：世纪前卫与全球当代",
-      "link": "https://book.douban.com/subject/38247373/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "鲁明军",
-      "published": "2026-8",
-      "summary": "生活·读书·新知三联书店 / 98.00元 / 精装",
-      "discovered_at": "2026-09-26T13:21:14+08:00"
-    },
-    {
-      "id": "02f8f0cd77a53a35",
-      "title": "真实与虚幻：厄休拉·勒古恩短篇小说自选集",
-      "link": "https://book.douban.com/subject/38431581/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 厄休拉·勒古恩",
-      "published": "2026-8",
-      "summary": "上海译文出版社 / 139.00元",
-      "discovered_at": "2026-09-26T13:21:14+08:00"
-    },
-    {
-      "id": "66b93c4e1f06fbbb",
-      "title": "我曾这样寂寞生活",
-      "link": "https://book.douban.com/subject/38420884/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[波] 维斯拉瓦·辛波斯卡",
-      "published": "2026-8",
-      "summary": "湖南文艺出版社 / 59.00 / 精装",
-      "discovered_at": "2026-09-26T13:21:14+08:00"
-    },
-    {
-      "id": "f51753062dbde613",
-      "title": "一个女人",
-      "link": "https://book.douban.com/subject/38193260/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[意] 西比拉·阿莱拉莫",
-      "published": "2026-7",
-      "summary": "浙江文艺出版社 / 45.00元 / 平装",
-      "discovered_at": "2026-09-26T13:21:14+08:00"
-    },
-    {
-      "id": "1f5609c68aac2de6",
-      "title": "拥抱的姿势：论女性及其所珍爱的",
-      "link": "https://book.douban.com/subject/38636018/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 德博拉·利维",
-      "published": "2026-10",
-      "summary": "湖南文艺出版社 / 56.00元 / 平装",
-      "discovered_at": "2026-09-26T13:21:14+08:00"
     }
   ]
 }
