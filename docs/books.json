@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-10-03T13:37:47+08:00",
+  "generated_at": "2026-10-04T14:13:28+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 92,
+  "fetched_count": 91,
   "matched_count": 73,
   "source_errors": [],
   "books": [
+    {
+      "id": "95e9a4a58c799c1f",
+      "title": "植物学家的致意",
+      "link": "https://book.douban.com/subject/38176038/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] M.W.克雷文",
+      "published": "2026-9",
+      "summary": "新星出版社 / 65.00元 / 平装",
+      "discovered_at": "2026-10-04T14:13:28+08:00"
+    },
+    {
+      "id": "e31b55ce841b41a2",
+      "title": "电影的色彩",
+      "link": "https://book.douban.com/subject/38492034/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美]查尔斯 · 布拉梅斯科",
+      "published": "2026-8-23",
+      "summary": "北京联合出版公司 / 168.00",
+      "discovered_at": "2026-10-04T14:13:28+08:00"
+    },
+    {
+      "id": "aa9d13df84080fa4",
+      "title": "败者食尘：马尔克斯的孤独与爱情",
+      "link": "https://book.douban.com/subject/38582395/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "陆浩斌 / 何飘飘",
+      "published": "2026-8",
+      "summary": "浙江文艺出版社 / 68 / 精装",
+      "discovered_at": "2026-10-04T14:13:28+08:00"
+    },
+    {
+      "id": "4a9480264600be64",
+      "title": "深渊大饭店",
+      "link": "https://book.douban.com/subject/38552885/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[英] 斯图尔特·杰弗里斯",
+      "published": "2026-8",
+      "summary": "湖南文艺出版社 / 88 / 平装",
+      "discovered_at": "2026-10-04T14:13:28+08:00"
+    },
+    {
+      "id": "c65341daaec5ec23",
+      "title": "河上一周",
+      "link": "https://book.douban.com/subject/38571956/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美]亨利·戴维·梭罗",
+      "published": "2026-8",
+      "summary": "湖南科学技术出版社 / 78 / 平装",
+      "discovered_at": "2026-10-04T14:13:28+08:00"
+    },
+    {
+      "id": "8eea615afc4558d6",
+      "title": "有风无风都自由",
+      "link": "https://book.douban.com/subject/38616611/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "高军",
+      "published": "2026-8",
+      "summary": "江苏凤凰文艺出版社 / 59.00元 / 平装",
+      "discovered_at": "2026-10-04T14:13:28+08:00"
+    },
+    {
+      "id": "a748f1a4fccd3729",
+      "title": "船热",
+      "link": "https://book.douban.com/subject/38540724/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 安德烈娅·巴雷特",
+      "published": "2026-7",
+      "summary": "河南大学出版社 / 58.00元 / 平装",
+      "discovered_at": "2026-10-04T14:13:28+08:00"
+    },
     {
       "id": "96ac7f86ab95e164",
       "title": "逃离新世界",
@@ -476,26 +546,6 @@
       "discovered_at": "2026-09-28T13:45:11+08:00"
     },
     {
-      "id": "906d8e7ea7569bec",
-      "title": "昨日清晨",
-      "link": "https://book.douban.com/subject/38647828/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 戴安娜·阿西尔",
-      "published": "2026-9",
-      "summary": "江苏凤凰文艺出版社 / 49.80元 / 精装",
-      "discovered_at": "2026-09-27T13:37:21+08:00"
-    },
-    {
-      "id": "cc2be189ecdd6bcc",
-      "title": "我的奥兰多：弗吉尼亚与薇塔书信集",
-      "link": "https://book.douban.com/subject/38644515/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 弗吉尼亚 · 伍尔夫 / [英] 薇塔 · 萨克维尔-韦斯特",
-      "published": "2026-9",
-      "summary": "中信出版集团 / 69.80元 / 平装",
-      "discovered_at": "2026-09-27T13:37:21+08:00"
-    },
-    {
       "id": "4b1130efadde33e1",
       "title": "夜奔：客栈里的武林",
       "link": "https://book.douban.com/subject/38535497/",
@@ -503,36 +553,6 @@
       "author": "黄鸿玺",
       "published": "2026-9",
       "summary": "生活·读书·新知三联书店 / 平装",
-      "discovered_at": "2026-09-27T13:37:21+08:00"
-    },
-    {
-      "id": "7f8ca8a4bba6ab2b",
-      "title": "认知的不正义",
-      "link": "https://book.douban.com/subject/38413867/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[英] 米兰达·弗里克",
-      "published": "2026-8",
-      "summary": "浙江人民出版社 / 78.00元 / 平装",
-      "discovered_at": "2026-09-27T13:37:21+08:00"
-    },
-    {
-      "id": "789da1f1d781eb12",
-      "title": "塔缪的世界：埃及猫的艺术史",
-      "link": "https://book.douban.com/subject/38395104/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "贾妍",
-      "published": "2026-8",
-      "summary": "生活·读书·新知三联书店 / 98.00元 / 平装",
-      "discovered_at": "2026-09-27T13:37:21+08:00"
-    },
-    {
-      "id": "06daa634fae0229a",
-      "title": "空响炮（修订版）",
-      "link": "https://book.douban.com/subject/38536886/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "王占黑",
-      "published": "2026-7",
-      "summary": "上海文艺出版社 / 78.00 / 精装",
       "discovered_at": "2026-09-27T13:37:21+08:00"
     }
   ]
