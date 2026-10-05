@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-10-04T14:13:28+08:00",
+  "generated_at": "2026-10-05T14:05:53+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 91,
-  "matched_count": 73,
-  "source_errors": [],
+  "fetched_count": 0,
+  "matched_count": 0,
+  "source_errors": [
+    "豆瓣新书速递 · 文学: HTTP Error 403: Forbidden",
+    "豆瓣新书速递 · 小说: HTTP Error 403: Forbidden",
+    "豆瓣新书速递 · 历史文化: HTTP Error 403: Forbidden",
+    "豆瓣新书速递 · 社会纪实: HTTP Error 403: Forbidden",
+    "豆瓣新书速递 · 艺术设计: HTTP Error 403: Forbidden"
+  ],
   "books": [
     {
       "id": "95e9a4a58c799c1f",
@@ -454,106 +460,6 @@
       "published": "2026-7",
       "summary": "浙江文艺出版社 / 45.00元 / 平装",
       "discovered_at": "2026-09-29T14:02:49+08:00"
-    },
-    {
-      "id": "a5accaeccb9069d0",
-      "title": "我们之间：用社会学自我疗愈和改革世界",
-      "link": "https://book.douban.com/subject/38649214/",
-      "source": "豆瓣新书速递 · 社会纪实",
-      "author": "[美]玛丽卡·林霍尔姆 / [美]伊丽莎白·安妮·伍德",
-      "published": "2026-9-1",
-      "summary": "中国民主法制出版社 / 88.00 / 精装",
-      "discovered_at": "2026-09-28T13:45:11+08:00"
-    },
-    {
-      "id": "91701bd9e4382ed6",
-      "title": "卧观天井悬：中国古代墓葬艺术的视觉性",
-      "link": "https://book.douban.com/subject/38536785/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "郑岩",
-      "published": "2026-9-1",
-      "summary": "北京大学出版社 / 168.00元 / 精装",
-      "discovered_at": "2026-09-28T13:45:11+08:00"
-    },
-    {
-      "id": "9f39cc7397b3336a",
-      "title": "金陵风雨图：生死归途",
-      "link": "https://book.douban.com/subject/38530226/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "何慕",
-      "published": "2026-8",
-      "summary": "北京联合出版公司 / 59.80元 / 平装",
-      "discovered_at": "2026-09-28T13:45:11+08:00"
-    },
-    {
-      "id": "e1e6995469a8e07c",
-      "title": "西出阳关",
-      "link": "https://book.douban.com/subject/38469256/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "梁优",
-      "published": "2026-8",
-      "summary": "上海文艺出版社 / 62.00元 / 平装",
-      "discovered_at": "2026-09-28T13:45:11+08:00"
-    },
-    {
-      "id": "5ad7f7e562317177",
-      "title": "弗洛伊德与精神分析家的欲望：第2版",
-      "link": "https://book.douban.com/subject/38529592/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[法]塞尔日·科泰",
-      "published": "2026-8",
-      "summary": "上海社会科学院出版社 / 58.00 / 平装",
-      "discovered_at": "2026-09-28T13:45:11+08:00"
-    },
-    {
-      "id": "827867b1ac584034",
-      "title": "主唱死了",
-      "link": "https://book.douban.com/subject/37809070/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "刘书宇",
-      "published": "2026-8",
-      "summary": "上海文艺出版社 / 59 / 平装",
-      "discovered_at": "2026-09-28T13:45:11+08:00"
-    },
-    {
-      "id": "c021a2f2126cfefe",
-      "title": "世界的史诗：血缘、权力与文明兴衰",
-      "link": "https://book.douban.com/subject/36462602/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[英]西蒙·蒙蒂菲奥里",
-      "published": "2026-8",
-      "summary": "岳麓书社 / 198.00元 / 精装",
-      "discovered_at": "2026-09-28T13:45:11+08:00"
-    },
-    {
-      "id": "9792e78442651432",
-      "title": "绘画的秘密：从达·芬奇到毕加索",
-      "link": "https://book.douban.com/subject/37656067/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[意] 彼得罗·C. 马拉尼（Pietro C. Marani）",
-      "published": "2026-7",
-      "summary": "四川美术出版社 / 798.00元 / 精装",
-      "discovered_at": "2026-09-28T13:45:11+08:00"
-    },
-    {
-      "id": "5b6f18dd6f562f10",
-      "title": "二十世纪西方文学理论：新译本",
-      "link": "https://book.douban.com/subject/38612861/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英]特里·伊格尔顿",
-      "published": "2026-10",
-      "summary": "北京大学出版社 / 83.00元 / 平装",
-      "discovered_at": "2026-09-28T13:45:11+08:00"
-    },
-    {
-      "id": "4b1130efadde33e1",
-      "title": "夜奔：客栈里的武林",
-      "link": "https://book.douban.com/subject/38535497/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "黄鸿玺",
-      "published": "2026-9",
-      "summary": "生活·读书·新知三联书店 / 平装",
-      "discovered_at": "2026-09-27T13:37:21+08:00"
     }
   ]
 }
