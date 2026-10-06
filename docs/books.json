@@ -1,16 +1,100 @@
 {
-  "generated_at": "2026-10-05T14:05:53+08:00",
+  "generated_at": "2026-10-06T14:46:15+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 0,
-  "matched_count": 0,
-  "source_errors": [
-    "豆瓣新书速递 · 文学: HTTP Error 403: Forbidden",
-    "豆瓣新书速递 · 小说: HTTP Error 403: Forbidden",
-    "豆瓣新书速递 · 历史文化: HTTP Error 403: Forbidden",
-    "豆瓣新书速递 · 社会纪实: HTTP Error 403: Forbidden",
-    "豆瓣新书速递 · 艺术设计: HTTP Error 403: Forbidden"
-  ],
+  "fetched_count": 91,
+  "matched_count": 73,
+  "source_errors": [],
   "books": [
+    {
+      "id": "cc2be189ecdd6bcc",
+      "title": "我的奥兰多：弗吉尼亚与薇塔书信集",
+      "link": "https://book.douban.com/subject/38644515/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英] 弗吉尼亚 · 伍尔夫 / [英] 薇塔 · 萨克维尔-韦斯特",
+      "published": "2026-9",
+      "summary": "中信出版集团 / 69.80元 / 平装",
+      "discovered_at": "2026-10-06T14:46:15+08:00"
+    },
+    {
+      "id": "7e7b488631050c48",
+      "title": "德国士人的衰落：1890—1933年的德国学术共同体",
+      "link": "https://book.douban.com/subject/38535508/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美]弗里茨·林格",
+      "published": "2026-9",
+      "summary": "北京大学出版社 / 98.00 / 平装",
+      "discovered_at": "2026-10-06T14:46:15+08:00"
+    },
+    {
+      "id": "648f052cb2ee1cda",
+      "title": "激情",
+      "link": "https://book.douban.com/subject/38535040/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "李宏伟",
+      "published": "2026-8-8",
+      "summary": "上海文艺出版社 / 69 / 平装",
+      "discovered_at": "2026-10-06T14:46:15+08:00"
+    },
+    {
+      "id": "6c4f3c2a43cf92eb",
+      "title": "看见情绪：在艺术中舒压",
+      "link": "https://book.douban.com/subject/38607113/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "刘正奎 / 卢征远",
+      "published": "2026-8-17",
+      "summary": "北京联合出版公司 / 128.00元 / 平装",
+      "discovered_at": "2026-10-06T14:46:15+08:00"
+    },
+    {
+      "id": "348ec98a33828cb2",
+      "title": "魏玛十五年：一个国家失败的样本",
+      "link": "https://book.douban.com/subject/38529630/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "马国川",
+      "published": "2026-8",
+      "summary": "广东人民出版社 / 88.00元 / 精装",
+      "discovered_at": "2026-10-06T14:46:15+08:00"
+    },
+    {
+      "id": "a4a0b6a757a8c6b4",
+      "title": "隐蔽嫌疑人",
+      "link": "https://book.douban.com/subject/37147122/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "陈浩基",
+      "published": "2026-8",
+      "summary": "上海三联书店 / 79.00元 / 平装",
+      "discovered_at": "2026-10-06T14:46:15+08:00"
+    },
+    {
+      "id": "45b0d0162944459c",
+      "title": "繁漪女士",
+      "link": "https://book.douban.com/subject/38498672/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "万方",
+      "published": "2026-8",
+      "summary": "北京十月文艺出版社 / 62",
+      "discovered_at": "2026-10-06T14:46:15+08:00"
+    },
+    {
+      "id": "323f5faea6d032cc",
+      "title": "再唤一声阿弟仔",
+      "link": "https://book.douban.com/subject/38597943/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "黄伟康",
+      "published": "2026-8",
+      "summary": "江苏凤凰文艺出版社 / 59.00元 / 平装",
+      "discovered_at": "2026-10-06T14:46:15+08:00"
+    },
+    {
+      "id": "c63517918c12fe44",
+      "title": "何典",
+      "link": "https://book.douban.com/subject/38400747/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "(清)张南庄",
+      "published": "2026-8",
+      "summary": "上海三联书店 / 52.00 / 精装",
+      "discovered_at": "2026-10-06T14:46:15+08:00"
+    },
     {
       "id": "95e9a4a58c799c1f",
       "title": "植物学家的致意",
@@ -382,16 +466,6 @@
       "discovered_at": "2026-09-30T13:51:41+08:00"
     },
     {
-      "id": "c165bb13c15facd4",
-      "title": "万物源起",
-      "link": "https://book.douban.com/subject/38219552/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[韩] 金宝英",
-      "published": "2026-9-10",
-      "summary": "国文出版社 / 58.00元 / 平装",
-      "discovered_at": "2026-09-29T14:02:49+08:00"
-    },
-    {
       "id": "4840149edcc94677",
       "title": "社会学的想象力",
       "link": "https://book.douban.com/subject/38546847/",
@@ -399,66 +473,6 @@
       "author": "[美] C.赖特·米尔斯",
       "published": "2026-9",
       "summary": "北京大学出版社 / 88.00元 / 平装",
-      "discovered_at": "2026-09-29T14:02:49+08:00"
-    },
-    {
-      "id": "ace1dfa322222d69",
-      "title": "家奴的边界：宦官与北宋统治秩序",
-      "link": "https://book.douban.com/subject/38552861/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "丁义珏",
-      "published": "2026-9",
-      "summary": "中华书局 / 88.00元 / 精装",
-      "discovered_at": "2026-09-29T14:02:49+08:00"
-    },
-    {
-      "id": "d6567bf4d3d8fa29",
-      "title": "在明日的阴影中：对现代弊病的诊断",
-      "link": "https://book.douban.com/subject/38552866/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[荷兰]约翰·赫伊津哈",
-      "published": "2026-9",
-      "summary": "上海三联书店 / 68.00元 / 精装",
-      "discovered_at": "2026-09-29T14:02:49+08:00"
-    },
-    {
-      "id": "4adc42029a974e70",
-      "title": "上海房子",
-      "link": "https://book.douban.com/subject/38590638/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "席闻雷 / 冯立",
-      "published": "2026-8-14",
-      "summary": "东华大学出版社 / 98.00 / 平装",
-      "discovered_at": "2026-09-29T14:02:49+08:00"
-    },
-    {
-      "id": "69a3f254704d2568",
-      "title": "都是她的错",
-      "link": "https://book.douban.com/subject/38547020/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[爱尔兰] 安德烈娅·玛拉",
-      "published": "2026-8",
-      "summary": "广西师范大学出版社 / 68.00 / 平装",
-      "discovered_at": "2026-09-29T14:02:49+08:00"
-    },
-    {
-      "id": "c8c66880dc4cf2d7",
-      "title": "给忙碌者的世界神话传说·森林篇",
-      "link": "https://book.douban.com/subject/38434719/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英]狄·狄·钱尼 / [英]薇洛·温瑟姆",
-      "published": "2026-7",
-      "summary": "湖南文艺出版社 / 38.00元 / 平装口袋本",
-      "discovered_at": "2026-09-29T14:02:49+08:00"
-    },
-    {
-      "id": "b3b75256041c4419",
-      "title": "三个基尼",
-      "link": "https://book.douban.com/subject/38405927/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 弗吉尼亚·伍尔夫",
-      "published": "2026-7",
-      "summary": "浙江文艺出版社 / 45.00元 / 平装",
       "discovered_at": "2026-09-29T14:02:49+08:00"
     }
   ]
