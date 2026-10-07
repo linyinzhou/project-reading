@@ -1,10 +1,60 @@
 {
-  "generated_at": "2026-10-06T14:46:15+08:00",
+  "generated_at": "2026-10-07T14:21:17+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 91,
   "matched_count": 73,
   "source_errors": [],
   "books": [
+    {
+      "id": "d33a797d5ce6be5f",
+      "title": "治在朝夕：秦汉三国的日常统治",
+      "link": "https://book.douban.com/subject/38686573/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "侯旭东 / 张琦 / 陈韵青 / 曹天江 / 成鹏 / 冉艳红 / 祁萌 / 孙梓辛 / 屈涛",
+      "published": "2026-9-1",
+      "summary": "中西书局 / 258 / 精装",
+      "discovered_at": "2026-10-07T14:21:17+08:00"
+    },
+    {
+      "id": "a5accaeccb9069d0",
+      "title": "我们之间：用社会学自我疗愈和改革世界",
+      "link": "https://book.douban.com/subject/38649214/",
+      "source": "豆瓣新书速递 · 社会纪实",
+      "author": "[美]玛丽卡·林霍尔姆 / [美]伊丽莎白·安妮·伍德",
+      "published": "2026-9-1",
+      "summary": "中国民主法制出版社 / 88.00 / 精装",
+      "discovered_at": "2026-10-07T14:21:17+08:00"
+    },
+    {
+      "id": "50a1c99996e6168d",
+      "title": "外婆的苦茶：重现百年家族沉浮 见证百年时代变迁",
+      "link": "https://book.douban.com/subject/38605725/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "陈晓雯",
+      "published": "2026-9",
+      "summary": "海豚出版社 / 80 / 精装",
+      "discovered_at": "2026-10-07T14:21:17+08:00"
+    },
+    {
+      "id": "87b8e9ec268f6d40",
+      "title": "大一统的制度密码：行政发包制与国家治理",
+      "link": "https://book.douban.com/subject/38574624/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "周黎安",
+      "published": "2026-8",
+      "summary": "格致出版社 / 188.00元 / 精装",
+      "discovered_at": "2026-10-07T14:21:17+08:00"
+    },
+    {
+      "id": "06daa634fae0229a",
+      "title": "空响炮（修订版）",
+      "link": "https://book.douban.com/subject/38536886/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "王占黑",
+      "published": "2026-7",
+      "summary": "上海文艺出版社 / 78.00 / 精装",
+      "discovered_at": "2026-10-07T14:21:17+08:00"
+    },
     {
       "id": "cc2be189ecdd6bcc",
       "title": "我的奥兰多：弗吉尼亚与薇塔书信集",
@@ -394,66 +444,6 @@
       "published": "2026-7",
       "summary": "华东师范大学出版社 / 75.00 / 平装",
       "discovered_at": "2026-10-01T14:25:15+08:00"
-    },
-    {
-      "id": "237ee446161b4b2a",
-      "title": "燕食记",
-      "link": "https://book.douban.com/subject/38396396/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "葛亮",
-      "published": "2026-9-7",
-      "summary": "江苏凤凰文艺出版社 / 79.8 / 精装",
-      "discovered_at": "2026-09-30T13:51:41+08:00"
-    },
-    {
-      "id": "ad40a5f9bd3378b9",
-      "title": "让无权无势者有力：齐格蒙特·鲍曼谈社会学",
-      "link": "https://book.douban.com/subject/38574884/",
-      "source": "豆瓣新书速递 · 社会纪实",
-      "author": "[英]齐格蒙特·鲍曼 / [丹]迈克尔·维德·雅各布森 / [英]基思·特斯特",
-      "published": "2026-9",
-      "summary": "江苏凤凰文艺出版社 / 79.9 / 精装",
-      "discovered_at": "2026-09-30T13:51:41+08:00"
-    },
-    {
-      "id": "e7fc4e7de24759a0",
-      "title": "真爱的起源是抵抗",
-      "link": "https://book.douban.com/subject/38583589/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 威廉·雷迪",
-      "published": "2026-9",
-      "summary": "光启书局 / 128 / 精装",
-      "discovered_at": "2026-09-30T13:51:41+08:00"
-    },
-    {
-      "id": "5d400ac3d7d8c5dc",
-      "title": "真实的事物：对文学形式的思考",
-      "link": "https://book.douban.com/subject/38553866/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 特里·伊格尔顿",
-      "published": "2026-9",
-      "summary": "广西师范大学出版社 / 58.00元 / 平装",
-      "discovered_at": "2026-09-30T13:51:41+08:00"
-    },
-    {
-      "id": "b77b62e605e21fa6",
-      "title": "124个梦",
-      "link": "https://book.douban.com/subject/38546672/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[法] 乔治·佩雷克",
-      "published": "2026-9",
-      "summary": "四川文艺出版社 / 56.00 / 平装",
-      "discovered_at": "2026-09-30T13:51:41+08:00"
-    },
-    {
-      "id": "57525a31a28b0196",
-      "title": "穿越：在漫游中想象艺术",
-      "link": "https://book.douban.com/subject/38583596/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美] 巫鸿",
-      "published": "2026-8",
-      "summary": "上海三联书店 / 239.00 / 精装",
-      "discovered_at": "2026-09-30T13:51:41+08:00"
     },
     {
       "id": "b36d86a646bb98b2",
