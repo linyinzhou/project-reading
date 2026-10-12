@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-10-11T14:17:07+08:00",
+  "generated_at": "2026-10-12T14:23:01+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 91,
-  "matched_count": 73,
+  "fetched_count": 92,
+  "matched_count": 74,
   "source_errors": [],
   "books": [
+    {
+      "id": "4840149edcc94677",
+      "title": "社会学的想象力",
+      "link": "https://book.douban.com/subject/38546847/",
+      "source": "豆瓣新书速递 · 社会纪实",
+      "author": "[美] C.赖特·米尔斯",
+      "published": "2026-9",
+      "summary": "北京大学出版社 / 88.00元 / 平装",
+      "discovered_at": "2026-10-12T14:23:01+08:00"
+    },
+    {
+      "id": "8633257abe6dfb76",
+      "title": "椭圆形午后",
+      "link": "https://book.douban.com/subject/38501911/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "沈大成",
+      "published": "2026-9",
+      "summary": "云南人民出版社 / 59.80元 / 平装",
+      "discovered_at": "2026-10-12T14:23:01+08:00"
+    },
+    {
+      "id": "c848fab30662354c",
+      "title": "大木偶城",
+      "link": "https://book.douban.com/subject/37270350/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[日] 芦边拓",
+      "published": "2026-9",
+      "summary": "江苏凤凰文艺出版社 / 58.00元 / 平装",
+      "discovered_at": "2026-10-12T14:23:01+08:00"
+    },
+    {
+      "id": "1dcf88ef9f1fdf47",
+      "title": "凝神时刻",
+      "link": "https://book.douban.com/subject/38593398/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "邓安庆",
+      "published": "2026-9",
+      "summary": "浙江文艺出版社 / 52.00元 / 平装",
+      "discovered_at": "2026-10-12T14:23:01+08:00"
+    },
+    {
+      "id": "e31b55ce841b41a2",
+      "title": "电影的色彩",
+      "link": "https://book.douban.com/subject/38492034/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美]查尔斯 · 布拉梅斯科",
+      "published": "2026-8-23",
+      "summary": "北京联合出版公司 / 168.00",
+      "discovered_at": "2026-10-12T14:23:01+08:00"
+    },
+    {
+      "id": "57525a31a28b0196",
+      "title": "穿越：在漫游中想象艺术",
+      "link": "https://book.douban.com/subject/38583596/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美] 巫鸿",
+      "published": "2026-8",
+      "summary": "上海三联书店 / 239.00 / 精装",
+      "discovered_at": "2026-10-12T14:23:01+08:00"
+    },
+    {
+      "id": "83220de79509e3aa",
+      "title": "欧洲历史的塑造",
+      "link": "https://book.douban.com/subject/38584703/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美]威廉·麦克尼尔",
+      "published": "2026-8",
+      "summary": "陕西人民出版社 / 69.00 / 精装",
+      "discovered_at": "2026-10-12T14:23:01+08:00"
+    },
+    {
+      "id": "f7e996cceb5bb776",
+      "title": "素水",
+      "link": "https://book.douban.com/subject/37434517/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[加拿大]安妮·卡森(Anne Carson)",
+      "published": "2026-10",
+      "summary": "花城出版社 / 79.00元 / 平装",
+      "discovered_at": "2026-10-12T14:23:01+08:00"
+    },
+    {
+      "id": "717200ac42c69b06",
+      "title": "无形战力：中共宣传为何能赢（1921-1949）",
+      "link": "https://book.douban.com/subject/38675358/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "卢毅",
+      "published": "2026-10",
+      "summary": "生活·读书·新知三联书店 / 69.00元 / 平装",
+      "discovered_at": "2026-10-12T14:23:01+08:00"
+    },
     {
       "id": "237ee446161b4b2a",
       "title": "燕食记",
@@ -424,16 +514,6 @@
       "published": "2026-8",
       "summary": "上海三联书店 / 52.00 / 精装",
       "discovered_at": "2026-10-06T14:46:15+08:00"
-    },
-    {
-      "id": "c65341daaec5ec23",
-      "title": "河上一周",
-      "link": "https://book.douban.com/subject/38571956/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美]亨利·戴维·梭罗",
-      "published": "2026-8",
-      "summary": "湖南科学技术出版社 / 78 / 平装",
-      "discovered_at": "2026-10-04T14:13:28+08:00"
     }
   ]
 }
