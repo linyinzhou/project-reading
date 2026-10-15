@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-10-14T13:15:57+08:00",
+  "generated_at": "2026-10-15T13:02:56+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 92,
-  "matched_count": 73,
+  "matched_count": 74,
   "source_errors": [],
   "books": [
+    {
+      "id": "4690383e3465d8f1",
+      "title": "真相",
+      "link": "https://book.douban.com/subject/38658269/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "喻言",
+      "published": "2026-9",
+      "summary": "四川文艺出版社 / 48.00元 / 平装",
+      "discovered_at": "2026-10-15T13:02:56+08:00"
+    },
+    {
+      "id": "a4dec716c2f5f02b",
+      "title": "从浪漫主义到批判理论：德国文论哲学",
+      "link": "https://book.douban.com/subject/38399644/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[英] 安德鲁·鲍伊",
+      "published": "2026-9",
+      "summary": "上海三联书店 / 129.00元 / 精装",
+      "discovered_at": "2026-10-15T13:02:56+08:00"
+    },
+    {
+      "id": "c9c4e8f7d4d5c761",
+      "title": "鸟类绘画入门：美国自然学家劳斯观鸟与画鸟指南",
+      "link": "https://book.douban.com/subject/38576025/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美]约翰·缪尔·劳斯",
+      "published": "2026-8-24",
+      "summary": "北京科学技术出版社 / 88 / 平装",
+      "discovered_at": "2026-10-15T13:02:56+08:00"
+    },
+    {
+      "id": "5a9def73047ce67a",
+      "title": "本应是你掌中之物的黄金",
+      "link": "https://book.douban.com/subject/37349467/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[日] 小川哲",
+      "published": "2026-8",
+      "summary": "南海出版公司 / 49 / 平装",
+      "discovered_at": "2026-10-15T13:02:56+08:00"
+    },
+    {
+      "id": "5e88087f071b20f8",
+      "title": "卡夫卡箴言集",
+      "link": "https://book.douban.com/subject/38583811/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[奥]弗朗茨·卡夫卡",
+      "published": "2026-8",
+      "summary": "漓江出版社 / 59.80元 / 精装",
+      "discovered_at": "2026-10-15T13:02:56+08:00"
+    },
+    {
+      "id": "5b6f18dd6f562f10",
+      "title": "二十世纪西方文学理论：新译本",
+      "link": "https://book.douban.com/subject/38612861/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英]特里·伊格尔顿",
+      "published": "2026-10",
+      "summary": "北京大学出版社 / 83.00元 / 平装",
+      "discovered_at": "2026-10-15T13:02:56+08:00"
+    },
     {
       "id": "5139a9e512d5f1f9",
       "title": "翅膀",
@@ -446,16 +506,6 @@
       "discovered_at": "2026-10-08T14:32:17+08:00"
     },
     {
-      "id": "b596a205d4c407df",
-      "title": "诗词格律：精装典藏纪念版",
-      "link": "https://book.douban.com/subject/38567112/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "王力",
-      "published": "2026-9",
-      "summary": "岳麓书社 / 56.00元 / 精装",
-      "discovered_at": "2026-10-08T14:32:17+08:00"
-    },
-    {
       "id": "ad40a5f9bd3378b9",
       "title": "让无权无势者有力：齐格蒙特·鲍曼谈社会学",
       "link": "https://book.douban.com/subject/38574884/",
@@ -464,66 +514,6 @@
       "published": "2026-9",
       "summary": "江苏凤凰文艺出版社 / 79.9 / 精装",
       "discovered_at": "2026-10-08T14:32:17+08:00"
-    },
-    {
-      "id": "ace1dfa322222d69",
-      "title": "家奴的边界：宦官与北宋统治秩序",
-      "link": "https://book.douban.com/subject/38552861/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "丁义珏",
-      "published": "2026-9",
-      "summary": "中华书局 / 88.00元 / 精装",
-      "discovered_at": "2026-10-08T14:32:17+08:00"
-    },
-    {
-      "id": "5b4f0e5f8bf78f38",
-      "title": "孝经讲疏",
-      "link": "https://book.douban.com/subject/37536839/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "常达 / 陈壁生",
-      "published": "2026-8-31",
-      "summary": "崇文书局 / 68.00 / 精装",
-      "discovered_at": "2026-10-08T14:32:17+08:00"
-    },
-    {
-      "id": "6de99e52db2e9701",
-      "title": "远征：世纪前卫与全球当代",
-      "link": "https://book.douban.com/subject/38247373/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "鲁明军",
-      "published": "2026-8",
-      "summary": "生活·读书·新知三联书店 / 98.00元 / 精装",
-      "discovered_at": "2026-10-08T14:32:17+08:00"
-    },
-    {
-      "id": "2c6cdea0ed320dc6",
-      "title": "背德者",
-      "link": "https://book.douban.com/subject/38584567/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[法]安德烈·纪德",
-      "published": "2026-8",
-      "summary": "浙江文艺出版社 / 37.8 / 平装",
-      "discovered_at": "2026-10-08T14:32:17+08:00"
-    },
-    {
-      "id": "d33a797d5ce6be5f",
-      "title": "治在朝夕：秦汉三国的日常统治",
-      "link": "https://book.douban.com/subject/38686573/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "侯旭东 / 张琦 / 陈韵青 / 曹天江 / 成鹏 / 冉艳红 / 祁萌 / 孙梓辛 / 屈涛",
-      "published": "2026-9-1",
-      "summary": "中西书局 / 258 / 精装",
-      "discovered_at": "2026-10-07T14:21:17+08:00"
-    },
-    {
-      "id": "a5accaeccb9069d0",
-      "title": "我们之间：用社会学自我疗愈和改革世界",
-      "link": "https://book.douban.com/subject/38649214/",
-      "source": "豆瓣新书速递 · 社会纪实",
-      "author": "[美]玛丽卡·林霍尔姆 / [美]伊丽莎白·安妮·伍德",
-      "published": "2026-9-1",
-      "summary": "中国民主法制出版社 / 88.00 / 精装",
-      "discovered_at": "2026-10-07T14:21:17+08:00"
     }
   ]
 }
