@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-10-16T12:52:24+08:00",
+  "generated_at": "2026-10-17T12:53:29+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 91,
-  "matched_count": 74,
+  "fetched_count": 90,
+  "matched_count": 72,
   "source_errors": [],
   "books": [
+    {
+      "id": "47eef430530c76ca",
+      "title": "巴托比",
+      "link": "https://book.douban.com/subject/38592120/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 赫尔曼·梅尔维尔",
+      "published": "2026-9",
+      "summary": "云南人民出版社 / 39.80元 / 精装",
+      "discovered_at": "2026-10-17T12:53:29+08:00"
+    },
+    {
+      "id": "4b1130efadde33e1",
+      "title": "夜奔：客栈里的武林",
+      "link": "https://book.douban.com/subject/38535497/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "黄鸿玺",
+      "published": "2026-9",
+      "summary": "生活·读书·新知三联书店 / 平装",
+      "discovered_at": "2026-10-17T12:53:29+08:00"
+    },
+    {
+      "id": "179f29c8bbe5bf29",
+      "title": "聆听永恒：古典音乐中的灵魂与回响",
+      "link": "https://book.douban.com/subject/38552873/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "高建",
+      "published": "2026-8",
+      "summary": "化学工业出版社 / 138.00元 / 平装",
+      "discovered_at": "2026-10-17T12:53:29+08:00"
+    },
+    {
+      "id": "e4c547ec9e5affd9",
+      "title": "喵呜！：一部关于猫与人类历史的奇妙物语",
+      "link": "https://book.douban.com/subject/38382740/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "崔莹",
+      "published": "2026-8",
+      "summary": "生活·读书·新知三联书店 / 98.00元 / 精装",
+      "discovered_at": "2026-10-17T12:53:29+08:00"
+    },
+    {
+      "id": "1c2c7843e92dc7a6",
+      "title": "前方有我青铜茶饮",
+      "link": "https://book.douban.com/subject/38546853/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "索南才让",
+      "published": "2026-8",
+      "summary": "人民文学出版社 / 59.00 / 精装",
+      "discovered_at": "2026-10-17T12:53:29+08:00"
+    },
+    {
+      "id": "4cf2f541954a1dc3",
+      "title": "山林水火：明清中国的生态、环境与社会",
+      "link": "https://book.douban.com/subject/38928066/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "邱仲麟",
+      "published": "2026-11",
+      "summary": "广西师范大学出版社 / 98 / 精装",
+      "discovered_at": "2026-10-17T12:53:29+08:00"
+    },
+    {
+      "id": "aefc90a2d3c4f37a",
+      "title": "浮世中的人：杨照谈宫本辉",
+      "link": "https://book.douban.com/subject/37214416/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "杨照",
+      "published": "2026-10",
+      "summary": "中信出版集团 / 49.80 / 平装",
+      "discovered_at": "2026-10-17T12:53:29+08:00"
+    },
+    {
+      "id": "b18d2d641715cb7f",
+      "title": "变装",
+      "link": "https://book.douban.com/subject/37497665/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[罗马尼亚]米尔恰·克尔特雷斯库",
+      "published": "2026-10",
+      "summary": "湖南文艺出版社 / 59.80元 / 精装",
+      "discovered_at": "2026-10-17T12:53:29+08:00"
+    },
+    {
+      "id": "93bf5a42838a28a4",
+      "title": "乔治·奥威尔：生平与书信、传奇与遗产",
+      "link": "https://book.douban.com/subject/38501912/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 约翰·罗登",
+      "published": "2026-10",
+      "summary": "四川人民出版社",
+      "discovered_at": "2026-10-17T12:53:29+08:00"
+    },
     {
       "id": "a5accaeccb9069d0",
       "title": "我们之间：用社会学自我疗愈和改革世界",
@@ -434,96 +524,6 @@
       "published": "2026-8",
       "summary": "天津人民出版社 / 78 / 精装",
       "discovered_at": "2026-10-11T14:17:07+08:00"
-    },
-    {
-      "id": "dbf6a507673f1269",
-      "title": "衣裳哲学",
-      "link": "https://book.douban.com/subject/37478654/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英]托马斯·卡莱尔",
-      "published": "2026-9",
-      "summary": "广东人民出版社 / 89.00 / 精装",
-      "discovered_at": "2026-10-10T14:16:49+08:00"
-    },
-    {
-      "id": "e7fc4e7de24759a0",
-      "title": "真爱的起源是抵抗",
-      "link": "https://book.douban.com/subject/38583589/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 威廉·雷迪",
-      "published": "2026-9",
-      "summary": "光启书局 / 128 / 精装",
-      "discovered_at": "2026-10-10T14:16:49+08:00"
-    },
-    {
-      "id": "b4a551c28b6c0423",
-      "title": "法老的密室",
-      "link": "https://book.douban.com/subject/37870976/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[日]白川尚史",
-      "published": "2026-9",
-      "summary": "新星出版社 / 56.00元 / 平装",
-      "discovered_at": "2026-10-10T14:16:49+08:00"
-    },
-    {
-      "id": "4adc42029a974e70",
-      "title": "上海房子",
-      "link": "https://book.douban.com/subject/38590638/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "席闻雷 / 冯立",
-      "published": "2026-8-14",
-      "summary": "东华大学出版社 / 98.00 / 平装",
-      "discovered_at": "2026-10-10T14:16:49+08:00"
-    },
-    {
-      "id": "a9cb0c7ff2dc3c83",
-      "title": "给青年诗人的信：译注本",
-      "link": "https://book.douban.com/subject/38500506/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[奥] 赖纳·马利亚·里尔克 / [奥] 弗朗茨·克萨韦尔·卡普斯",
-      "published": "2026-8",
-      "summary": "译林出版社 / 48.00元 / 精装",
-      "discovered_at": "2026-10-10T14:16:49+08:00"
-    },
-    {
-      "id": "2435419f5f2ad1dd",
-      "title": "搂着烟囱喊一个人",
-      "link": "https://book.douban.com/subject/38498673/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "尹学芸",
-      "published": "2026-8",
-      "summary": "上海文艺出版社 / 68 / 平装",
-      "discovered_at": "2026-10-10T14:16:49+08:00"
-    },
-    {
-      "id": "789da1f1d781eb12",
-      "title": "塔缪的世界：埃及猫的艺术史",
-      "link": "https://book.douban.com/subject/38395104/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "贾妍",
-      "published": "2026-8",
-      "summary": "生活·读书·新知三联书店 / 98.00元 / 平装",
-      "discovered_at": "2026-10-10T14:16:49+08:00"
-    },
-    {
-      "id": "44fb137407e1e20c",
-      "title": "自然为家：现代中国的技术、劳动与批判生态观",
-      "link": "https://book.douban.com/subject/38553882/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美] 王斑",
-      "published": "2026-10",
-      "summary": "上海人民出版社 / 68 / 平装",
-      "discovered_at": "2026-10-10T14:16:49+08:00"
-    },
-    {
-      "id": "1663d8eae61fc081",
-      "title": "学徒生涯",
-      "link": "https://book.douban.com/subject/38626128/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[巴西]克拉丽丝·李斯佩克朵",
-      "published": "2026-10-1",
-      "summary": "人民文学出版社 / 平装",
-      "discovered_at": "2026-10-09T14:33:42+08:00"
     },
     {
       "id": "ad40a5f9bd3378b9",
