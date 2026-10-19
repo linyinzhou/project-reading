@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-10-18T13:00:25+08:00",
+  "generated_at": "2026-10-19T13:09:00+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 90,
-  "matched_count": 72,
+  "matched_count": 71,
   "source_errors": [],
   "books": [
+    {
+      "id": "28442763a3dfa357",
+      "title": "顺从之路",
+      "link": "https://book.douban.com/subject/38548812/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[加]萨拉·伯恩斯坦",
+      "published": "2026-9",
+      "summary": "当代世界出版社 / 49.80元 / 平装",
+      "discovered_at": "2026-10-19T13:09:00+08:00"
+    },
+    {
+      "id": "0bf17e224221bbc8",
+      "title": "新译外国诗歌2022--2024",
+      "link": "https://book.douban.com/subject/38627418/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "",
+      "published": "2026-9",
+      "summary": "花城出版社 / 68.00元 / 精装",
+      "discovered_at": "2026-10-19T13:09:00+08:00"
+    },
+    {
+      "id": "fc508a3ea75dda08",
+      "title": "文库本福尔摩斯探案全集",
+      "link": "https://book.douban.com/subject/37897612/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 亚瑟·柯南·道尔",
+      "published": "2026-9",
+      "summary": "广西师范大学出版社 / 480 / 平装",
+      "discovered_at": "2026-10-19T13:09:00+08:00"
+    },
+    {
+      "id": "4adc42029a974e70",
+      "title": "上海房子",
+      "link": "https://book.douban.com/subject/38590638/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "席闻雷 / 冯立",
+      "published": "2026-8-14",
+      "summary": "东华大学出版社 / 98.00 / 平装",
+      "discovered_at": "2026-10-19T13:09:00+08:00"
+    },
+    {
+      "id": "1a5a4c551964a0a7",
+      "title": "民主的蜂群：古典喜剧与人民政治",
+      "link": "https://book.douban.com/subject/38483067/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 佩姬·杜布瓦",
+      "published": "2026-8",
+      "summary": "商务印书馆 / 118.00元 / 平装",
+      "discovered_at": "2026-10-19T13:09:00+08:00"
+    },
+    {
+      "id": "5ad7f7e562317177",
+      "title": "弗洛伊德与精神分析家的欲望：第2版",
+      "link": "https://book.douban.com/subject/38529592/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[法]塞尔日·科泰",
+      "published": "2026-8",
+      "summary": "上海社会科学院出版社 / 58.00 / 平装",
+      "discovered_at": "2026-10-19T13:09:00+08:00"
+    },
     {
       "id": "adac351631f84e89",
       "title": "还没有思考过灰色的人：一种色彩哲学",
@@ -444,96 +504,6 @@
       "published": "2026-9",
       "summary": "北京大学出版社 / 88.00元 / 平装",
       "discovered_at": "2026-10-12T14:23:01+08:00"
-    },
-    {
-      "id": "8633257abe6dfb76",
-      "title": "椭圆形午后",
-      "link": "https://book.douban.com/subject/38501911/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "沈大成",
-      "published": "2026-9",
-      "summary": "云南人民出版社 / 59.80元 / 平装",
-      "discovered_at": "2026-10-12T14:23:01+08:00"
-    },
-    {
-      "id": "c848fab30662354c",
-      "title": "大木偶城",
-      "link": "https://book.douban.com/subject/37270350/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[日] 芦边拓",
-      "published": "2026-9",
-      "summary": "江苏凤凰文艺出版社 / 58.00元 / 平装",
-      "discovered_at": "2026-10-12T14:23:01+08:00"
-    },
-    {
-      "id": "1dcf88ef9f1fdf47",
-      "title": "凝神时刻",
-      "link": "https://book.douban.com/subject/38593398/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "邓安庆",
-      "published": "2026-9",
-      "summary": "浙江文艺出版社 / 52.00元 / 平装",
-      "discovered_at": "2026-10-12T14:23:01+08:00"
-    },
-    {
-      "id": "e31b55ce841b41a2",
-      "title": "电影的色彩",
-      "link": "https://book.douban.com/subject/38492034/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美]查尔斯 · 布拉梅斯科",
-      "published": "2026-8-23",
-      "summary": "北京联合出版公司 / 168.00",
-      "discovered_at": "2026-10-12T14:23:01+08:00"
-    },
-    {
-      "id": "57525a31a28b0196",
-      "title": "穿越：在漫游中想象艺术",
-      "link": "https://book.douban.com/subject/38583596/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美] 巫鸿",
-      "published": "2026-8",
-      "summary": "上海三联书店 / 239.00 / 精装",
-      "discovered_at": "2026-10-12T14:23:01+08:00"
-    },
-    {
-      "id": "83220de79509e3aa",
-      "title": "欧洲历史的塑造",
-      "link": "https://book.douban.com/subject/38584703/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美]威廉·麦克尼尔",
-      "published": "2026-8",
-      "summary": "陕西人民出版社 / 69.00 / 精装",
-      "discovered_at": "2026-10-12T14:23:01+08:00"
-    },
-    {
-      "id": "f7e996cceb5bb776",
-      "title": "素水",
-      "link": "https://book.douban.com/subject/37434517/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[加]安妮·卡森",
-      "published": "2026-11",
-      "summary": "花城出版社 / 79.00元 / 平装",
-      "discovered_at": "2026-10-12T14:23:01+08:00"
-    },
-    {
-      "id": "717200ac42c69b06",
-      "title": "无形战力：中共宣传为何能赢（1921-1949）",
-      "link": "https://book.douban.com/subject/38675358/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "卢毅",
-      "published": "2026-10",
-      "summary": "生活·读书·新知三联书店 / 69.00元 / 平装",
-      "discovered_at": "2026-10-12T14:23:01+08:00"
-    },
-    {
-      "id": "0c1937353b2992c1",
-      "title": "娱乐映城：重访新艺城喜剧电影",
-      "link": "https://book.douban.com/subject/38584273/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "叶航",
-      "published": "2026-9",
-      "summary": "北京大学出版社 / 139.00元",
-      "discovered_at": "2026-10-11T14:17:07+08:00"
     },
     {
       "id": "ad40a5f9bd3378b9",
