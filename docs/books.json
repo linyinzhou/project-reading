@@ -1,10 +1,90 @@
 {
-  "generated_at": "2026-10-19T13:09:00+08:00",
+  "generated_at": "2026-10-20T13:09:57+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 90,
-  "matched_count": 71,
+  "matched_count": 72,
   "source_errors": [],
   "books": [
+    {
+      "id": "b596a205d4c407df",
+      "title": "诗词格律：精装典藏纪念版",
+      "link": "https://book.douban.com/subject/38567112/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "王力",
+      "published": "2026-9",
+      "summary": "岳麓书社 / 56.00元 / 精装",
+      "discovered_at": "2026-10-20T13:09:57+08:00"
+    },
+    {
+      "id": "370a0f26020d53bb",
+      "title": "疑影重重",
+      "link": "https://book.douban.com/subject/38593433/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 格温达・邦德",
+      "published": "2026-9",
+      "summary": "新星出版社 / 68 / 平装",
+      "discovered_at": "2026-10-20T13:09:57+08:00"
+    },
+    {
+      "id": "1dcf88ef9f1fdf47",
+      "title": "凝神时刻",
+      "link": "https://book.douban.com/subject/38593398/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "邓安庆",
+      "published": "2026-9",
+      "summary": "浙江文艺出版社 / 52.00元 / 平装",
+      "discovered_at": "2026-10-20T13:09:57+08:00"
+    },
+    {
+      "id": "e31b55ce841b41a2",
+      "title": "电影的色彩",
+      "link": "https://book.douban.com/subject/38492034/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美]查尔斯 · 布拉梅斯科",
+      "published": "2026-8-23",
+      "summary": "北京联合出版公司 / 168.00",
+      "discovered_at": "2026-10-20T13:09:57+08:00"
+    },
+    {
+      "id": "a284f0faa5083bbc",
+      "title": "金钱与血脉：泰国侨批商业帝国的百年激荡（1850年代—1990年代）",
+      "link": "https://book.douban.com/subject/38605134/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "汪玉姣",
+      "published": "2026-8",
+      "summary": "东方出版中心 / 78.00元 / 平装",
+      "discovered_at": "2026-10-20T13:09:57+08:00"
+    },
+    {
+      "id": "6de99e52db2e9701",
+      "title": "远征：世纪前卫与全球当代",
+      "link": "https://book.douban.com/subject/38247373/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "鲁明军",
+      "published": "2026-8",
+      "summary": "生活·读书·新知三联书店 / 98.00元 / 精装",
+      "discovered_at": "2026-10-20T13:09:57+08:00"
+    },
+    {
+      "id": "1176ddc3ba55434e",
+      "title": "权力与王座：一部中世纪新史",
+      "link": "https://book.douban.com/subject/38182714/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[英] 丹·琼斯",
+      "published": "2026-8",
+      "summary": "社会科学文献出版社 / 178.00元 / 精装",
+      "discovered_at": "2026-10-20T13:09:57+08:00"
+    },
+    {
+      "id": "5b7522977907e7e3",
+      "title": "最蓝的眼睛",
+      "link": "https://book.douban.com/subject/38546670/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 托妮·莫里森",
+      "published": "2026-8",
+      "summary": "上海译文出版社 / 78 / 精装",
+      "discovered_at": "2026-10-20T13:09:57+08:00"
+    },
     {
       "id": "28442763a3dfa357",
       "title": "顺从之路",
@@ -406,26 +486,6 @@
       "discovered_at": "2026-10-14T13:15:57+08:00"
     },
     {
-      "id": "32dbe71807d43e4c",
-      "title": "凶手就在聊天记录中",
-      "link": "https://book.douban.com/subject/37866616/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 珍妮丝・哈雷特",
-      "published": "2026-9",
-      "summary": "北京联合出版公司 / 65.00元 / 平装",
-      "discovered_at": "2026-10-13T15:00:55+08:00"
-    },
-    {
-      "id": "e051c3fcf944cd2e",
-      "title": "傀儡杀意",
-      "link": "https://book.douban.com/subject/38176037/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] M.W.克雷文",
-      "published": "2026-9",
-      "summary": "新星出版社 / 65.00元 / 平装",
-      "discovered_at": "2026-10-13T15:00:55+08:00"
-    },
-    {
       "id": "e6c5c74c98f867f5",
       "title": "不能承受的生命之轻（狗狗纪念版）",
       "link": "https://book.douban.com/subject/38572256/",
@@ -433,66 +493,6 @@
       "author": "米兰·昆德拉",
       "published": "2026-8-10",
       "summary": "上海译文出版社 / 59.00 / 平装",
-      "discovered_at": "2026-10-13T15:00:55+08:00"
-    },
-    {
-      "id": "e1e6995469a8e07c",
-      "title": "西出阳关",
-      "link": "https://book.douban.com/subject/38469256/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "梁优",
-      "published": "2026-8",
-      "summary": "上海文艺出版社 / 62.00元 / 平装",
-      "discovered_at": "2026-10-13T15:00:55+08:00"
-    },
-    {
-      "id": "8147eede7852d496",
-      "title": "夏日走过山间",
-      "link": "https://book.douban.com/subject/38570188/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美] 约翰·缪尔",
-      "published": "2026-8",
-      "summary": "湖南科学技术出版社 / 58 / 平装",
-      "discovered_at": "2026-10-13T15:00:55+08:00"
-    },
-    {
-      "id": "0642d8c07ba02e94",
-      "title": "冷藏的热带：美式冰淇淋如何塑造夏威夷",
-      "link": "https://book.douban.com/subject/37842717/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 希伊莱·茱莉娅·霍巴特（Hi’ilei Julia Hobart）",
-      "published": "2026-7",
-      "summary": "东方出版中心 / 精装",
-      "discovered_at": "2026-10-13T15:00:55+08:00"
-    },
-    {
-      "id": "dce5baac919d5d25",
-      "title": "荣耀颂：里索斯诗精选",
-      "link": "https://book.douban.com/subject/38584789/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[希] 扬尼斯·里索斯",
-      "published": "2026-10",
-      "summary": "北京联合出版公司 / 82.00元 / 精装",
-      "discovered_at": "2026-10-13T15:00:55+08:00"
-    },
-    {
-      "id": "e2903a22ffbedfea",
-      "title": "相对于国家的社会：政治人类学研究",
-      "link": "https://book.douban.com/subject/38395837/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[法]皮埃尔·克拉斯特",
-      "published": "2026-10",
-      "summary": "商务印书馆 / 平装",
-      "discovered_at": "2026-10-13T15:00:55+08:00"
-    },
-    {
-      "id": "c9d420449a4cfdd7",
-      "title": "本托的速写本",
-      "link": "https://book.douban.com/subject/37425212/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[英] 约翰·伯格",
-      "published": "2026-10",
-      "summary": "云南人民出版社 / 平装",
       "discovered_at": "2026-10-13T15:00:55+08:00"
     },
     {
