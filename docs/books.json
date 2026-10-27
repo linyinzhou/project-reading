@@ -1,10 +1,60 @@
 {
-  "generated_at": "2026-10-26T13:10:58+08:00",
+  "generated_at": "2026-10-27T13:27:27+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 88,
-  "matched_count": 69,
+  "fetched_count": 91,
+  "matched_count": 70,
   "source_errors": [],
   "books": [
+    {
+      "id": "7b111ecab6c4a2f5",
+      "title": "春天存留",
+      "link": "https://book.douban.com/subject/38521386/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "沈书枝",
+      "published": "2026-9",
+      "summary": "译林出版社 / 78.00元 / 平装",
+      "discovered_at": "2026-10-27T13:27:27+08:00"
+    },
+    {
+      "id": "d11d48acec211df5",
+      "title": "共鸣：一种世界关系的社会学",
+      "link": "https://book.douban.com/subject/38490032/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[德] 哈特穆特·罗萨",
+      "published": "2026-9",
+      "summary": "上海人民出版社 / 138.00 / 平装",
+      "discovered_at": "2026-10-27T13:27:27+08:00"
+    },
+    {
+      "id": "81243b3952b6ab9d",
+      "title": "你得耐心地寻找同类",
+      "link": "https://book.douban.com/subject/38631888/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "梅雪风",
+      "published": "2026-9",
+      "summary": "上海文艺出版社 / 66.00元 / 平装",
+      "discovered_at": "2026-10-27T13:27:27+08:00"
+    },
+    {
+      "id": "6df097e97c6a8f73",
+      "title": "张爱玲的衣橱",
+      "link": "https://book.douban.com/subject/38437177/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "陈磊",
+      "published": "2026-8",
+      "summary": "中华书局 / 68.00元 / 平装",
+      "discovered_at": "2026-10-27T13:27:27+08:00"
+    },
+    {
+      "id": "dce5baac919d5d25",
+      "title": "荣耀颂：里索斯诗精选",
+      "link": "https://book.douban.com/subject/38584789/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[希] 扬尼斯·里索斯",
+      "published": "2026-10",
+      "summary": "北京联合出版公司 / 82.00元 / 精装",
+      "discovered_at": "2026-10-27T13:27:27+08:00"
+    },
     {
       "id": "499aae82d393a8a6",
       "title": "莫斯科有高楼：纪念碑式建筑与首都城市生活（1930—1950年代）",
@@ -436,66 +486,6 @@
       "discovered_at": "2026-10-21T13:11:32+08:00"
     },
     {
-      "id": "b596a205d4c407df",
-      "title": "诗词格律：精装典藏纪念版",
-      "link": "https://book.douban.com/subject/38567112/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "王力",
-      "published": "2026-9",
-      "summary": "岳麓书社 / 56.00元 / 精装",
-      "discovered_at": "2026-10-20T13:09:57+08:00"
-    },
-    {
-      "id": "370a0f26020d53bb",
-      "title": "疑影重重",
-      "link": "https://book.douban.com/subject/38593433/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 格温达・邦德",
-      "published": "2026-9",
-      "summary": "新星出版社 / 68 / 平装",
-      "discovered_at": "2026-10-20T13:09:57+08:00"
-    },
-    {
-      "id": "1dcf88ef9f1fdf47",
-      "title": "凝神时刻",
-      "link": "https://book.douban.com/subject/38593398/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "邓安庆",
-      "published": "2026-9",
-      "summary": "浙江文艺出版社 / 52.00元 / 平装",
-      "discovered_at": "2026-10-20T13:09:57+08:00"
-    },
-    {
-      "id": "e31b55ce841b41a2",
-      "title": "电影的色彩",
-      "link": "https://book.douban.com/subject/38492034/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美]查尔斯 · 布拉梅斯科",
-      "published": "2026-8-23",
-      "summary": "北京联合出版公司 / 168.00",
-      "discovered_at": "2026-10-20T13:09:57+08:00"
-    },
-    {
-      "id": "a284f0faa5083bbc",
-      "title": "金钱与血脉：泰国侨批商业帝国的百年激荡（1850年代—1990年代）",
-      "link": "https://book.douban.com/subject/38605134/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "汪玉姣",
-      "published": "2026-8",
-      "summary": "东方出版中心 / 78.00元 / 平装",
-      "discovered_at": "2026-10-20T13:09:57+08:00"
-    },
-    {
-      "id": "6de99e52db2e9701",
-      "title": "远征：世纪前卫与全球当代",
-      "link": "https://book.douban.com/subject/38247373/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "鲁明军",
-      "published": "2026-8",
-      "summary": "生活·读书·新知三联书店 / 98.00元 / 精装",
-      "discovered_at": "2026-10-20T13:09:57+08:00"
-    },
-    {
       "id": "1176ddc3ba55434e",
       "title": "权力与王座：一部中世纪新史",
       "link": "https://book.douban.com/subject/38182714/",
@@ -504,26 +494,6 @@
       "published": "2026-8",
       "summary": "社会科学文献出版社 / 178.00元 / 精装",
       "discovered_at": "2026-10-20T13:09:57+08:00"
-    },
-    {
-      "id": "5b7522977907e7e3",
-      "title": "最蓝的眼睛",
-      "link": "https://book.douban.com/subject/38546670/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 托妮·莫里森",
-      "published": "2026-8",
-      "summary": "上海译文出版社 / 78 / 精装",
-      "discovered_at": "2026-10-20T13:09:57+08:00"
-    },
-    {
-      "id": "4adc42029a974e70",
-      "title": "上海房子",
-      "link": "https://book.douban.com/subject/38590638/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "席闻雷 / 冯立",
-      "published": "2026-8-14",
-      "summary": "东华大学出版社 / 98.00 / 平装",
-      "discovered_at": "2026-10-19T13:09:00+08:00"
     }
   ]
 }
