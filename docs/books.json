@@ -1,10 +1,90 @@
 {
-  "generated_at": "2026-10-28T14:09:09+08:00",
+  "generated_at": "2026-10-29T14:18:21+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 91,
-  "matched_count": 71,
+  "fetched_count": 89,
+  "matched_count": 69,
   "source_errors": [],
   "books": [
+    {
+      "id": "9ba8252f41ffbb2b",
+      "title": "当“修多罗”成为经典：佛典是怎样汉译的",
+      "link": "https://book.douban.com/subject/38597195/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[日] 船山彻",
+      "published": "2026-9-30",
+      "summary": "崇文书局 / 88.00 / 平装",
+      "discovered_at": "2026-10-29T14:18:21+08:00"
+    },
+    {
+      "id": "b596a205d4c407df",
+      "title": "诗词格律：精装典藏纪念版",
+      "link": "https://book.douban.com/subject/38567112/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "王力",
+      "published": "2026-9",
+      "summary": "岳麓书社 / 56.00元 / 精装",
+      "discovered_at": "2026-10-29T14:18:21+08:00"
+    },
+    {
+      "id": "42aa1a5a7f8fb04b",
+      "title": "现代主义：危机中的文学",
+      "link": "https://book.douban.com/subject/38553867/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英] 特里·伊格尔顿",
+      "published": "2026-9",
+      "summary": "广西师范大学出版社 / 58.00元 / 平装",
+      "discovered_at": "2026-10-29T14:18:21+08:00"
+    },
+    {
+      "id": "af0cde9cc6ecad9b",
+      "title": "总有人留在昨天：古代书画中未完成的自由、爱情和白日梦",
+      "link": "https://book.douban.com/subject/38922959/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "北溟鱼",
+      "published": "2026-9",
+      "summary": "北京联合出版公司 / 68 / 平装",
+      "discovered_at": "2026-10-29T14:18:21+08:00"
+    },
+    {
+      "id": "858729318b73a075",
+      "title": "墙",
+      "link": "https://book.douban.com/subject/38616010/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[奥] 玛尔伦·豪斯霍费尔",
+      "published": "2026-9",
+      "summary": "广西师范大学出版社 / 52 / 平装",
+      "discovered_at": "2026-10-29T14:18:21+08:00"
+    },
+    {
+      "id": "32dbe71807d43e4c",
+      "title": "凶手就在聊天记录中",
+      "link": "https://book.douban.com/subject/37866616/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 珍妮丝・哈雷特",
+      "published": "2026-9",
+      "summary": "北京联合出版公司 / 65.00元 / 平装",
+      "discovered_at": "2026-10-29T14:18:21+08:00"
+    },
+    {
+      "id": "1663d8eae61fc081",
+      "title": "学徒生涯",
+      "link": "https://book.douban.com/subject/38626128/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[巴西]克拉丽丝·李斯佩克朵",
+      "published": "2026-10-1",
+      "summary": "人民文学出版社 / 49.00 / 平装",
+      "discovered_at": "2026-10-29T14:18:21+08:00"
+    },
+    {
+      "id": "d29767f1ddd9f18e",
+      "title": "鼎革之气：法国大革命前夕的巴黎，1748一1789",
+      "link": "https://book.douban.com/subject/38518391/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美]罗伯特·达恩顿",
+      "published": "2026-10",
+      "summary": "中信出版社 / 110.00元 / 精装",
+      "discovered_at": "2026-10-29T14:18:21+08:00"
+    },
     {
       "id": "2be9ff28bc37c4ae",
       "title": "卡门青：一首青春的歌",
@@ -396,16 +476,6 @@
       "discovered_at": "2026-10-23T13:13:59+08:00"
     },
     {
-      "id": "c165bb13c15facd4",
-      "title": "万物源起",
-      "link": "https://book.douban.com/subject/38219552/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[韩] 金宝英",
-      "published": "2026-9-10",
-      "summary": "国文出版社 / 58.00元 / 平装",
-      "discovered_at": "2026-10-22T13:15:02+08:00"
-    },
-    {
       "id": "ad40a5f9bd3378b9",
       "title": "让无权无势者有力：齐格蒙特·鲍曼谈社会学",
       "link": "https://book.douban.com/subject/38574884/",
@@ -413,36 +483,6 @@
       "author": "[英]齐格蒙特·鲍曼 / [丹]迈克尔·维德·雅各布森 / [英]基思·特斯特",
       "published": "2026-9",
       "summary": "江苏凤凰文艺出版社 / 79.9 / 精装",
-      "discovered_at": "2026-10-22T13:15:02+08:00"
-    },
-    {
-      "id": "0bc045038e4723cb",
-      "title": "罗伯特·洛威尔传",
-      "link": "https://book.douban.com/subject/38672041/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 伊恩·汉密尔顿",
-      "published": "2026-9",
-      "summary": "广西人民出版社 / 128.00 / 精装",
-      "discovered_at": "2026-10-22T13:15:02+08:00"
-    },
-    {
-      "id": "8653c299895d3027",
-      "title": "神圣是什么颜色的：一部别样的色彩殖民史",
-      "link": "https://book.douban.com/subject/38547000/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 迈克尔·陶西格",
-      "published": "2026-9",
-      "summary": "北京大学出版社 / 98.00元 / 精装",
-      "discovered_at": "2026-10-22T13:15:02+08:00"
-    },
-    {
-      "id": "96347ab49de97ff7",
-      "title": "直言怪话（全4册）",
-      "link": "https://book.douban.com/subject/38482701/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "拟态",
-      "published": "2026-9",
-      "summary": "新星出版社 / 144.00元 / 平装",
       "discovered_at": "2026-10-22T13:15:02+08:00"
     },
     {
@@ -454,46 +494,6 @@
       "published": "2026-9",
       "summary": "中国友谊出版公司 / 75.00元 / 平装",
       "discovered_at": "2026-10-22T13:15:02+08:00"
-    },
-    {
-      "id": "be40549301482a67",
-      "title": "作为世界象征的游戏：经典游戏理论文选",
-      "link": "https://book.douban.com/subject/38381132/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "李洋 主编",
-      "published": "2026-9",
-      "summary": "中国国际广播出版社 / 78 / 平装",
-      "discovered_at": "2026-10-22T13:15:02+08:00"
-    },
-    {
-      "id": "c8d0fc2c6c1ef1cc",
-      "title": "书和偶然",
-      "link": "https://book.douban.com/subject/38532621/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[韩] 金草叶",
-      "published": "2026-9",
-      "summary": "上海译文出版社 / 56.00 / 平装",
-      "discovered_at": "2026-10-22T13:15:02+08:00"
-    },
-    {
-      "id": "504620b9ac231525",
-      "title": "四季花传书",
-      "link": "https://book.douban.com/subject/38672439/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[日]川濑敏郎",
-      "published": "2026-10",
-      "summary": "湖南人民出版社 / 96.00元 / 精装",
-      "discovered_at": "2026-10-22T13:15:02+08:00"
-    },
-    {
-      "id": "7a060b69f3dc5d20",
-      "title": "观看之道",
-      "link": "https://book.douban.com/subject/37425210/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[英] 约翰·伯格",
-      "published": "2026-10",
-      "summary": "云南人民出版社 / 47.00 / 平装",
-      "discovered_at": "2026-10-21T13:11:32+08:00"
     }
   ]
 }
