@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-10-31T14:10:13+08:00",
+  "generated_at": "2026-11-01T14:40:49+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 89,
-  "matched_count": 67,
+  "matched_count": 69,
   "source_errors": [],
   "books": [
+    {
+      "id": "389af79a81839e57",
+      "title": "附魅世界的新科学：关于大多数人类的人类学",
+      "link": "https://book.douban.com/subject/37399744/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 马歇尔·萨林斯",
+      "published": "2026-9",
+      "summary": "中信出版社 / 精装",
+      "discovered_at": "2026-11-01T14:40:49+08:00"
+    },
+    {
+      "id": "90e8215fb6d80b29",
+      "title": "真探格尼系列1：读⼼谜咒",
+      "link": "https://book.douban.com/subject/37648915/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 约翰·弗登",
+      "published": "2026-9",
+      "summary": "北京联合出版公司 / 68 / 平装",
+      "discovered_at": "2026-11-01T14:40:49+08:00"
+    },
+    {
+      "id": "d4229019927185f3",
+      "title": "“批评”的想象力：大江健三郎、柄谷行人与“政治的季节”",
+      "link": "https://book.douban.com/subject/38571718/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "高华鑫",
+      "published": "2026-9",
+      "summary": "生活·读书·新知三联书店 / 精装",
+      "discovered_at": "2026-11-01T14:40:49+08:00"
+    },
+    {
+      "id": "9eefb27ae878bfd0",
+      "title": "随风远走",
+      "link": "https://book.douban.com/subject/38999511/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "阿来",
+      "published": "2026-10",
+      "summary": "江苏凤凰文艺出版社 / 52.00元 / 平装",
+      "discovered_at": "2026-11-01T14:40:49+08:00"
+    },
+    {
+      "id": "beb070e79d7505db",
+      "title": "闲暇时分的男人",
+      "link": "https://book.douban.com/subject/38929993/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[加] 安妮·卡森",
+      "published": "2026-10",
+      "summary": "四川人民出版社 / 58.00元 / 平装",
+      "discovered_at": "2026-11-01T14:40:49+08:00"
+    },
+    {
+      "id": "e01c13983cb53ab2",
+      "title": "镜中镜",
+      "link": "https://book.douban.com/subject/38451627/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[德] 米切尔·恩德",
+      "published": "2026-10",
+      "summary": "北京联合出版公司 / 68.00 / 平装",
+      "discovered_at": "2026-11-01T14:40:49+08:00"
+    },
+    {
+      "id": "78c914fa3ccf30a9",
+      "title": "伍尔夫精选集",
+      "link": "https://book.douban.com/subject/38590856/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "弗吉尼亚·伍尔夫",
+      "published": "2026-10",
+      "summary": "译林出版社 / 238.00元 / 精装",
+      "discovered_at": "2026-11-01T14:40:49+08:00"
+    },
     {
       "id": "bfa715834938e40b",
       "title": "鹿特丹的伊拉斯谟：辉煌与悲情",
@@ -413,76 +483,6 @@
       "author": "刘铮",
       "published": "2026-9-30",
       "summary": "崇文书局 / 98 / 平装",
-      "discovered_at": "2026-10-25T13:08:58+08:00"
-    },
-    {
-      "id": "d33a797d5ce6be5f",
-      "title": "治在朝夕：秦汉三国的日常统治",
-      "link": "https://book.douban.com/subject/38686573/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "侯旭东 / 张琦 / 陈韵青 / 曹天江 / 成鹏 / 冉艳红 / 祁萌 / 孙梓辛 / 屈涛",
-      "published": "2026-9-1",
-      "summary": "中西书局 / 258 / 精装",
-      "discovered_at": "2026-10-25T13:08:58+08:00"
-    },
-    {
-      "id": "a5accaeccb9069d0",
-      "title": "我们之间：用社会学自我疗愈和改革世界",
-      "link": "https://book.douban.com/subject/38649214/",
-      "source": "豆瓣新书速递 · 社会纪实",
-      "author": "[美]玛丽卡·林霍尔姆 / [美]伊丽莎白·安妮·伍德",
-      "published": "2026-9-1",
-      "summary": "中国民主法制出版社 / 88.00元 / 精装",
-      "discovered_at": "2026-10-25T13:08:58+08:00"
-    },
-    {
-      "id": "0263339c1063b126",
-      "title": "照片的阅读方法",
-      "link": "https://book.douban.com/subject/38357093/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[日] 名取洋之助",
-      "published": "2026-9",
-      "summary": "广西师范大学出版社 / 59.00元 / 平装",
-      "discovered_at": "2026-10-25T13:08:58+08:00"
-    },
-    {
-      "id": "f0c3ff6a633920d2",
-      "title": "怪女人",
-      "link": "https://book.douban.com/subject/38590639/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英]乔治·吉辛",
-      "published": "2026-9",
-      "summary": "金城出版社 / 69.80 / 平装",
-      "discovered_at": "2026-10-25T13:08:58+08:00"
-    },
-    {
-      "id": "b77b62e605e21fa6",
-      "title": "124个梦",
-      "link": "https://book.douban.com/subject/38546672/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[法] 乔治·佩雷克",
-      "published": "2026-9",
-      "summary": "四川文艺出版社 / 56.00 / 平装",
-      "discovered_at": "2026-10-25T13:08:58+08:00"
-    },
-    {
-      "id": "4cfa938d3f92e8ac",
-      "title": "漂浮",
-      "link": "https://book.douban.com/subject/37488725/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[加]安妮·卡森",
-      "published": "2026-11",
-      "summary": "花城出版社 / 88.00元 / 平装",
-      "discovered_at": "2026-10-25T13:08:58+08:00"
-    },
-    {
-      "id": "5b6f18dd6f562f10",
-      "title": "二十世纪西方文学理论：新译本",
-      "link": "https://book.douban.com/subject/38612861/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英]特里·伊格尔顿",
-      "published": "2026-10",
-      "summary": "北京大学出版社 / 83.00元 / 平装",
       "discovered_at": "2026-10-25T13:08:58+08:00"
     },
     {
