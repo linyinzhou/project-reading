@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-11-03T15:09:27+08:00",
+  "generated_at": "2026-11-04T14:54:46+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 92,
-  "matched_count": 70,
+  "matched_count": 71,
   "source_errors": [],
   "books": [
+    {
+      "id": "037cafdab01ae214",
+      "title": "格林童话的诅咒",
+      "link": "https://book.douban.com/subject/38226333/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 克雷格·罗素",
+      "published": "2026-9-28",
+      "summary": "江苏凤凰文艺出版社 / 49.9 / 平装",
+      "discovered_at": "2026-11-04T14:54:46+08:00"
+    },
+    {
+      "id": "35adceacdf4650b5",
+      "title": "报应不爽",
+      "link": "https://book.douban.com/subject/38492198/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[瑞典] 艾玛·艾斯特罗姆",
+      "published": "2026-9",
+      "summary": "北京联合出版公司 / 65 / 平装",
+      "discovered_at": "2026-11-04T14:54:46+08:00"
+    },
+    {
+      "id": "162947fedb375c20",
+      "title": "忽如远行客",
+      "link": "https://book.douban.com/subject/38545991/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "李修文",
+      "published": "2026-9",
+      "summary": "江苏凤凰文艺出版社 / 48.00元 / 平装",
+      "discovered_at": "2026-11-04T14:54:46+08:00"
+    },
+    {
+      "id": "f7e996cceb5bb776",
+      "title": "素水",
+      "link": "https://book.douban.com/subject/37434517/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[加]安妮·卡森",
+      "published": "2026-11",
+      "summary": "花城出版社 / 79.00元 / 平装",
+      "discovered_at": "2026-11-04T14:54:46+08:00"
+    },
+    {
+      "id": "e39672054040462b",
+      "title": "布莱希特戏剧选",
+      "link": "https://book.douban.com/subject/38553181/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[德] 贝尔托特·布莱希特",
+      "published": "2026-10",
+      "summary": "商务印书馆 / 295 / 口袋本带函套",
+      "discovered_at": "2026-11-04T14:54:46+08:00"
+    },
+    {
+      "id": "6779a2dfde12b3af",
+      "title": "地方精英与治理模式",
+      "link": "https://book.douban.com/subject/36573595/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美] 周锡瑞 / [美] 冉枚烁",
+      "published": "2026-10",
+      "summary": "九州出版社 / 128.00元 / 精装",
+      "discovered_at": "2026-11-04T14:54:46+08:00"
+    },
+    {
+      "id": "7c30aaee6c4e1e43",
+      "title": "个体生活：一项哲学挑战",
+      "link": "https://book.douban.com/subject/38596791/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[德] 吕迪格尔·萨弗兰斯基",
+      "published": "2026-10",
+      "summary": "商务印书馆 / 78.00元 / 平装",
+      "discovered_at": "2026-11-04T14:54:46+08:00"
+    },
     {
       "id": "2fbb3f04328db6df",
       "title": "非殖民化之路：全球南方思想导论",
@@ -466,63 +536,13 @@
       "discovered_at": "2026-10-29T14:18:21+08:00"
     },
     {
-      "id": "2be9ff28bc37c4ae",
-      "title": "卡门青：一首青春的歌",
-      "link": "https://book.douban.com/subject/38646169/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[德] 赫尔曼·黑塞",
-      "published": "2026-9-21",
-      "summary": "浙江文艺出版社 / 49.80元 / 精装",
-      "discovered_at": "2026-10-28T14:09:09+08:00"
-    },
-    {
-      "id": "adac351631f84e89",
-      "title": "还没有思考过灰色的人：一种色彩哲学",
-      "link": "https://book.douban.com/subject/38521713/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[德]彼得·斯洛特戴克",
-      "published": "2026-9",
-      "summary": "上海人民出版社 / 68.00 / 精装",
-      "discovered_at": "2026-10-28T14:09:09+08:00"
-    },
-    {
       "id": "1b78d991621d24b7",
       "title": "浮生若梦：沈复和他的美学世界",
       "link": "https://book.douban.com/subject/38672682/",
-      "source": "豆瓣新书速递 · 文学",
+      "source": "豆瓣新书速递 · 历史文化",
       "author": "刘晗",
       "published": "2026-9",
       "summary": "广西师范大学出版社 / 72 / 精装",
-      "discovered_at": "2026-10-28T14:09:09+08:00"
-    },
-    {
-      "id": "b7047a7faa1ddee1",
-      "title": "普通炎症",
-      "link": "https://book.douban.com/subject/38543160/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "脱脱不花",
-      "published": "2026-9",
-      "summary": "上海文艺出版社 / 48 / 平装",
-      "discovered_at": "2026-10-28T14:09:09+08:00"
-    },
-    {
-      "id": "6c2fadf0938b4af2",
-      "title": "南方",
-      "link": "https://book.douban.com/subject/38541647/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 欧大旭",
-      "published": "2026-9",
-      "summary": "上海译文出版社 / 69 / 精装",
-      "discovered_at": "2026-10-28T14:09:09+08:00"
-    },
-    {
-      "id": "5426abd7d7b7b79c",
-      "title": "白马",
-      "link": "https://book.douban.com/subject/38503332/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[韩] 姜禾吉",
-      "published": "2026-10",
-      "summary": "文汇出版社 / 62.00元 / 平装",
       "discovered_at": "2026-10-28T14:09:09+08:00"
     }
   ]
