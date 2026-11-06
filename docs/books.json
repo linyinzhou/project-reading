@@ -1,10 +1,110 @@
 {
-  "generated_at": "2026-11-05T15:14:24+08:00",
+  "generated_at": "2026-11-06T15:14:00+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 92,
   "matched_count": 71,
   "source_errors": [],
   "books": [
+    {
+      "id": "1b78d991621d24b7",
+      "title": "浮生若梦：沈复和他的美学世界",
+      "link": "https://book.douban.com/subject/38672682/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "刘晗",
+      "published": "2026-9",
+      "summary": "广西师范大学出版社 / 72 / 精装",
+      "discovered_at": "2026-11-06T15:14:00+08:00"
+    },
+    {
+      "id": "1dad3a28648eaf7f",
+      "title": "挑灯覆枯棋：甲午战争的史事、史料与史学",
+      "link": "https://book.douban.com/subject/38649252/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "吉辰",
+      "published": "2026-9",
+      "summary": "上海人民出版社 / 78.00元 / 精装",
+      "discovered_at": "2026-11-06T15:14:00+08:00"
+    },
+    {
+      "id": "9736a65fecc3ab72",
+      "title": "底层的珍珠",
+      "link": "https://book.douban.com/subject/38622793/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[捷克] 博胡米尔·赫拉巴尔",
+      "published": "2026-9",
+      "summary": "广西师范大学出版社 / 64.00元 / 精装",
+      "discovered_at": "2026-11-06T15:14:00+08:00"
+    },
+    {
+      "id": "d87dcfbec1d9c4ef",
+      "title": "左宗棠全传",
+      "link": "https://book.douban.com/subject/38534918/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "秦翰才",
+      "published": "2026-8",
+      "summary": "江苏凤凰文艺出版社 / 88.00 / 精装",
+      "discovered_at": "2026-11-06T15:14:00+08:00"
+    },
+    {
+      "id": "e8c537412bc3b2c2",
+      "title": "没有男人的艺术史",
+      "link": "https://book.douban.com/subject/38592511/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[英] 凯蒂·赫塞尔",
+      "published": "2026-11",
+      "summary": "北京日报出版社 / 148.00元 / 平装",
+      "discovered_at": "2026-11-06T15:14:00+08:00"
+    },
+    {
+      "id": "22a858b751b799b3",
+      "title": "白居易与柳宗元：混沌尘世 生命赞歌",
+      "link": "https://book.douban.com/subject/38218975/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[日] 下定雅弘",
+      "published": "2026-10-1",
+      "summary": "江苏人民出版社 / 72 / 平装",
+      "discovered_at": "2026-11-06T15:14:00+08:00"
+    },
+    {
+      "id": "883c1b35ac698289",
+      "title": "第一步，把理智切碎",
+      "link": "https://book.douban.com/subject/38494106/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[日] 浅仓秋成",
+      "published": "2026-10",
+      "summary": "新星出版社 / 52.00元 / 平装",
+      "discovered_at": "2026-11-06T15:14:00+08:00"
+    },
+    {
+      "id": "1bc2330defde3510",
+      "title": "神圣的夜晚",
+      "link": "https://book.douban.com/subject/37180711/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[摩洛哥] 塔哈尔·本·杰伦",
+      "published": "2026-10",
+      "summary": "湖南文艺出版社 / 38.00元 / 平装口袋本",
+      "discovered_at": "2026-11-06T15:14:00+08:00"
+    },
+    {
+      "id": "1515973cc4f78b9b",
+      "title": "撒哈拉的故事（纪念版）",
+      "link": "https://book.douban.com/subject/38460953/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "三毛",
+      "published": "2026-10",
+      "summary": "南海出版公司 / 88.00元 / 精装",
+      "discovered_at": "2026-11-06T15:14:00+08:00"
+    },
+    {
+      "id": "08ad3b610a710751",
+      "title": "华纳兄弟传",
+      "link": "https://book.douban.com/subject/38461575/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "(美) 克里斯·约格斯特（Chris Yogerst）",
+      "published": "2026-10",
+      "summary": "人民文学出版社 / 98.00元 / 平装",
+      "discovered_at": "2026-11-06T15:14:00+08:00"
+    },
     {
       "id": "d8453f74d5845203",
       "title": "塞林格",
@@ -454,76 +554,6 @@
       "published": "2026-10",
       "summary": "湖南人民出版社 / 96.00元 / 精装",
       "discovered_at": "2026-10-31T14:10:13+08:00"
-    },
-    {
-      "id": "96ac7f86ab95e164",
-      "title": "逃离新世界",
-      "link": "https://book.douban.com/subject/38536093/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "张小北",
-      "published": "2026-9",
-      "summary": "新星出版社 / 65.00元 / 平装",
-      "discovered_at": "2026-10-30T14:18:19+08:00"
-    },
-    {
-      "id": "b42f87e4f85f2042",
-      "title": "诗是最高虚构",
-      "link": "https://book.douban.com/subject/38605727/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美]华莱士·史蒂文斯",
-      "published": "2026-9",
-      "summary": "人民文学出版社 / 69.00 / 精装",
-      "discovered_at": "2026-10-30T14:18:19+08:00"
-    },
-    {
-      "id": "faa40c5caa228385",
-      "title": "西方文化中的神秘学：反规范性与被拒斥的知识",
-      "link": "https://book.douban.com/subject/38495046/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[荷] 乌特·哈内赫拉夫",
-      "published": "2026-9",
-      "summary": "商务印书馆 / 精装",
-      "discovered_at": "2026-10-30T14:18:19+08:00"
-    },
-    {
-      "id": "502aa89124a3013c",
-      "title": "洛夫戴先生的小出游",
-      "link": "https://book.douban.com/subject/38567087/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 伊夫林·沃",
-      "published": "2026-9",
-      "summary": "海峡文艺出版社 / 38.00 / 平装",
-      "discovered_at": "2026-10-30T14:18:19+08:00"
-    },
-    {
-      "id": "24c021102e40809e",
-      "title": "我们还不错：安东尼·霍普金斯自传",
-      "link": "https://book.douban.com/subject/38611075/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[英] 安东尼·霍普金斯",
-      "published": "2026-9",
-      "summary": "北京联合出版公司 / 118 / 精装",
-      "discovered_at": "2026-10-30T14:18:19+08:00"
-    },
-    {
-      "id": "39165279a9ffd1aa",
-      "title": "倩女：明末清初中国文学中的幽明与性别",
-      "link": "https://book.douban.com/subject/38556587/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美]蔡九迪",
-      "published": "2026-9",
-      "summary": "江苏人民出版社 / 88 / 精装",
-      "discovered_at": "2026-10-30T14:18:19+08:00"
-    },
-    {
-      "id": "717200ac42c69b06",
-      "title": "无形战力：中共宣传为何能赢（1921-1949）",
-      "link": "https://book.douban.com/subject/38675358/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "卢毅",
-      "published": "2026-10",
-      "summary": "生活·读书·新知三联书店 / 69.00元 / 平装",
-      "discovered_at": "2026-10-30T14:18:19+08:00"
     }
   ]
 }
