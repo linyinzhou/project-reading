@@ -1,10 +1,50 @@
 {
-  "generated_at": "2026-11-08T14:34:08+08:00",
+  "generated_at": "2026-11-09T15:03:33+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 92,
-  "matched_count": 70,
+  "fetched_count": 94,
+  "matched_count": 72,
   "source_errors": [],
   "books": [
+    {
+      "id": "5bc1a3cf5363d630",
+      "title": "巴贝特的盛宴",
+      "link": "https://book.douban.com/subject/38612695/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[丹]凯伦·布里克森",
+      "published": "2026-9",
+      "summary": "海峡文艺出版社 / 38.00 / 平装",
+      "discovered_at": "2026-11-09T15:03:33+08:00"
+    },
+    {
+      "id": "d78dcca937978f8b",
+      "title": "大地给我准备了一只饭碗和小小的缺口",
+      "link": "https://book.douban.com/subject/38616539/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "李瑾",
+      "published": "2026-8",
+      "summary": "四川文艺出版社 / 48.00元 / 平装",
+      "discovered_at": "2026-11-09T15:03:33+08:00"
+    },
+    {
+      "id": "b900096d3a3d6655",
+      "title": "欧·亨利反转故事集",
+      "link": "https://book.douban.com/subject/38575301/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 欧·亨利",
+      "published": "2026-11-1",
+      "summary": "文汇出版社 / 39.00元 / 平装",
+      "discovered_at": "2026-11-09T15:03:33+08:00"
+    },
+    {
+      "id": "4047b3db37131faf",
+      "title": "中国哲学史：从诸子百家到现代新儒家",
+      "link": "https://book.douban.com/subject/38540655/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[日] 中岛隆博",
+      "published": "2026-10",
+      "summary": "上海人民出版社 / 68.00 / 平装",
+      "discovered_at": "2026-11-09T15:03:33+08:00"
+    },
     {
       "id": "0ea33133438b6261",
       "title": "谎言后备厢",
@@ -504,86 +544,6 @@
       "published": "2000-9-11",
       "summary": "世界書局 / NTD 560 / Hardcover",
       "discovered_at": "2026-11-03T15:09:27+08:00"
-    },
-    {
-      "id": "28442763a3dfa357",
-      "title": "顺从之路",
-      "link": "https://book.douban.com/subject/38548812/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[加]萨拉·伯恩斯坦",
-      "published": "2026-9",
-      "summary": "当代世界出版社 / 49.80元 / 平装",
-      "discovered_at": "2026-11-02T14:40:04+08:00"
-    },
-    {
-      "id": "fc508a3ea75dda08",
-      "title": "文库本福尔摩斯探案全集",
-      "link": "https://book.douban.com/subject/37897612/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 亚瑟·柯南·道尔",
-      "published": "2026-9",
-      "summary": "广西师范大学出版社 / 480 / 平装",
-      "discovered_at": "2026-11-02T14:40:04+08:00"
-    },
-    {
-      "id": "cd2b0dec3fff3ea2",
-      "title": "我的风暴，我的庇护所",
-      "link": "https://book.douban.com/subject/38901091/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[印度]阿兰达蒂·洛伊",
-      "published": "2026-9",
-      "summary": "新星出版社 / 68 / 精装",
-      "discovered_at": "2026-11-02T14:40:04+08:00"
-    },
-    {
-      "id": "3258c526fc0042b6",
-      "title": "愿你的旅途漫长：卡瓦菲斯经典诗集",
-      "link": "https://book.douban.com/subject/38561063/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[希] 卡瓦菲斯",
-      "published": "2026-9",
-      "summary": "北京联合出版公司 / 72.00元 / 精装",
-      "discovered_at": "2026-11-02T14:40:04+08:00"
-    },
-    {
-      "id": "651336eee2698b3b",
-      "title": "场景设定创意宝库：故事舞台之都市场所，写出现实的细节",
-      "link": "https://book.douban.com/subject/38613840/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "［加］安杰拉·阿克曼 / ［意］贝卡·普利西 / Angela Ackerman / Becca Puglisi",
-      "published": "2026-9",
-      "summary": "中国友谊出版公司 / 75.00元 / 平装",
-      "discovered_at": "2026-11-02T14:40:04+08:00"
-    },
-    {
-      "id": "87d61198b585b72d",
-      "title": "跨区域：一部全球化的文学史",
-      "link": "https://book.douban.com/subject/38645415/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[德] 奥特玛·埃特",
-      "published": "2026-10",
-      "summary": "南京大学出版社 / 95.00元 / 平装",
-      "discovered_at": "2026-11-02T14:40:04+08:00"
-    },
-    {
-      "id": "08b5b921760e3046",
-      "title": "摩托日记",
-      "link": "https://book.douban.com/subject/38642773/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[古] 切·格瓦拉",
-      "published": "2026-10",
-      "summary": "民主与建设出版社 / 58.00元 / 精装",
-      "discovered_at": "2026-11-02T14:40:04+08:00"
-    },
-    {
-      "id": "33015f33ef1ede05",
-      "title": "我们在此相遇",
-      "link": "https://book.douban.com/subject/37415386/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 约翰·伯格",
-      "published": "2026-10",
-      "summary": "云南人民出版社 / 49.00 / 平装",
-      "discovered_at": "2026-11-02T14:40:04+08:00"
     }
   ]
 }
