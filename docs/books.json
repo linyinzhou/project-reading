@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-11-09T15:03:33+08:00",
+  "generated_at": "2026-11-10T15:39:31+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 94,
-  "matched_count": 72,
+  "fetched_count": 95,
+  "matched_count": 73,
   "source_errors": [],
   "books": [
+    {
+      "id": "651336eee2698b3b",
+      "title": "场景设定创意宝库：故事舞台之都市场所，写出现实的细节",
+      "link": "https://book.douban.com/subject/38613840/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "［加］安杰拉·阿克曼 / ［意］贝卡·普利西 / Angela Ackerman / Becca Puglisi",
+      "published": "2026-9",
+      "summary": "中国友谊出版公司 / 75.00元 / 平装",
+      "discovered_at": "2026-11-10T15:39:31+08:00"
+    },
+    {
+      "id": "5699b7e483590fda",
+      "title": "何以近代：概念史视野下的千年变局",
+      "link": "https://book.douban.com/subject/38522388/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "李恭忠",
+      "published": "2026-9",
+      "summary": "上海人民出版社 / 98.00元 / 平装",
+      "discovered_at": "2026-11-10T15:39:31+08:00"
+    },
+    {
+      "id": "56eb24af3a98340c",
+      "title": "从问责到自省：德国战后自传文学中的记忆研究",
+      "link": "https://book.douban.com/subject/38911578/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "刘海婷",
+      "published": "2026-9",
+      "summary": "四川人民出版社 / 58元 / 平装",
+      "discovered_at": "2026-11-10T15:39:31+08:00"
+    },
+    {
+      "id": "263736e05044f60d",
+      "title": "自由之火：黑暗时代的哲学救赎 1933—1943",
+      "link": "https://book.douban.com/subject/38616053/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[德] 沃尔夫拉姆·艾伦伯格",
+      "published": "2026-10",
+      "summary": "上海文艺出版社 / 88.00元 / 平装",
+      "discovered_at": "2026-11-10T15:39:31+08:00"
+    },
+    {
+      "id": "282dc26f38dfa27d",
+      "title": "斩生活记",
+      "link": "https://book.douban.com/subject/38935273/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "殳俏",
+      "published": "2026-10",
+      "summary": "湖南文艺出版社 / 58 / 平装",
+      "discovered_at": "2026-11-10T15:39:31+08:00"
+    },
+    {
+      "id": "c8f1a0be1db8eab6",
+      "title": "数种知觉",
+      "link": "https://book.douban.com/subject/38561741/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[英] 安吉拉·卡特",
+      "published": "2026-10",
+      "summary": "北京联合出版公司 / 56 / 空脊锁线平装",
+      "discovered_at": "2026-11-10T15:39:31+08:00"
+    },
     {
       "id": "5bc1a3cf5363d630",
       "title": "巴贝特的盛宴",
@@ -456,56 +516,6 @@
       "discovered_at": "2026-11-04T14:54:46+08:00"
     },
     {
-      "id": "2fbb3f04328db6df",
-      "title": "非殖民化之路：全球南方思想导论",
-      "link": "https://book.douban.com/subject/38597454/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[英]艾米·杜维纳奇",
-      "published": "2026-9",
-      "summary": "东方出版中心 / 98.00 / 平装",
-      "discovered_at": "2026-11-03T15:09:27+08:00"
-    },
-    {
-      "id": "dbf6a507673f1269",
-      "title": "衣裳哲学",
-      "link": "https://book.douban.com/subject/37478654/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英]托马斯·卡莱尔",
-      "published": "2026-9",
-      "summary": "广东人民出版社 / 89.00 / 精装",
-      "discovered_at": "2026-11-03T15:09:27+08:00"
-    },
-    {
-      "id": "3b109b045ec28c60",
-      "title": "良知对抗暴力：卡斯泰利奥对抗加尔文",
-      "link": "https://book.douban.com/subject/38521380/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[奥] 斯蒂芬·茨威格",
-      "published": "2026-9",
-      "summary": "生活·读书·新知三联书店 / 69.00元 / 精装",
-      "discovered_at": "2026-11-03T15:09:27+08:00"
-    },
-    {
-      "id": "893c0f89771f82ed",
-      "title": "造神之后",
-      "link": "https://book.douban.com/subject/38902153/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 罗伯特·赖特",
-      "published": "2026-10-15",
-      "summary": "北京联合出版公司 / 109.90元 / 平装",
-      "discovered_at": "2026-11-03T15:09:27+08:00"
-    },
-    {
-      "id": "bdd6c3490a450b74",
-      "title": "达洛维夫人在邦德街",
-      "link": "https://book.douban.com/subject/38632522/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 弗吉尼亚·伍尔夫",
-      "published": "2026-10",
-      "summary": "湖南文艺出版社 / 56.00 / 精装",
-      "discovered_at": "2026-11-03T15:09:27+08:00"
-    },
-    {
       "id": "7a060b69f3dc5d20",
       "title": "观看之道",
       "link": "https://book.douban.com/subject/37425210/",
@@ -513,36 +523,6 @@
       "author": "[英] 约翰·伯格",
       "published": "2026-10",
       "summary": "云南人民出版社 / 47.00 / 平装",
-      "discovered_at": "2026-11-03T15:09:27+08:00"
-    },
-    {
-      "id": "5b6f18dd6f562f10",
-      "title": "二十世纪西方文学理论：新译本",
-      "link": "https://book.douban.com/subject/38612861/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英]特里·伊格尔顿",
-      "published": "2026-10",
-      "summary": "北京大学出版社 / 83.00元 / 平装",
-      "discovered_at": "2026-11-03T15:09:27+08:00"
-    },
-    {
-      "id": "93bf5a42838a28a4",
-      "title": "乔治·奥威尔：生平与书信、传奇与遗产",
-      "link": "https://book.douban.com/subject/38501912/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美] 约翰·罗登",
-      "published": "2026-10",
-      "summary": "四川人民出版社",
-      "discovered_at": "2026-11-03T15:09:27+08:00"
-    },
-    {
-      "id": "382182b6c18c6c4f",
-      "title": "李光耀回憶錄1965～2000",
-      "link": "https://book.douban.com/subject/1419544/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "李光耀",
-      "published": "2000-9-11",
-      "summary": "世界書局 / NTD 560 / Hardcover",
       "discovered_at": "2026-11-03T15:09:27+08:00"
     }
   ]
