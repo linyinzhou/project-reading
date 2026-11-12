@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-11-11T14:58:29+08:00",
+  "generated_at": "2026-11-12T15:35:45+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 95,
-  "matched_count": 73,
+  "matched_count": 72,
   "source_errors": [],
   "books": [
+    {
+      "id": "2c296abbd5bf5b65",
+      "title": "海难与旁观者：存在隐喻的一种范式",
+      "link": "https://book.douban.com/subject/38561069/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[德] 汉斯·布鲁门贝格",
+      "published": "2026-9",
+      "summary": "东方出版中心 / 49.8 / 平装",
+      "discovered_at": "2026-11-12T15:35:45+08:00"
+    },
+    {
+      "id": "81243b3952b6ab9d",
+      "title": "你得耐心地寻找同类",
+      "link": "https://book.douban.com/subject/38631888/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "梅雪风",
+      "published": "2026-9",
+      "summary": "上海文艺出版社 / 66.00元 / 平装",
+      "discovered_at": "2026-11-12T15:35:45+08:00"
+    },
+    {
+      "id": "1c2c7843e92dc7a6",
+      "title": "前方有我青铜茶饮",
+      "link": "https://book.douban.com/subject/38546853/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "索南才让",
+      "published": "2026-8",
+      "summary": "人民文学出版社 / 59.00 / 精装",
+      "discovered_at": "2026-11-12T15:35:45+08:00"
+    },
+    {
+      "id": "88bd3d87859e6df7",
+      "title": "清季的革命团体：1894—1911",
+      "link": "https://book.douban.com/subject/38940929/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "张玉法",
+      "published": "2026-11",
+      "summary": "广西师范大学出版社 / 98 / 精装",
+      "discovered_at": "2026-11-12T15:35:45+08:00"
+    },
+    {
+      "id": "2581b752b41dd909",
+      "title": "越界",
+      "link": "https://book.douban.com/subject/38615078/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[爱尔兰]路易丝·肯尼迪",
+      "published": "2026-10",
+      "summary": "中信出版社 / 平装",
+      "discovered_at": "2026-11-12T15:35:45+08:00"
+    },
+    {
+      "id": "bfc2693171b2ba57",
+      "title": "永恒森林之狼",
+      "link": "https://book.douban.com/subject/38560469/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[挪威] 卡尔·奥韦·克瑙斯高",
+      "published": "2026-10",
+      "summary": "上海三联书店 / 105.00元 / 平装",
+      "discovered_at": "2026-11-12T15:35:45+08:00"
+    },
+    {
+      "id": "68e566b8d2cf8915",
+      "title": "城市革命：孙中山与上海",
+      "link": "https://book.douban.com/subject/39008697/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "徐涛",
+      "published": "2026",
+      "summary": "上海人民出版社 / 138.00元 / 平装",
+      "discovered_at": "2026-11-12T15:35:45+08:00"
+    },
     {
       "id": "7b111ecab6c4a2f5",
       "title": "春天存留",
@@ -464,86 +534,6 @@
       "published": "2026-10",
       "summary": "人民文学出版社 / 98.00元 / 平装",
       "discovered_at": "2026-11-06T15:14:00+08:00"
-    },
-    {
-      "id": "d8453f74d5845203",
-      "title": "塞林格",
-      "link": "https://book.douban.com/subject/26915350/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美] 大卫·希尔兹 / [美] 沙恩·萨勒诺",
-      "published": "2026-9-30",
-      "summary": "新星出版社 / 98.00 / 平装",
-      "discovered_at": "2026-11-05T15:14:24+08:00"
-    },
-    {
-      "id": "8653c299895d3027",
-      "title": "神圣是什么颜色的：一部别样的色彩殖民史",
-      "link": "https://book.douban.com/subject/38547000/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 迈克尔·陶西格",
-      "published": "2026-9",
-      "summary": "北京大学出版社 / 98.00元 / 精装",
-      "discovered_at": "2026-11-05T15:14:24+08:00"
-    },
-    {
-      "id": "9f8e469371dab90f",
-      "title": "社会主义喜剧文化中的“上海”（1949-1966）",
-      "link": "https://book.douban.com/subject/38929156/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "朱羽",
-      "published": "2026-9",
-      "summary": "复旦大学出版社 / 45.00元 / 平装",
-      "discovered_at": "2026-11-05T15:14:24+08:00"
-    },
-    {
-      "id": "0841e281f41008e3",
-      "title": "索涅奇卡",
-      "link": "https://book.douban.com/subject/38589669/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[俄] 柳德米拉·乌利茨卡娅",
-      "published": "2026-10",
-      "summary": "湖南文艺出版社 / 48.00元 / 精装",
-      "discovered_at": "2026-11-05T15:14:24+08:00"
-    },
-    {
-      "id": "93e6de38c08620a1",
-      "title": "福柯：广播电台访谈1961-1983 I",
-      "link": "https://book.douban.com/subject/38915050/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[法] 米歇尔·福柯",
-      "published": "2026-10",
-      "summary": "广西师范大学出版社 / 52.00 / 平装",
-      "discovered_at": "2026-11-05T15:14:24+08:00"
-    },
-    {
-      "id": "7f050b4052854976",
-      "title": "海浪",
-      "link": "https://book.douban.com/subject/38632519/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 弗吉尼亚·伍尔夫",
-      "published": "2026-10",
-      "summary": "文汇出版社 / 59.80元 / 平装",
-      "discovered_at": "2026-11-05T15:14:24+08:00"
-    },
-    {
-      "id": "4925e6c6f3dd7d88",
-      "title": "抒情之声的活力：从汉末到唐的诗歌",
-      "link": "https://book.douban.com/subject/36514915/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "",
-      "published": "2026-10",
-      "summary": "九州出版社 / 98 / 精装",
-      "discovered_at": "2026-11-05T15:14:24+08:00"
-    },
-    {
-      "id": "6779a2dfde12b3af",
-      "title": "地方精英与治理模式",
-      "link": "https://book.douban.com/subject/36573595/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 周锡瑞 / [美] 冉枚烁",
-      "published": "2026-10",
-      "summary": "九州出版社 / 128.00元 / 精装",
-      "discovered_at": "2026-11-04T14:54:46+08:00"
     }
   ]
 }
