@@ -1,10 +1,120 @@
 {
-  "generated_at": "2026-11-13T15:06:41+08:00",
+  "generated_at": "2026-11-14T14:55:30+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 96,
-  "matched_count": 73,
+  "matched_count": 74,
   "source_errors": [],
   "books": [
+    {
+      "id": "ee4bff0c412a8d2b",
+      "title": "长城与明代朝政：内阁政治的发展和演变",
+      "link": "https://book.douban.com/subject/38513947/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[日] 城地孝",
+      "published": "2026-9-1",
+      "summary": "江苏人民出版社 / 78 / 精装",
+      "discovered_at": "2026-11-14T14:55:30+08:00"
+    },
+    {
+      "id": "af0cde9cc6ecad9b",
+      "title": "总有人留在昨天：古代书画中未完成的自由、爱情和白日梦",
+      "link": "https://book.douban.com/subject/38922959/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "北溟鱼",
+      "published": "2026-9",
+      "summary": "北京联合出版公司 / 68 / 平装",
+      "discovered_at": "2026-11-14T14:55:30+08:00"
+    },
+    {
+      "id": "8ab449fe76482ca6",
+      "title": "大唐还不还",
+      "link": "https://book.douban.com/subject/38562170/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "雷克斯",
+      "published": "2026-9",
+      "summary": "太白文艺出版社 / 65.00元 / 平装",
+      "discovered_at": "2026-11-14T14:55:30+08:00"
+    },
+    {
+      "id": "d4229019927185f3",
+      "title": "“批评”的想象力：大江健三郎、柄谷行人与“政治的季节”",
+      "link": "https://book.douban.com/subject/38571718/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "高华鑫",
+      "published": "2026-9",
+      "summary": "生活·读书·新知三联书店 / 128.00 / 精装",
+      "discovered_at": "2026-11-14T14:55:30+08:00"
+    },
+    {
+      "id": "4cfa938d3f92e8ac",
+      "title": "漂浮",
+      "link": "https://book.douban.com/subject/37488725/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[加]安妮·卡森",
+      "published": "2026-11",
+      "summary": "花城出版社 / 168.00元 / 盒装",
+      "discovered_at": "2026-11-14T14:55:30+08:00"
+    },
+    {
+      "id": "e8c537412bc3b2c2",
+      "title": "没有男人的艺术史",
+      "link": "https://book.douban.com/subject/38592511/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[英] 凯蒂·赫塞尔",
+      "published": "2026-11",
+      "summary": "北京日报出版社 / 148.00元 / 平装",
+      "discovered_at": "2026-11-14T14:55:30+08:00"
+    },
+    {
+      "id": "ea4570ca21582609",
+      "title": "我的老台北",
+      "link": "https://book.douban.com/subject/38594734/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "张大春",
+      "published": "2026-11",
+      "summary": "台海出版社 / 58.00元 / 平装",
+      "discovered_at": "2026-11-14T14:55:30+08:00"
+    },
+    {
+      "id": "a7e796875271fbc5",
+      "title": "雾港水手",
+      "link": "https://book.douban.com/subject/38551832/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[法] 让·热内",
+      "published": "2026-10",
+      "summary": "北京联合出版公司 / 58 / 平装",
+      "discovered_at": "2026-11-14T14:55:30+08:00"
+    },
+    {
+      "id": "11ae351c5c1fe2ec",
+      "title": "拉维尼亚",
+      "link": "https://book.douban.com/subject/38570440/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 厄休拉·勒古恩",
+      "published": "2026-10",
+      "summary": "上海译文出版社 / 79.00 / 平装",
+      "discovered_at": "2026-11-14T14:55:30+08:00"
+    },
+    {
+      "id": "e39672054040462b",
+      "title": "布莱希特戏剧选",
+      "link": "https://book.douban.com/subject/38553181/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[德] 贝尔托特·布莱希特",
+      "published": "2026-10",
+      "summary": "商务印书馆 / 295 / 口袋本带函套",
+      "discovered_at": "2026-11-14T14:55:30+08:00"
+    },
+    {
+      "id": "568b3875486d5f70",
+      "title": "在河畔",
+      "link": "https://book.douban.com/subject/38561740/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 乔伊斯·卡罗尔·欧茨",
+      "published": "2026-10",
+      "summary": "北京联合出版公司 / 75.00元 / 平装",
+      "discovered_at": "2026-11-14T14:55:30+08:00"
+    },
     {
       "id": "9f8e469371dab90f",
       "title": "社会主义喜剧文化中的“上海”（1949-1966）",
@@ -394,116 +504,6 @@
       "published": "2026-10",
       "summary": "北京联合出版公司 / 98.00元 / 平装",
       "discovered_at": "2026-11-08T14:34:08+08:00"
-    },
-    {
-      "id": "5d400ac3d7d8c5dc",
-      "title": "真实的事物：对文学形式的思考",
-      "link": "https://book.douban.com/subject/38553866/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 特里·伊格尔顿",
-      "published": "2026-9",
-      "summary": "广西师范大学出版社 / 58.00元 / 平装",
-      "discovered_at": "2026-11-07T14:27:43+08:00"
-    },
-    {
-      "id": "76d5cb92f7e1fc5b",
-      "title": "疑狱审断：中国古代的司法与文化",
-      "link": "https://book.douban.com/subject/38926819/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "刘奇",
-      "published": "2026-9",
-      "summary": "广西师范大学出版社 / 78 / 精装",
-      "discovered_at": "2026-11-07T14:27:43+08:00"
-    },
-    {
-      "id": "24c021102e40809e",
-      "title": "我们还不错：安东尼·霍普金斯自传",
-      "link": "https://book.douban.com/subject/38611075/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[英] 安东尼·霍普金斯",
-      "published": "2026-9",
-      "summary": "北京联合出版公司 / 118 / 精装",
-      "discovered_at": "2026-11-07T14:27:43+08:00"
-    },
-    {
-      "id": "0c1937353b2992c1",
-      "title": "娱乐映城：重访新艺城喜剧电影",
-      "link": "https://book.douban.com/subject/38584273/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "叶航",
-      "published": "2026-9",
-      "summary": "北京大学出版社 / 139.00元",
-      "discovered_at": "2026-11-07T14:27:43+08:00"
-    },
-    {
-      "id": "a1e52a58b929c8a8",
-      "title": "拼凑小说",
-      "link": "https://book.douban.com/subject/37455864/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[荷] 杜布拉夫卡·乌格雷西奇",
-      "published": "2026-11",
-      "summary": "云南人民出版社 / 72.00元 / 平装",
-      "discovered_at": "2026-11-07T14:27:43+08:00"
-    },
-    {
-      "id": "c47049ca4044b098",
-      "title": "一个梦境旅行家的笔记",
-      "link": "https://book.douban.com/subject/38451628/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[德] 米切尔·恩德",
-      "published": "2026-10-20",
-      "summary": "北京联合出版公司 / 68.00 / 平装",
-      "discovered_at": "2026-11-07T14:27:43+08:00"
-    },
-    {
-      "id": "174a861b6242b16e",
-      "title": "哲学如何让人获得快乐：斯宾诺莎思想传记",
-      "link": "https://book.douban.com/subject/38465261/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[法] 弗雷德里克·勒努瓦",
-      "published": "2026-10-1",
-      "summary": "上海文艺出版社 / 59 / 平装",
-      "discovered_at": "2026-11-07T14:27:43+08:00"
-    },
-    {
-      "id": "aefc90a2d3c4f37a",
-      "title": "浮世中的人：杨照谈宫本辉",
-      "link": "https://book.douban.com/subject/37214416/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "杨照",
-      "published": "2026-10",
-      "summary": "中信出版集团 / 49.80 / 平装",
-      "discovered_at": "2026-11-07T14:27:43+08:00"
-    },
-    {
-      "id": "8f964311d00b6a11",
-      "title": "水泥地",
-      "link": "https://book.douban.com/subject/36603752/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[奥] 托马斯·伯恩哈德",
-      "published": "2026-10",
-      "summary": "上海人民出版社 / 65.00 / 精装",
-      "discovered_at": "2026-11-07T14:27:43+08:00"
-    },
-    {
-      "id": "34d9cfe1d0f2ff53",
-      "title": "开山令：袍哥起源的传说、神话和历史",
-      "link": "https://book.douban.com/subject/38631100/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "王笛",
-      "published": "2026-10",
-      "summary": "人民文学出版社 / 95.00 元 / 精装",
-      "discovered_at": "2026-11-07T14:27:43+08:00"
-    },
-    {
-      "id": "1515973cc4f78b9b",
-      "title": "撒哈拉的故事（纪念版）",
-      "link": "https://book.douban.com/subject/38460953/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "三毛",
-      "published": "2026-10",
-      "summary": "南海出版公司 / 88.00元 / 精装",
-      "discovered_at": "2026-11-06T15:14:00+08:00"
     }
   ]
 }
