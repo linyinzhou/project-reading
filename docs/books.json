@@ -1,10 +1,60 @@
 {
-  "generated_at": "2026-11-16T15:08:59+08:00",
+  "generated_at": "2026-11-17T16:21:59+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 96,
-  "matched_count": 75,
+  "fetched_count": 97,
+  "matched_count": 76,
   "source_errors": [],
   "books": [
+    {
+      "id": "d8453f74d5845203",
+      "title": "塞林格",
+      "link": "https://book.douban.com/subject/26915350/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 大卫·希尔兹 / [美] 沙恩·萨勒诺",
+      "published": "2026-9-30",
+      "summary": "新星出版社 / 98.00 / 平装",
+      "discovered_at": "2026-11-17T16:21:59+08:00"
+    },
+    {
+      "id": "0ea33133438b6261",
+      "title": "谎言后备厢",
+      "link": "https://book.douban.com/subject/37408589/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "刘阳子",
+      "published": "2026-9-1",
+      "summary": "人民文学出版社 / 58.00 元 / 平装",
+      "discovered_at": "2026-11-17T16:21:59+08:00"
+    },
+    {
+      "id": "be40549301482a67",
+      "title": "作为世界象征的游戏：经典游戏理论文选",
+      "link": "https://book.douban.com/subject/38381132/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "李洋 主编",
+      "published": "2026-9",
+      "summary": "中国国际广播出版社 / 78 / 平装",
+      "discovered_at": "2026-11-17T16:21:59+08:00"
+    },
+    {
+      "id": "c2b60db2a7bcd1e6",
+      "title": "清季的立宪团体：1894—1911",
+      "link": "https://book.douban.com/subject/38941168/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "张玉法",
+      "published": "2026-11",
+      "summary": "广西师范大学出版社 / 89 / 精装",
+      "discovered_at": "2026-11-17T16:21:59+08:00"
+    },
+    {
+      "id": "0677b17b1e436b80",
+      "title": "穷亲戚",
+      "link": "https://book.douban.com/subject/38644894/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[俄] 柳德米拉·乌利茨卡娅",
+      "published": "2026-10",
+      "summary": "湖南文艺出版社 / 58.00元 / 精装",
+      "discovered_at": "2026-11-17T16:21:59+08:00"
+    },
     {
       "id": "1b78d991621d24b7",
       "title": "浮生若梦：沈复和他的美学世界",
@@ -474,76 +524,6 @@
       "published": "2026-10",
       "summary": "民主与建设出版社 / 平装",
       "discovered_at": "2026-11-11T14:58:29+08:00"
-    },
-    {
-      "id": "651336eee2698b3b",
-      "title": "场景设定创意宝库：故事舞台之都市场所，写出现实的细节",
-      "link": "https://book.douban.com/subject/38613840/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "［加］安杰拉·阿克曼 / ［意］贝卡·普利西 / Angela Ackerman / Becca Puglisi",
-      "published": "2026-9",
-      "summary": "中国友谊出版公司 / 75.00元 / 平装",
-      "discovered_at": "2026-11-10T15:39:31+08:00"
-    },
-    {
-      "id": "5699b7e483590fda",
-      "title": "何以近代：概念史视野下的千年变局",
-      "link": "https://book.douban.com/subject/38522388/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "李恭忠",
-      "published": "2026-9",
-      "summary": "上海人民出版社 / 98.00元 / 平装",
-      "discovered_at": "2026-11-10T15:39:31+08:00"
-    },
-    {
-      "id": "56eb24af3a98340c",
-      "title": "从问责到自省：德国战后自传文学中的记忆研究",
-      "link": "https://book.douban.com/subject/38911578/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "刘海婷",
-      "published": "2026-9",
-      "summary": "四川人民出版社 / 58元 / 平装",
-      "discovered_at": "2026-11-10T15:39:31+08:00"
-    },
-    {
-      "id": "263736e05044f60d",
-      "title": "自由之火：黑暗时代的哲学救赎 1933—1943",
-      "link": "https://book.douban.com/subject/38616053/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[德] 沃尔夫拉姆·艾伦伯格",
-      "published": "2026-10",
-      "summary": "上海文艺出版社 / 88.00元 / 平装",
-      "discovered_at": "2026-11-10T15:39:31+08:00"
-    },
-    {
-      "id": "282dc26f38dfa27d",
-      "title": "斩生活记",
-      "link": "https://book.douban.com/subject/38935273/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "殳俏",
-      "published": "2026-10",
-      "summary": "湖南文艺出版社 / 58 / 平装",
-      "discovered_at": "2026-11-10T15:39:31+08:00"
-    },
-    {
-      "id": "c8f1a0be1db8eab6",
-      "title": "数种知觉",
-      "link": "https://book.douban.com/subject/38561741/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 安吉拉·卡特",
-      "published": "2026-10",
-      "summary": "北京联合出版公司 / 56 / 空脊锁线平装",
-      "discovered_at": "2026-11-10T15:39:31+08:00"
-    },
-    {
-      "id": "9d4eb8690d6a97da",
-      "title": "世界诞生之日",
-      "link": "https://book.douban.com/subject/38552193/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[美] 厄休拉·勒古恩",
-      "published": "2026-10",
-      "summary": "北京联合出版公司 / 98.00元 / 平装",
-      "discovered_at": "2026-11-08T14:34:08+08:00"
     }
   ]
 }
