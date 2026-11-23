@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-11-22T15:19:19+08:00",
+  "generated_at": "2026-11-23T16:03:25+08:00",
   "timezone": "Asia/Shanghai",
   "fetched_count": 95,
   "matched_count": 73,
   "source_errors": [],
   "books": [
+    {
+      "id": "90e8215fb6d80b29",
+      "title": "真探格尼系列1：读⼼谜咒",
+      "link": "https://book.douban.com/subject/37648915/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[美] 约翰·弗登",
+      "published": "2026-9",
+      "summary": "北京联合出版公司 / 68 / 平装",
+      "discovered_at": "2026-11-23T16:03:25+08:00"
+    },
+    {
+      "id": "f0f7a71418548967",
+      "title": "华夏美学",
+      "link": "https://book.douban.com/subject/38901872/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "李泽厚",
+      "published": "2026-9",
+      "summary": "岳麓书社 / 65 / 平装",
+      "discovered_at": "2026-11-23T16:03:25+08:00"
+    },
+    {
+      "id": "e8c537412bc3b2c2",
+      "title": "没有男人的艺术史",
+      "link": "https://book.douban.com/subject/38592511/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[英] 凯蒂·赫塞尔",
+      "published": "2026-11",
+      "summary": "北京日报出版社 / 148.00元 / 平装",
+      "discovered_at": "2026-11-23T16:03:25+08:00"
+    },
+    {
+      "id": "87d61198b585b72d",
+      "title": "跨区域：一部全球化的文学史",
+      "link": "https://book.douban.com/subject/38645415/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[德] 奥特玛·埃特",
+      "published": "2026-10",
+      "summary": "南京大学出版社 / 95.00元 / 平装",
+      "discovered_at": "2026-11-23T16:03:25+08:00"
+    },
+    {
+      "id": "5ddedf7f64e11e05",
+      "title": "最初的化石猎人：古典神话与史前巨兽",
+      "link": "https://book.douban.com/subject/38941335/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[美]阿德里安娜·梅厄",
+      "published": "2026-10",
+      "summary": "北京联合出版公司 / 92.00元 / 精装",
+      "discovered_at": "2026-11-23T16:03:25+08:00"
+    },
+    {
+      "id": "434c71ac01265195",
+      "title": "寒山之上：一位唐代隐士的诗与觉悟之境",
+      "link": "https://book.douban.com/subject/38540719/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 罗吉伟",
+      "published": "2026-10",
+      "summary": "东方出版中心 / 82元",
+      "discovered_at": "2026-11-23T16:03:25+08:00"
+    },
     {
       "id": "9ba8252f41ffbb2b",
       "title": "当“修多罗”成为经典：佛典是怎样汉译的",
@@ -444,76 +504,6 @@
       "published": "2026-10",
       "summary": "湖南文艺出版社 / 58.00元 / 精装",
       "discovered_at": "2026-11-17T16:21:59+08:00"
-    },
-    {
-      "id": "1b78d991621d24b7",
-      "title": "浮生若梦：沈复和他的美学世界",
-      "link": "https://book.douban.com/subject/38672682/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "刘晗",
-      "published": "2026-9",
-      "summary": "广西师范大学出版社 / 72 / 精装",
-      "discovered_at": "2026-11-16T15:08:59+08:00"
-    },
-    {
-      "id": "24c021102e40809e",
-      "title": "我们还不错：安东尼·霍普金斯自传",
-      "link": "https://book.douban.com/subject/38611075/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[英] 安东尼·霍普金斯",
-      "published": "2026-9",
-      "summary": "北京联合出版公司 / 118 / 精装",
-      "discovered_at": "2026-11-16T15:08:59+08:00"
-    },
-    {
-      "id": "c0a68fd69d48d82a",
-      "title": "布考斯基传：锁在疯狂生活怀中",
-      "link": "https://book.douban.com/subject/38553880/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[英] 霍华德·索内斯",
-      "published": "2026-9",
-      "summary": "广西师范大学出版社 / 78.00元 / 平装",
-      "discovered_at": "2026-11-16T15:08:59+08:00"
-    },
-    {
-      "id": "4545ee9d45bf0997",
-      "title": "生于女人：母亲身份作为经验与规制",
-      "link": "https://book.douban.com/subject/38617182/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美]艾德里安·里奇",
-      "published": "2026-10-1",
-      "summary": "人民文学出版社 / 69.00元 / 平装",
-      "discovered_at": "2026-11-16T15:08:59+08:00"
-    },
-    {
-      "id": "883c1b35ac698289",
-      "title": "第一步，把理智切碎",
-      "link": "https://book.douban.com/subject/38494106/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[日] 浅仓秋成",
-      "published": "2026-10",
-      "summary": "新星出版社 / 52.00元 / 平装",
-      "discovered_at": "2026-11-16T15:08:59+08:00"
-    },
-    {
-      "id": "5b5686a9df393513",
-      "title": "我在《文物》当编辑：从紫禁城到沙滩红楼",
-      "link": "https://book.douban.com/subject/37863584/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "李力",
-      "published": "2026-10",
-      "summary": "生活·读书·新知三联书店 / 69.00元 / 平装",
-      "discovered_at": "2026-11-16T15:08:59+08:00"
-    },
-    {
-      "id": "7c30aaee6c4e1e43",
-      "title": "个体生活：一项哲学挑战",
-      "link": "https://book.douban.com/subject/38596791/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[德] 吕迪格尔·萨弗兰斯基",
-      "published": "2026-10",
-      "summary": "商务印书馆 / 78.00元 / 平装",
-      "discovered_at": "2026-11-16T15:08:59+08:00"
     }
   ]
 }
