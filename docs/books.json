@@ -1,10 +1,110 @@
 {
-  "generated_at": "2026-11-23T16:03:25+08:00",
+  "generated_at": "2026-11-24T18:19:25+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 95,
-  "matched_count": 73,
+  "fetched_count": 94,
+  "matched_count": 72,
   "source_errors": [],
   "books": [
+    {
+      "id": "7195b2beab518476",
+      "title": "绿色密封蜡",
+      "link": "https://book.douban.com/subject/38612696/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[法]柯莱特",
+      "published": "2026-9",
+      "summary": "海峡文艺出版社 / 38.00 / 平装",
+      "discovered_at": "2026-11-24T18:19:25+08:00"
+    },
+    {
+      "id": "ac60a6c1351e4dd9",
+      "title": "无暇赴死",
+      "link": "https://book.douban.com/subject/38469221/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "核融炉",
+      "published": "2026-9",
+      "summary": "译林出版社 / 49 / 平装",
+      "discovered_at": "2026-11-24T18:19:25+08:00"
+    },
+    {
+      "id": "81243b3952b6ab9d",
+      "title": "你得耐心地寻找同类",
+      "link": "https://book.douban.com/subject/38631888/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "梅雪风",
+      "published": "2026-9",
+      "summary": "上海文艺出版社 / 66.00元 / 平装",
+      "discovered_at": "2026-11-24T18:19:25+08:00"
+    },
+    {
+      "id": "4a4ac2deec7193b8",
+      "title": "亲爱的朋友，亲爱的园丁：生活与园艺通信集",
+      "link": "https://book.douban.com/subject/39019703/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[英]克里斯托弗·劳埃德 / [英]贝丝·查托",
+      "published": "2026-12",
+      "summary": "上海文艺出版社 / 78.00 / 平装",
+      "discovered_at": "2026-11-24T18:19:25+08:00"
+    },
+    {
+      "id": "fde817f8f6026aa4",
+      "title": "即兴的艺术：爵士乐与现代文化",
+      "link": "https://book.douban.com/subject/38676713/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[美] 泰德·乔亚",
+      "published": "2026-11",
+      "summary": "商务印书馆 / 精装",
+      "discovered_at": "2026-11-24T18:19:25+08:00"
+    },
+    {
+      "id": "396f1c3574697cdf",
+      "title": "严密监视的列车",
+      "link": "https://book.douban.com/subject/38608108/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[捷克] 博胡米尔·赫拉巴尔",
+      "published": "2026-11",
+      "summary": "广西师范大学出版社 / 39.80元 / 精装",
+      "discovered_at": "2026-11-24T18:19:25+08:00"
+    },
+    {
+      "id": "62209d9c8f7d742e",
+      "title": "爱的话语是想象界的话语：重读罗兰·巴特",
+      "link": "https://book.douban.com/subject/38674765/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "吴琼",
+      "published": "2026-10",
+      "summary": "上海三联书店 / 78.00元 / 双封空脊锁线",
+      "discovered_at": "2026-11-24T18:19:25+08:00"
+    },
+    {
+      "id": "5b5686a9df393513",
+      "title": "我在《文物》当编辑：从紫禁城到沙滩红楼",
+      "link": "https://book.douban.com/subject/37863584/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "李力",
+      "published": "2026-10",
+      "summary": "生活·读书·新知三联书店 / 69.00元 / 平装",
+      "discovered_at": "2026-11-24T18:19:25+08:00"
+    },
+    {
+      "id": "be514adf4c0969b8",
+      "title": "卡夫卡的最后审判",
+      "link": "https://book.douban.com/subject/38469452/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 本杰明·巴林特",
+      "published": "2026-10",
+      "summary": "广西师范大学出版社 / 78.00元 / 平装",
+      "discovered_at": "2026-11-24T18:19:25+08:00"
+    },
+    {
+      "id": "93bf5a42838a28a4",
+      "title": "乔治·奥威尔：生平与书信、传奇与遗产",
+      "link": "https://book.douban.com/subject/38501912/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[美] 约翰·罗登",
+      "published": "2026-10",
+      "summary": "四川人民出版社",
+      "discovered_at": "2026-11-24T18:19:25+08:00"
+    },
     {
       "id": "90e8215fb6d80b29",
       "title": "真探格尼系列1：读⼼谜咒",
@@ -454,56 +554,6 @@
       "published": "2026-10",
       "summary": "北京联合出版公司 / 56 / 空脊锁线平装",
       "discovered_at": "2026-11-18T15:51:33+08:00"
-    },
-    {
-      "id": "d8453f74d5845203",
-      "title": "塞林格",
-      "link": "https://book.douban.com/subject/26915350/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美] 大卫·希尔兹 / [美] 沙恩·萨勒诺",
-      "published": "2026-9-30",
-      "summary": "新星出版社 / 98.00 / 平装",
-      "discovered_at": "2026-11-17T16:21:59+08:00"
-    },
-    {
-      "id": "0ea33133438b6261",
-      "title": "谎言后备厢",
-      "link": "https://book.douban.com/subject/37408589/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "刘阳子",
-      "published": "2026-9-1",
-      "summary": "人民文学出版社 / 58.00 元 / 平装",
-      "discovered_at": "2026-11-17T16:21:59+08:00"
-    },
-    {
-      "id": "be40549301482a67",
-      "title": "作为世界象征的游戏：经典游戏理论文选",
-      "link": "https://book.douban.com/subject/38381132/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "李洋 主编",
-      "published": "2026-9",
-      "summary": "中国国际广播出版社 / 78 / 平装",
-      "discovered_at": "2026-11-17T16:21:59+08:00"
-    },
-    {
-      "id": "c2b60db2a7bcd1e6",
-      "title": "清季的立宪团体：1894—1911",
-      "link": "https://book.douban.com/subject/38941168/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "张玉法",
-      "published": "2026-11",
-      "summary": "广西师范大学出版社 / 89 / 精装",
-      "discovered_at": "2026-11-17T16:21:59+08:00"
-    },
-    {
-      "id": "0677b17b1e436b80",
-      "title": "穷亲戚",
-      "link": "https://book.douban.com/subject/38644894/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[俄] 柳德米拉·乌利茨卡娅",
-      "published": "2026-10",
-      "summary": "湖南文艺出版社 / 58.00元 / 精装",
-      "discovered_at": "2026-11-17T16:21:59+08:00"
     }
   ]
 }
