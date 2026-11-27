@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-11-26T16:47:55+08:00",
+  "generated_at": "2026-11-27T17:00:06+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 95,
-  "matched_count": 73,
-  "source_errors": [],
+  "fetched_count": 0,
+  "matched_count": 0,
+  "source_errors": [
+    "豆瓣新书速递 · 文学: <urlopen error _ssl.c:994: The handshake operation timed out>",
+    "豆瓣新书速递 · 小说: <urlopen error _ssl.c:994: The handshake operation timed out>",
+    "豆瓣新书速递 · 历史文化: <urlopen error _ssl.c:994: The handshake operation timed out>",
+    "豆瓣新书速递 · 社会纪实: <urlopen error _ssl.c:994: The handshake operation timed out>",
+    "豆瓣新书速递 · 艺术设计: <urlopen error _ssl.c:994: The handshake operation timed out>"
+  ],
   "books": [
     {
       "id": "502aa89124a3013c",
@@ -474,106 +480,6 @@
       "published": "2026-10",
       "summary": "北京十月文艺出版社 / 59元 / 平装",
       "discovered_at": "2026-11-21T15:37:28+08:00"
-    },
-    {
-      "id": "5a68c8624301788e",
-      "title": "假如生活欺骗了你：普希金抒情诗选",
-      "link": "https://book.douban.com/subject/38908548/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[俄罗斯]亚历山大·谢尔盖耶维奇·普希金",
-      "published": "2026-9",
-      "summary": "江苏凤凰文艺出版社 / 78 / 精装",
-      "discovered_at": "2026-11-20T15:40:16+08:00"
-    },
-    {
-      "id": "28f69e52b1590871",
-      "title": "文学理论",
-      "link": "https://book.douban.com/subject/38414683/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[美] 勒内·韦勒克 / [美] 奥斯汀·沃伦",
-      "published": "2026-11",
-      "summary": "北京联合出版公司",
-      "discovered_at": "2026-11-20T15:40:16+08:00"
-    },
-    {
-      "id": "f419076eb4343a4b",
-      "title": "流动的世界：日出日没之间的大元史",
-      "link": "https://book.douban.com/subject/38586432/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "邱轶皓",
-      "published": "2026-10",
-      "summary": "上海人民出版社 / 128.00元 / 精装",
-      "discovered_at": "2026-11-20T15:40:16+08:00"
-    },
-    {
-      "id": "6f5dae300f944e15",
-      "title": "新夏娃的激情",
-      "link": "https://book.douban.com/subject/38609169/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[英] 安吉拉·卡特",
-      "published": "2026-10",
-      "summary": "北京联合出版公司 / 空脊锁线平装",
-      "discovered_at": "2026-11-20T15:40:16+08:00"
-    },
-    {
-      "id": "55ebaa8e84259c97",
-      "title": "小偷之子",
-      "link": "https://book.douban.com/subject/37897231/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[智] 曼努埃尔·罗哈斯",
-      "published": "2026-10",
-      "summary": "北京联合出版公司 / 平装",
-      "discovered_at": "2026-11-20T15:40:16+08:00"
-    },
-    {
-      "id": "4fdfb7ca0b90f2e8",
-      "title": "威尼斯的石头：基础，大海的故事，衰落",
-      "link": "https://book.douban.com/subject/37470541/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[英] 约翰·罗斯金",
-      "published": "2026-10",
-      "summary": "上海三联书店 / 298.00元 / 精装",
-      "discovered_at": "2026-11-20T15:40:16+08:00"
-    },
-    {
-      "id": "08ad3b610a710751",
-      "title": "华纳兄弟传",
-      "link": "https://book.douban.com/subject/38461575/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "(美) 克里斯·约格斯特（Chris Yogerst）",
-      "published": "2026-10",
-      "summary": "人民文学出版社 / 98.00元 / 平装",
-      "discovered_at": "2026-11-20T15:40:16+08:00"
-    },
-    {
-      "id": "4ac895cea8806475",
-      "title": "理解人体结构I：表现人体形态、功能及动作的实用解剖书",
-      "link": "https://book.douban.com/subject/39007757/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "[美] 瓦莱丽·L. 温斯洛",
-      "published": "2026-11",
-      "summary": "湖南美术出版社 / 188.00元 / 空脊平装",
-      "discovered_at": "2026-11-19T15:48:11+08:00"
-    },
-    {
-      "id": "e7deb27b044fc8f9",
-      "title": "一生一敦煌：常沙娜人生自述",
-      "link": "https://book.douban.com/subject/38938095/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "常沙娜",
-      "published": "2026-10-12",
-      "summary": "中信出版集团 / 138 / 精装",
-      "discovered_at": "2026-11-19T15:48:11+08:00"
-    },
-    {
-      "id": "d9d50fc571950050",
-      "title": "追忆往还录：普鲁斯特、纪德通信集",
-      "link": "https://book.douban.com/subject/38651057/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[法]马塞尔·普鲁斯特 / [法]安德烈·纪德",
-      "published": "2026-10",
-      "summary": "四川文艺出版社 / 49.00元 / 精装",
-      "discovered_at": "2026-11-19T15:48:11+08:00"
     }
   ]
 }
