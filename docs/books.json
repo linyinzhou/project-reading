@@ -1,16 +1,100 @@
 {
-  "generated_at": "2026-11-27T17:00:06+08:00",
+  "generated_at": "2026-11-28T16:19:20+08:00",
   "timezone": "Asia/Shanghai",
-  "fetched_count": 0,
-  "matched_count": 0,
-  "source_errors": [
-    "豆瓣新书速递 · 文学: <urlopen error _ssl.c:994: The handshake operation timed out>",
-    "豆瓣新书速递 · 小说: <urlopen error _ssl.c:994: The handshake operation timed out>",
-    "豆瓣新书速递 · 历史文化: <urlopen error _ssl.c:994: The handshake operation timed out>",
-    "豆瓣新书速递 · 社会纪实: <urlopen error _ssl.c:994: The handshake operation timed out>",
-    "豆瓣新书速递 · 艺术设计: <urlopen error _ssl.c:994: The handshake operation timed out>"
-  ],
+  "fetched_count": 96,
+  "matched_count": 75,
+  "source_errors": [],
   "books": [
+    {
+      "id": "e6721caa865131a7",
+      "title": "臺北故事",
+      "link": "https://book.douban.com/subject/38544103/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "匡靈秀",
+      "published": "2026-9-10",
+      "summary": "臉譜 / NT$499 / 平装",
+      "discovered_at": "2026-11-28T16:19:20+08:00"
+    },
+    {
+      "id": "344d0f5719662703",
+      "title": "贝琳达的玫瑰花",
+      "link": "https://book.douban.com/subject/38923787/",
+      "source": "豆瓣新书速递 · 文学",
+      "author": "[意]伊塔洛·卡尔维诺 编著",
+      "published": "2026-11",
+      "summary": "中国中福会出版社 / 27.00元 / 平装",
+      "discovered_at": "2026-11-28T16:19:20+08:00"
+    },
+    {
+      "id": "42b50ab46bc2cb8c",
+      "title": "一个从未存在的帝国",
+      "link": "https://book.douban.com/subject/38618588/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[阿根廷] 安赫莉卡·戈罗迪舍",
+      "published": "2026-11",
+      "summary": "北京联合出版公司 / 64.00元 / 平装",
+      "discovered_at": "2026-11-28T16:19:20+08:00"
+    },
+    {
+      "id": "1bc2330defde3510",
+      "title": "神圣的夜晚",
+      "link": "https://book.douban.com/subject/37180711/",
+      "source": "豆瓣新书速递 · 小说",
+      "author": "[摩洛哥] 塔哈尔·本·杰伦",
+      "published": "2026-10",
+      "summary": "湖南文艺出版社 / 38.00元 / 平装口袋本",
+      "discovered_at": "2026-11-28T16:19:20+08:00"
+    },
+    {
+      "id": "4fdfb7ca0b90f2e8",
+      "title": "威尼斯的石头：基础，大海的故事，衰落",
+      "link": "https://book.douban.com/subject/37470541/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[英] 约翰·罗斯金",
+      "published": "2026-10",
+      "summary": "上海三联书店 / 298.00元 / 精装",
+      "discovered_at": "2026-11-28T16:19:20+08:00"
+    },
+    {
+      "id": "504620b9ac231525",
+      "title": "四季花传书",
+      "link": "https://book.douban.com/subject/38672439/",
+      "source": "豆瓣新书速递 · 艺术设计",
+      "author": "[日]川濑敏郎",
+      "published": "2026-10",
+      "summary": "湖南人民出版社 / 96.00元 / 精装",
+      "discovered_at": "2026-11-28T16:19:20+08:00"
+    },
+    {
+      "id": "784571572403e787",
+      "title": "反思现代工作",
+      "link": "https://book.douban.com/subject/38939216/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "王行坤",
+      "published": "2026-10",
+      "summary": "中国人民大学出版社 / 79 / 平装",
+      "discovered_at": "2026-11-28T16:19:20+08:00"
+    },
+    {
+      "id": "51c2d9b0e279d08b",
+      "title": "制造奥古斯塔：罗马帝国第一夫人传",
+      "link": "https://book.douban.com/subject/38560063/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "[加] 安东尼·亚瑟·巴雷特",
+      "published": "2026-10",
+      "summary": "上海社会科学院出版社 / 78.00元 / 平装",
+      "discovered_at": "2026-11-28T16:19:20+08:00"
+    },
+    {
+      "id": "8c855588d4aa4d97",
+      "title": "文本网络中的历史编纂：《类编皇朝中兴大事记讲义》与宋元之际南宋史知识的“再生产”",
+      "link": "https://book.douban.com/subject/39009831/",
+      "source": "豆瓣新书速递 · 历史文化",
+      "author": "杨光",
+      "published": "2026",
+      "summary": "上海人民出版社",
+      "discovered_at": "2026-11-28T16:19:20+08:00"
+    },
     {
       "id": "502aa89124a3013c",
       "title": "洛夫戴先生的小出游",
@@ -390,96 +474,6 @@
       "published": "2026-10",
       "summary": "生活·读书·新知三联书店 / 79.00元 / 精装",
       "discovered_at": "2026-11-22T15:19:19+08:00"
-    },
-    {
-      "id": "9f8e469371dab90f",
-      "title": "社会主义喜剧文化中的“上海”（1949-1966）",
-      "link": "https://book.douban.com/subject/38929156/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "朱羽",
-      "published": "2026-9",
-      "summary": "复旦大学出版社 / 45.00元 / 平装",
-      "discovered_at": "2026-11-21T15:37:28+08:00"
-    },
-    {
-      "id": "7b111ecab6c4a2f5",
-      "title": "春天存留",
-      "link": "https://book.douban.com/subject/38521386/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "沈书枝",
-      "published": "2026-9",
-      "summary": "译林出版社 / 78.00元 / 平装",
-      "discovered_at": "2026-11-21T15:37:28+08:00"
-    },
-    {
-      "id": "651336eee2698b3b",
-      "title": "场景设定创意宝库：故事舞台之都市场所，写出现实的细节",
-      "link": "https://book.douban.com/subject/38613840/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "［加］安杰拉·阿克曼 / ［意］贝卡·普利西 / Angela Ackerman / Becca Puglisi",
-      "published": "2026-9",
-      "summary": "中国友谊出版公司 / 75.00元 / 平装",
-      "discovered_at": "2026-11-21T15:37:28+08:00"
-    },
-    {
-      "id": "a6a8cd96a76887d7",
-      "title": "财阀、先知、主帅与君王：时势还是英雄？",
-      "link": "https://book.douban.com/subject/38626193/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 贾雷德·戴蒙德",
-      "published": "2026-11-1",
-      "summary": "中信出版社 / 89.00元 / 精装",
-      "discovered_at": "2026-11-21T15:37:28+08:00"
-    },
-    {
-      "id": "db8d43b47643e270",
-      "title": "离地生根：植物、边界与归属之间",
-      "link": "https://book.douban.com/subject/38408074/",
-      "source": "豆瓣新书速递 · 文学",
-      "author": "[加] 李洁珂（Jessica J. Lee）",
-      "published": "2026-10",
-      "summary": "上海书店出版社 / 65元 / 平装",
-      "discovered_at": "2026-11-21T15:37:28+08:00"
-    },
-    {
-      "id": "8dbc8cdc071a4f01",
-      "title": "明焰前身：江南七怪谈",
-      "link": "https://book.douban.com/subject/38626175/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "林戈声",
-      "published": "2026-10",
-      "summary": "广西师范大学出版社 / 65.00 / 平装",
-      "discovered_at": "2026-11-21T15:37:28+08:00"
-    },
-    {
-      "id": "71abacd260bb6d1c",
-      "title": "意义的诞生与消亡",
-      "link": "https://book.douban.com/subject/38671942/",
-      "source": "豆瓣新书速递 · 历史文化",
-      "author": "[美] 厄内斯特·贝克尔",
-      "published": "2026-10",
-      "summary": "东方出版中心 / 88.00元 / 平装",
-      "discovered_at": "2026-11-21T15:37:28+08:00"
-    },
-    {
-      "id": "718f80e89e7fba6d",
-      "title": "寂静的重量：西方艺术名作细读",
-      "link": "https://book.douban.com/subject/38377388/",
-      "source": "豆瓣新书速递 · 艺术设计",
-      "author": "",
-      "published": "2026-10",
-      "summary": "生活·读书·新知三联书店 / 85.00元 / 平装",
-      "discovered_at": "2026-11-21T15:37:28+08:00"
-    },
-    {
-      "id": "0f80e1b662c73e00",
-      "title": "女孩和女人的生活",
-      "link": "https://book.douban.com/subject/38542213/",
-      "source": "豆瓣新书速递 · 小说",
-      "author": "[加] 艾丽丝·门罗",
-      "published": "2026-10",
-      "summary": "北京十月文艺出版社 / 59元 / 平装",
-      "discovered_at": "2026-11-21T15:37:28+08:00"
     }
   ]
 }
